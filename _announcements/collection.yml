@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Invitation to Parents Gateway.md
       - Announcements.md
