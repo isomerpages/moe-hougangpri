@@ -1,0 +1,4 @@
+collections:
+  hgp-heartbeat-enewsletter:
+    output: true
+    order: []
