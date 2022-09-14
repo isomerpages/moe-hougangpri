@@ -2,5 +2,6 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Innovative Projects/Heritage Wall.md
       - Innovative Projects/.keep
       - Home–Based Learning (HBL).md
