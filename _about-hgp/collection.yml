@@ -2,4 +2,5 @@ collections:
   about-hgp:
     output: true
     order:
+      - Canteen Menu.md
       - Our Location.md
