@@ -2,6 +2,7 @@ collections:
   about-hgp:
     output: true
     order:
+      - Vision, Mission & Motto.md
       - Our Identity.md
       - Our Staff/Our Staff.md
       - Our Staff/Teacher Leaders.md
