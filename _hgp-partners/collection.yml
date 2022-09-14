@@ -2,5 +2,6 @@ collections:
   hgp-partners:
     output: true
     order:
+      - Family Matters @ HGP.md
       - Student Care Centre.md
       - Internet Links.md
