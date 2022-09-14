@@ -1,5 +1,43 @@
 logo: /images/logo.jpg
 links:
+  - title: About HGP
+    url: /about-hgp
+    sublinks:
+      - title: Principal's Message
+        url: /about-hgp/principals-message
+      - title: Vision, Mission & Motto
+        url: /about-hgp/vision-mission-n-motto
+      - title: Our Identity
+        url: /about-hgp/our-identity
+      - title: Our Staff
+        url: /about-hgp/our-staff
+      - title: School Safety Info
+        url: /about-hgp/school-safety-info
+      - title: Media Resource Library
+        url: /about-hgp/media-resource-library
+      - title: Canteen Menu
+        url: /about-hgp/canteen-menu
+      - title: Our Location
+        url: /about-hgp/our-location
+  - title: HGP Partners
+    url: /hgp-partners/hgp-sac
+    sublinks:
+      - title: HGP SAC
+        url: /hgp-partners/hgp-sac
+      - title: Parents-in-Action (PiA)
+        url: /hgp-partners/parents-in-action-pia
+      - title: HGP Student Alumni
+        url: /hgp-partners/hgp-student-alumni
+      - title: 40-hour PV
+        url: /hgp-partners/40-hour-pv
+      - title: Resources for Parents
+        url: /hgp-partners/resources-for-parents
+      - title: Family Matters @ HGP
+        url: /hgp-partners/family-matters-at-hgp
+      - title: Student Care Centre
+        url: /hgp-partners/student-care-centre
+      - title: Internet Links
+        url: /hgp-partners/links/internet-links
   - title: Contact Us
     url: /contact-us
     sublinks:
