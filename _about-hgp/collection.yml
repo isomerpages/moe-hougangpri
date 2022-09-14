@@ -2,6 +2,7 @@ collections:
   about-hgp:
     output: true
     order:
+      - School Safety Info.md
       - Media Resource Library.md
       - Canteen Menu.md
       - Our Location.md
