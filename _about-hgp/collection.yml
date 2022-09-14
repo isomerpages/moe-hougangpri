@@ -2,5 +2,6 @@ collections:
   about-hgp:
     output: true
     order:
+      - Media Resource Library.md
       - Canteen Menu.md
       - Our Location.md
