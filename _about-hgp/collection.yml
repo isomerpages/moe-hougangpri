@@ -2,6 +2,7 @@ collections:
   about-hgp:
     output: true
     order:
+      - Our Staff/Teacher Leaders.md
       - Our Staff/Form Teachers.md
       - Our Staff/Allied Educators.md
       - Our Staff/.keep
