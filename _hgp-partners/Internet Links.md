@@ -36,3 +36,32 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Links for Students</strong></h4>
+<table width="625">
+<tbody>
+<tr>
+<td><strong>SLS</strong></td>
+<td><a href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a></td>
+</tr>
+<tr>
+<td><strong>Artitude</strong></td>
+<td><a href="http://artitudehgp.tumblr.com/">http://artitudehgp.tumblr.com</a></td>
+</tr>
+<tr>
+<td><strong>NetSmartz Kids</strong></td>
+<td><a href="http://www.netsmartzkids.org/">http://www.netsmartzkids.org</a></td>
+</tr>
+<tr>
+<td><strong>Avoiding Online Gaming Addiction</strong></td>
+<td><a href="http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction">http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction</a></td>
+</tr>
+<tr>
+<td><strong>AsknLearn</strong></td>
+<td><a href="https://lms.asknlearn.com/hougang_pri/login.aspx">https://lms.asknlearn.com/hougang_pri/login.aspx</a></td>
+</tr>
+<tr>
+<td><strong>Parents Gateway</strong></td>
+<td><a href="https://pg.moe.edu.sg/">https://pg.moe.edu.sg/</a></td>
+</tr>
+</tbody>
+</table>
