@@ -2,4 +2,5 @@ collections:
   hgp-partners:
     output: true
     order:
+      - Student Care Centre.md
       - Internet Links.md
