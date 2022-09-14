@@ -1,4 +1,5 @@
 collections:
   hgp-partners:
     output: true
-    order: []
+    order:
+      - Internet Links.md
