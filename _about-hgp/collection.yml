@@ -1,0 +1,4 @@
+collections:
+  about-hgp:
+    output: true
+    order: []
