@@ -1,4 +1,5 @@
 collections:
   about-hgp:
     output: true
-    order: []
+    order:
+      - Our Location.md
