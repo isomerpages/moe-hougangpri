@@ -2,4 +2,5 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Home/Home.md
       - Home/.keep
