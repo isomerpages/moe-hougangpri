@@ -2,6 +2,7 @@ collections:
   hgp-partners:
     output: true
     order:
+      - Resources for Parents/40–hour PV.md
       - Resources for Parents/Resources for Parents.md
       - Resources for Parents/Parents in Education (PiE).md
       - Resources for Parents/.keep
