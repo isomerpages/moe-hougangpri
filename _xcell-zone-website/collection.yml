@@ -1,4 +1,5 @@
 collections:
   xcell-zone-website:
     output: true
-    order: []
+    order:
+      - Home/.keep
