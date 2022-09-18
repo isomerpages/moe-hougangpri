@@ -2,6 +2,7 @@ collections:
   plants:
     output: true
     order:
+      - Medicinal Plants.md
       - Toxic Plants.md
       - Weeds.md
       - Vegetable Plots.md
