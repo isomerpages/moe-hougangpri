@@ -2,6 +2,7 @@ collections:
   plants:
     output: true
     order:
+      - Toxic Plants.md
       - Weeds.md
       - Vegetable Plots.md
       - Roots and Stems.md
