@@ -2,6 +2,7 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Home/Fungi.md
       - Home/Life Science Lab.md
       - Home/Heritage Walk.md
       - Home/Outdoor Classroom.md
