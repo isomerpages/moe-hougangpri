@@ -23,3 +23,5 @@ third_nav_title: Home
 <img style="width: 100%;" src="/images/ep10.png" />
 <img style="width: 100%;" src="/images/ep11.png" />
 <img style="width: 80%;" src="/images/ep12.png" />
+<p>This plant can grow about 50cm above water. The flowers are yellow and the seeds usually drift away in the breeze. The seeds are therefore either dispersed by wind or water.</p>
+<p>It is also an edible herb. The young leaves are eaten as a vegetable in most parts of Southeast Asia. The whole plant is also used to feed pigs and fish.</p>
