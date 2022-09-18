@@ -2,6 +2,7 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Home/Discovery Corner.md
       - Home/Eco Pond.md
       - Home/Fernery.md
       - Home/Fruit Trees.md
