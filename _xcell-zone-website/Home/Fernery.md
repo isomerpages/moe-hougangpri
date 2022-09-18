@@ -15,4 +15,5 @@ third_nav_title: Home
 <img style="width: 80%;" src="/images/fer7.png" />
 <img style="width: 80%;" src="/images/fer8.png" />
 <img style="width: 80%;" src="/images/fer9.png" />
+<p><strong>Others</strong></p>
 <img style="width: 80%;" src="/images/fer10.png" />
