@@ -2,6 +2,7 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Home/Fruit Trees.md
       - Home/Plants.md
       - Home/Fungi.md
       - Home/Life Science Lab.md
