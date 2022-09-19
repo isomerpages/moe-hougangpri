@@ -2,6 +2,7 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Programmes.md
       - Our Innovations.md
       - Competitions.md
       - Home/.keep
