@@ -2,19 +2,6 @@ collections:
   xcell-zone-website:
     output: true
     order:
-      - Competitions/2004.md
-      - Competitions/2005.md
-      - Competitions/2006.md
-      - Competitions/2007.md
-      - Competitions/2008.md
-      - Competitions/2009.md
-      - Competitions/2010.md
-      - Competitions/2011.md
-      - Competitions/2012.md
-      - Competitions/2013.md
-      - Competitions/2014.md
-      - Competitions/2015.md
-      - Competitions/.keep
       - Home/.keep
       - Home/Home.md
       - Home/Animals Enclosure.md
@@ -34,4 +21,17 @@ collections:
       - Forward.md
       - Programmes.md
       - Our Innovations.md
+      - Competitions/.keep
+      - Competitions/2004.md
+      - Competitions/2005.md
+      - Competitions/2006.md
+      - Competitions/2007.md
+      - Competitions/2008.md
+      - Competitions/2009.md
+      - Competitions/2010.md
+      - Competitions/2011.md
+      - Competitions/2012.md
+      - Competitions/2013.md
+      - Competitions/2014.md
+      - Competitions/2015.md
       - Competitions.md
