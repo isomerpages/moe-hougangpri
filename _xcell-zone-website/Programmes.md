@@ -35,4 +35,4 @@ description: ""
 <p><strong>Primary 6 Stretched classes DNA Detectives (Genetics Programme)<br /></strong>This lesson demonstrates how DNA can be used in the crime lab to solve mysteries. Students act as forensic scientists and use the process of Gel Electrophoresis to identify a murderer.</p>
 <img style="width: 85%;" src="/images/prog14.png" />
 <p><strong>Primary 6 Exploration of Natural Habitat<br /></strong>After the SA2 examinations, our P6 pupils headed off to Sungei Buloh Wetlands Reserves on a learning journey. In tandem with the theme on Interactions with the Environment, the pupils were brought around by experienced and qualified guides to learn more about the adaptations of the flora and fauna in the harsh environment and how man&rsquo;s action could have an impact on our natural environment. They see for themselves how they could apply their knowledge learnt in the classroom into an authentic environment and witness the efforts put in to protect our natural heritage.</p>
-<img style="width: 85%;" src="/images/prog15.png" />
+<img style="width: 100%;" src="/images/prog15.png" />
