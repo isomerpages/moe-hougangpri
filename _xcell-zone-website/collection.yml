@@ -2,6 +2,7 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Competitions/2006.md
       - Competitions/2007.md
       - Competitions/2008.md
       - Competitions/2009.md
