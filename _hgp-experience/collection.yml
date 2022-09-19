@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/SDT.md
       - Total Curriculum/CCAs.md
       - Total Curriculum/.keep
       - Applied Learning Programme/.keep
