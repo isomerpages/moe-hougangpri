@@ -2,6 +2,8 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Home/.keep
+      - Home/Home.md
       - Home/Animals Enclosure.md
       - Home/Animals.md
       - Home/Butterfly Garden.md
@@ -16,5 +18,3 @@ collections:
       - Home/Heritage Walk.md
       - Home/Outdoor Classroom.md
       - Home/Videos.md
-      - Home/Home.md
-      - Home/.keep
