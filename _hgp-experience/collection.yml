@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/Sexuality Education in Schools.md
       - Total Curriculum/Cyber Wellness.md
       - Total Curriculum/Character & Citizenship Education.md
       - Total Curriculum/SDT.md
