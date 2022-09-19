@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/Cyber Wellness.md
       - Total Curriculum/Character & Citizenship Education.md
       - Total Curriculum/SDT.md
       - Total Curriculum/CCAs.md
