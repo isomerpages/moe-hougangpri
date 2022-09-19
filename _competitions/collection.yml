@@ -1,5 +1,0 @@
-collections:
-  competitions:
-    output: true
-    order:
-      - Competitions.md
