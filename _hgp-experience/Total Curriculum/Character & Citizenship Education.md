@@ -42,3 +42,36 @@ third_nav_title: Total Curriculum
 </tr>
 </tbody>
 </table>
+<h4><strong>Artifacts Display</strong></h4>
+<p>There are a total of 8 artifacts which have been selected for display on Hougang Primary School Heritage Wall. Click on the link below to read up more about these artifacts.<br /><br /><a href="/files/HPS_Artifacts_compressed%20(1)%20(1).pdf" target="_blank" rel="noopener">Artifacts Display</a><br /><br /></p>
+<h4><strong>&lsquo;Use My Hands&rsquo; Campaign</strong></h4>
+<p>This campaign seeks to instill in our students a sense of responsibility in their daily actions by keeping the classroom clean.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/cce9.jpg"></td>
+<td style="width: 50%;"><img src="/images/cce10.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Non-Teaching Staff (NTS) Appreciation Day</strong></h4>
+<p>This event seeks to raise our students&rsquo; awareness that the NTS contribute in their own ways to create a positive learning environment in our school and this day is an opportunity to show our care and appreciation to them.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/cce11.jpg"></td>
+<td style="width: 50%;"><img src="/images/cce12.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>School Values Card (New)</strong></h4>
+<p>Aligned closely to our school values of Care, Integrity, Resilience and Responsibility, a set of School Values Card has been created for the P1 to P3 students to help them&nbsp;understand the importance of these values and&nbsp;to display these values through their daily actions wef 2020.</p>
+<p><strong>To augment our efforts in character development and to recognise students&rsquo; efforts, the school has institutionalised the following awards :</strong></p>
+<p><strong>STAR Awards@Hougang</strong></p>
+<p>We would like to motivate our students to give their best in their work, attitude and behaviour. To recognize their efforts, our students can look forward to our STAR Awards@Hougang where students are nominated for this award by their teachers on a semestral basis. Students will receive a STAR Award certificate and have their photographs and citations of their good behaviour displayed at the school foyer.</p>
+<p><strong>HGP Character Award@Hougang (New)</strong></p>
+<p>This is a new Character Award wef 2019. It is given to reward an exemplary student of good character from each class. This award is given out at our annual Prize Giving Day which has been renamed as HGP Celebrates.</p>
+<p><strong>Active Learner Award@Hougang (New)</strong></p>
+<p>The Active Learner Award is given to P1 and P2 students who have shown the right attitude and behavior towards learning wef 2019. This award is given out in class at the end of the year.</p>
+<p><strong>Cleanest Classroom Award@Hougang (New)</strong></p>
+<p>Building on &ldquo;Use My Hands&rdquo; campaign, this award is given to the cleanest class of each level to affirm the students for displaying a sense of responsibility in keeping the classroom clean.</p>
