@@ -1,4 +1,5 @@
 collections:
   competitions:
     output: true
-    order: []
+    order:
+      - Competitions.md
