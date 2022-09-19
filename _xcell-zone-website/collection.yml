@@ -2,6 +2,7 @@ collections:
   xcell-zone-website:
     output: true
     order:
+      - Home/Animals Enclosure.md
       - Home/Animals.md
       - Home/Butterfly Garden.md
       - Home/Cacti.md
