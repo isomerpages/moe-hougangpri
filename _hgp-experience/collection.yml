@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/.keep
       - Applied Learning Programme/.keep
       - Applied Learning Programme/ALP (Applied Learning Programme).md
       - Applied Learning Programme/Xcell Zone Website.md
