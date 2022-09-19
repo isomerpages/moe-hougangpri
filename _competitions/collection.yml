@@ -1,0 +1,4 @@
+collections:
+  competitions:
+    output: true
+    order: []
