@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Infocomm Club.md
       - Media Resource Library.md
       - Photography Club.md
       - Scouts.md
