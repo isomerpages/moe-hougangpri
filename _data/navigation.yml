@@ -19,6 +19,19 @@ links:
         url: /about-hgp/canteen-menu
       - title: Our Location
         url: /about-hgp/our-location
+  - title: HGP Experience
+    url: /hgp-experience/total-curriculum
+    sublinks:
+      - title: Total Curriculum
+        url: /hgp-experience/total-curriculum
+      - title: Applied Learning Programme
+        url: /hgp-experience/alp-applied-learning-programme
+      - title: Learning for Life Programme
+        url: /hgp-experience/llp-learning-for-life-programme
+      - title: Innovative Projects
+        url: /hgp-experience/innovative-projects/coding-at-hgp
+      - title: Home-Based Learning
+        url: /hgp-experience/home-based-learning-hbl
   - title: HGP Partners
     url: /hgp-partners/hgp-sac
     sublinks:
