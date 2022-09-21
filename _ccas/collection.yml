@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - FAST.md
       - Wushu.md
       - Football.md
       - Sport Climbing.md
