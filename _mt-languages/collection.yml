@@ -1,0 +1,4 @@
+collections:
+  mt-languages:
+    output: true
+    order: []
