@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - CCAs.md
       - FAST.md
       - Wushu.md
       - Football.md
@@ -23,4 +24,3 @@ collections:
       - Art Club.md
       - Pottery.md
       - Drama Club.md
-      - CCAs.md
