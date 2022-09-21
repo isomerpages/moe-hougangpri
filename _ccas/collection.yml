@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sport Climbing.md
       - Hockey.md
       - Volleyball.md
       - Green Club.md
