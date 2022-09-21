@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/Science.md
       - Total Curriculum/MT Languages.md
       - Total Curriculum/Physical and Outdoor Education Department (POD).md
       - Total Curriculum/ICT & Innovation Department.md
