@@ -3,10 +3,8 @@ title: MT Languages
 permalink: /hgp-experience/total-curriculum/mt-languages/
 description: ""
 ---
-<p><strong>Vision</strong></p>
-<p>Our students are proficient in the Mother Tongue Language; have a love for their cultural heritage; and are rooted in moral values</p>
-<p><strong>Mission</strong></p>
-<p>To develop our students to be proficient and confident in their command of the Mother Tongue Language; to inculcate in them a love and passion for their own native culture; and to transmit and instil moral values in our young.</p>
+<p><strong>Vision</strong><br>Our students are proficient in the Mother Tongue Language; have a love for their cultural heritage; and are rooted in moral values</p>
+<p><strong>Mission</strong><br>To develop our students to be proficient and confident in their command of the Mother Tongue Language; to inculcate in them a love and passion for their own native culture; and to transmit and instil moral values in our young.</p>
 <p>Through the delivery of the MOE and school based curriculum, as well as the provision of school-wide programmes, we hope that our students will be able to</p>
 <ul>
 <li>communicate confidently and effectively using the Mother Tongue Language</li>
