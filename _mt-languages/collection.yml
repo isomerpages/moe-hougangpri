@@ -2,5 +2,6 @@ collections:
   mt-languages:
     output: true
     order:
+      - Tamil Language.md
       - Chinese Language.md
       - MT Languages.md
