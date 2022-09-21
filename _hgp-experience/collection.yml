@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/Total Curriculum.md
       - Total Curriculum/English.md
       - Total Curriculum/Mathematics.md
       - Total Curriculum/Science.md
