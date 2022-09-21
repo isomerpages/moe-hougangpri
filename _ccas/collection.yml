@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Media Resource Library.md
       - Photography Club.md
       - Scouts.md
       - Chinese Dance.md
