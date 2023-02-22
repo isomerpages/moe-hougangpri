@@ -13,9 +13,6 @@ sections:
           description: ""
           url: /hgps/announcements
         - title: Links
-          description: ""
+          description: For Teachers, Students & Parents
           url: /hgp-partners/links/internet-links
-        - title: Virtual Tour
-          description: ""
-          url: ""
 ---
