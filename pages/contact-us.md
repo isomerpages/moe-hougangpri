@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Hougang Primary School
 locations:
   - address:
-      - "1 "
-      - Hougang Street 93
+      - 1 Hougang Street 93
       - Singapore 534238
+      - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/6b4uhacfYCsbg2TbA
+    maps_link: https://goo.gl/maps/v7FLKN9o86oJR18Q6
     title: Address
 contacts:
   - content:
