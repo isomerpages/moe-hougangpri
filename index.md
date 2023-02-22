@@ -10,12 +10,12 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
-          description: VIEW ALL
+          description: ""
           url: /hgps/announcements
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Links
+          description: ""
           url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Virtual Tour
+          description: ""
           url: ""
 ---
