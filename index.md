@@ -12,4 +12,10 @@ sections:
         - title: Announcements
           description: VIEW ALL
           url: /hgps/announcements
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
