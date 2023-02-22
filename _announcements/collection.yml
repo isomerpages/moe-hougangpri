@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Purchase of School Uniform.md
       - MOE Kindergarten (MK).md
       - Invitation to Parents Gateway.md
