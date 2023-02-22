@@ -1,6 +1,6 @@
 title: Hougang Primary School
 url: https://hougangpri.moe.edu.sg
-favicon: /images/logo.jpg
+favicon: /images/HGPS_crest_bgremoved.png
 colors:
   primary-color: "#ef9904"
   secondary-color: "#00257b"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: Official website of Hougang Primary School
 permalink: none
 baseurl: ""
 exclude:
