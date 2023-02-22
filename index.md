@@ -14,7 +14,7 @@ sections:
           url: /hgps/announcements
         - title: Links
           description: ""
-          url: ""
+          url: /hgp-partners/links/internet-links
         - title: Virtual Tour
           description: ""
           url: ""
