@@ -10,7 +10,7 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
-          description: ""
+          description: For Students & Parents
           url: /hgps/announcements
         - title: Links
           description: For Teachers, Students & Parents
