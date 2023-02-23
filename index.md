@@ -8,12 +8,15 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      key_highlights:
-        - title: Announcements
-          description: For Students & Parents
-          url: /hgps/announcements
-        - title: Links
-          description: For Teachers, Students & Parents
-          url: /hgp-partners/links/internet-links
+      dropdown:
+        title: Welcome to HGP School Website
+        options:
+          - title: Links
+            url: ""
+          - title: Announcements
+            url: ""
+          - title: Contact Us
+            url: ""
+          - title: Our Staff
+            url: ""
 ---
-
