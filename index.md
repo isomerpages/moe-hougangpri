@@ -8,15 +8,17 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      dropdown:
-        title: Welcome to HGP School Website
-        options:
-          - title: Links
-            url: ""
-          - title: Announcements
-            url: ""
-          - title: Contact Us
-            url: ""
-          - title: Our Staff
-            url: ""
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
+        - title: Links
+          description: ""
+          url: ""
+        - title: Virtual Tour
+          description: ""
+          url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
+        - title: HGP Heartbeat e Newsletter
+          description: Key Highlight description
+          url: ""
 ---
