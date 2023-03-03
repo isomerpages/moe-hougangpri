@@ -19,6 +19,6 @@ sections:
           description: ""
           url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
         - title: HGP Heartbeat e Newsletter
-          description: Key Highlight description
+          description: ""
           url: ""
 ---
