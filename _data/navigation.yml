@@ -60,4 +60,14 @@ links:
         url: /contact-us/spssc-national-school-games-2022-sailing
   - title: CCA
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: CCA Overview
+        url: /permalink
+      - title: Sports
+        url: /permalink
+      - title: Clubs
+        url: /permalink
+      - title: Uniformed Group
+        url: /permalink
+      - title: Arts
+        url: /permalink
