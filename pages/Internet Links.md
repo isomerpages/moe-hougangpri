@@ -52,8 +52,6 @@ description: ""
 <td><a href="http://www.netsmartzkids.org/">http://www.netsmartzkids.org</a></td>
 </tr>
 <tr>
-<td><strong>Avoiding Online Gaming Addiction</strong></td>
-<td><a href="http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction">http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction</a></td>
 </tr>
 <tr>
 <td><strong>Google Classroom</strong></td>
