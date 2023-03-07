@@ -26,3 +26,6 @@ Learning from textbooks and high-stakes assessments is unlikely to stick in the 
 During a magic show, the audience is typically mesmerised by counter-intuitive experiences that make them pause and ponder, “How did that happen?” Similarly, we want school-life to encompass magical experiences for our children as well, piquing their imagination and exciting them to step out of their comfort zone to discover new learning that they had never encountered before. Indeed, it is only by discovering the “a-ha” moments that they can truly love what they learn and create new magic in learning for themselves.
 
 Last year, we published our first two issues of our _HGP Heartbeat_ school e-newsletter, capturing the stories and images of our students immersing themselves in many of the learning opportunities provided by the school. I invite you to scan the QR codes below to find out more, and welcome you to join us in this magical learning adventure at HGP!
+
+Jason Goh  
+Principal
