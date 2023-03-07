@@ -3,7 +3,6 @@ title: Compliments & Feedback
 permalink: /contact-us/compliments-feedback/
 description: ""
 ---
-
 <p>Dear Parents,</p>
 <p>We would like to hear from you&nbsp;on areas that we can improve as a school to serve you better.</p>
 <p>Feel free to&nbsp;share your comments and feedback with us whether through email, phone or even in person!</p>
