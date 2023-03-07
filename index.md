@@ -13,7 +13,7 @@ sections:
           description: ""
           url: ""
         - title: Links
-          description: ""
+          description: For teachers, students/parents
           url: /internet-links
         - title: Virtual Tour
           description: ""
