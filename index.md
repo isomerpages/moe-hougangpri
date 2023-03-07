@@ -14,7 +14,7 @@ sections:
           url: ""
         - title: Links
           description: ""
-          url: ""
+          url: /internet-links
         - title: Virtual Tour
           description: ""
           url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
