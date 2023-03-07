@@ -2,17 +2,17 @@ collections:
   about-hgp:
     output: true
     order:
-      - Compliments & Feedback.md
       - About HGP.md
       - Principal's Message.md
       - Vision, Mission & Motto.md
       - Our Identity.md
+      - Our Staff/.keep
       - Our Staff/Our Staff.md
       - Our Staff/Teacher Leaders.md
       - Our Staff/Form Teachers.md
       - Our Staff/Allied Educators.md
-      - Our Staff/.keep
       - School Safety Info.md
       - Media Resource Library.md
       - Canteen Menu.md
       - Our Location.md
+      - Compliments & Feedback.md
