@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Sports Main.md
       - Sports/FAST.md
       - Sports/Volleyball.md
       - Sports/Hockey.md
