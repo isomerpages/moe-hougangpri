@@ -15,7 +15,7 @@ sections:
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
-        - title: Virtual Tour
+        - title: HGP Virtual Tour
           description: ""
           url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
         - title: HGP Heartbeat
