@@ -17,7 +17,7 @@ links:
         url: /about-hgp/media-resource-library
       - title: Canteen Menu
         url: /about-hgp/canteen-menu
-      - title: Our Location
+      - title: Contact Us
         url: /about-hgp/our-location
   - title: HGP Experience
     url: /hgp-experience/total-curriculum
@@ -56,8 +56,6 @@ links:
     sublinks:
       - title: Compliments/Feedback
         url: /contact-us/compliments-feedback
-      - title: SPSSC 2023 - Sailing
-        url: /contact-us/spssc-national-school-games-2022-sailing
   - title: CCA
     url: /hgp-experience/total-curriculum/ccas/
     sublinks:
