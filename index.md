@@ -18,7 +18,7 @@ sections:
         - title: Virtual Tour
           description: ""
           url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
-        - title: HGP Heartbeat e Newsletter
-          description: ""
+        - title: HGP Heartbeat
+          description: eNewsletter
           url: /hgp-heartbeat-enewsletter
 ---
