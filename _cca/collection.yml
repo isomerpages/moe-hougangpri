@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Sport Climbing.md
       - Sports/.keep
       - CCA Main.md
       - CCAs.md
