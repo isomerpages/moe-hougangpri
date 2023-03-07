@@ -3,8 +3,6 @@ title: Internet Links
 permalink: /internet-links/
 description: ""
 ---
-
-
 <h4><strong>Links for Teachers</strong></h4>
 <table width="0">
 <tbody>
@@ -58,8 +56,8 @@ description: ""
 <td><a href="http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction">http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction</a></td>
 </tr>
 <tr>
-<td><strong>AsknLearn</strong></td>
-<td><a href="https://lms.asknlearn.com/hougang_pri/login.aspx">https://lms.asknlearn.com/hougang_pri/login.aspx</a></td>
+<td><strong>Google Classroom</strong></td>
+<td><a href="https://workspace.google.com/dashboard">https://workspace.google.com/dashboard</a></td>
 </tr>
 <tr>
 <td><strong>Parents Gateway</strong></td>
