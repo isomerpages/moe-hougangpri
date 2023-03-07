@@ -3,7 +3,6 @@ title: Contact Us & Our Location
 permalink: /about-hgp/contact-location/
 description: ""
 ---
-
 <p><strong>Address:</strong><br />Hougang Primary School<br />No.1 Hougang Street 93<br />Singapore 534238</p>
 <p><strong>Tel No:</strong> <br />6489 7445</p>
 <p><strong>Fax No:</strong><br />6489 7446&nbsp;</p>
