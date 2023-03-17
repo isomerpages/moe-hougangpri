@@ -27,5 +27,9 @@ During a magic show, the audience is typically mesmerised by counter-intuitive e
 
 Last year, we published our first two issues of our _HGP Heartbeat_ school e-newsletter, capturing the stories and images of our students immersing themselves in many of the learning opportunities provided by the school. I invite you to scan the QR codes below to find out more, and welcome you to join us in this magical learning adventure at HGP!
 
+
+![](/images/About%20HGP/qr%20for%20p%20msg.jpg)
+
+
 Jason Goh  
 Principal
