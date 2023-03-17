@@ -13,4 +13,4 @@ description: ""
 </ol>
 <p>Under this programme, stallholders will be selling set meal that consists of the four food groups, ie. rice/noodles, meat, vegetable and fruit. The set meal will come in small or big portion that ranges from&nbsp;$1.30&nbsp;to $2.00. The Canteen Menu can be found below.
 
-[Canteen Menu 2023](https://go.gov.sg/hgpcanteenmenu2023)
+**[Canteen Menu 2023](https://go.gov.sg/hgpcanteenmenu2023)**
