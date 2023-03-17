@@ -3,7 +3,6 @@ title: Our Identity
 permalink: /about-hgp/our-identity/
 description: ""
 ---
-
 <h4><strong>School Crest</strong></h4>
 <table border="0" cellspacing="1" cellpadding="2">
 <tbody>
