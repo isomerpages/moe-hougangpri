@@ -12,22 +12,22 @@ third_nav_title: Our Staff
 <td style="text-align: center;" width="331"><strong>Email Address</strong></td>
 </tr>
 <tr>
-<td width="208">AED (School Counsellor)</td>
+<td width="208">School Counsellor</td>
 <td width="293">Tan Juan Hing</td>
 <td width="331">tan_juan_hing@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="208">Allied Educator (LBS)</td>
+<td width="208">SEN Officer</td>
 <td width="293">Constance Ho Hui Hung</td>
 <td width="331">constance_tan@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="208">Allied Educator (LBS)</td>
+<td width="208">SEN Officer</td>
 <td width="293">Fadilah Bte Muhammad</td>
 <td width="331">fadilah_muhammad@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="208">Allied Educator (T &amp; L)</td>
+<td width="208">Allied Educator (T&L)</td>
 <td width="293">Zaleha Binte Abdul Manaf</td>
 <td width="331">zaleha_abdul_manaf@moe.edu.sg</td>
 </tr>
@@ -40,20 +40,13 @@ third_nav_title: Our Staff
 <td width="240"><strong>Description</strong></td>
 </tr>
 <tr>
-<td width="156">AED</td>
-<td width="240">Allied Educator</td>
+<td width="156">SEN</td>
+<td width="240">Special Education Needs</td>
 </tr>
 <tr>
-<td width="156">LBS</td>
-<td width="240">Learning &amp; Behavioural Support</td>
-</tr>
-<tr>
-<td width="156">T &amp; L</td>
+<td width="156">T & L</td>
 <td width="240">Teaching &amp; Learning</td>
-</tr>
-<tr>
-<td width="156">MT</td>
-<td width="240">Mother Tongue</td>
+
 </tr>
 </tbody>
 </table>
