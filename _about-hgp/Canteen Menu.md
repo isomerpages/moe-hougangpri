@@ -11,5 +11,6 @@ description: ""
 <li>Increase consumption of fruit, vegetables and whole-grains</li>
 <li>Reduce intake of high fat, salt and sugar</li>
 </ol>
-<p>Under this programme, stallholders will be selling set meal that consists of the four food groups, ie. rice/noodles, meat, vegetable and fruit. The set meal will come in small or big portion that ranges from&nbsp;$1.30&nbsp;to $2.00. The Canteen Menu can be found below.</p>
-<p><a href="/files/Canteen%20Stalls%20Menu%202022_28Jul2022.pdf">Canteen Menu</a></p>
+<p>Under this programme, stallholders will be selling set meal that consists of the four food groups, ie. rice/noodles, meat, vegetable and fruit. The set meal will come in small or big portion that ranges from&nbsp;$1.30&nbsp;to $2.00. The Canteen Menu can be found below.
+
+[](/files/Canteen%20Stalls%20Menu%202023_2.pdf)
