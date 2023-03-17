@@ -11,8 +11,15 @@ description: ""
 <p><u>a. Outdoor Adventure Education (OAE)<br /></u>As the school&rsquo;s Learning for Life Programme (LLP), OAE provides HGP-ians with authentic, hands-on and physical learning experiences aimed at instilling values and developing character. Through a structured and progressive OAE curriculum that entails orienteering, camp craft, bouldering, abseiling and caving, HGP-ians are given the opportunity to embrace challenges and overcome obstacles, both confidently and competently. Furthermore, as many of the learning experiences involve students working collaboratively with their peers, OAE also serves as an important lever to facilitate social mixing, promoting a culture of inclusivity within the school community.</p>
 <p><u>b. Science Education<br /></u>The school&rsquo;s Applied Learning Programme (ALP) in Science Education aims to cultivate a spirit of inquiry in HGP-ians, by allowing them to explore and experience the impact of Science on the real world. Anchored on environmental education, the ALP drives the school&rsquo;s efforts and achievements in the areas of bio-diversity and eco-sustainability. With its campus immersed in rich flora and fauna, HGP was designated by NParks as a Centre for Biodiversity for Schools in the North East. In Feb 2020, we also received the BCA Green Mark Goldplus certificate, recognising the school as a green building and affirming its efforts in reducing energy consumption through the pervasive use of energy-efficient technology. In Oct 2021, the school achieved the Diamond Award, Platinum Banding and &ldquo;Outstanding Environmentally Friendly, Biodiversity Community Garden&rdquo; Ribbon under the Community in Bloom Programme organized by NParks Singapore.</p>
 <p><strong>School Hours</strong></p>
-![](/images/SchoolHours.jpg)
 
+| Level | Days | Reporting Time | Curriculum Time | Recess Time | Snack Time | 
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Pri 1    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 9.00am - 9.30am     | Around 12 noon (5 to 10 mins)     |
+| Pri 2    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 9.30am - 10.00am     | Around 12 noon (5 to 10 mins     |
+| Pri 3    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 10.00am - 10.30am     | Around 12 noon (5 to 10 mins     |
+| Pri 4    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 10.30am - 11.00am     | Around 12 noon (5 to 10 mins     |
+| Pri 5    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.00am - 11.30am     | Around 12 noon (5 to 10 mins     |
+| Pri 6    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.30am - 12.00nn     | 9.30am     |
 
 <table width="548">
 <tbody>
