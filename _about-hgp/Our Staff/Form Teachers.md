@@ -115,13 +115,6 @@ third_nav_title: Our Staff
 <table width="0">
 <tbody>
 <tr>
-	
-	
-	
-	
-	
-	
-	
 <td style="text-align: center;" width="89"><strong>Level</strong></td>
 <td style="text-align: center;" width="85"><strong>Class</strong></td>
 <td style="text-align: center;" width="312"><strong>Name of Teacher</strong></td>
