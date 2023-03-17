@@ -2,7 +2,6 @@ collections:
   about-hgp:
     output: true
     order:
-      - School Vendors.md
       - About HGP.md
       - Principal's Message.md
       - Vision, Mission & Motto.md
@@ -17,3 +16,4 @@ collections:
       - Canteen Menu.md
       - Contact Us & Our Location.md
       - Compliments & Feedback.md
+      - School Vendors.md
