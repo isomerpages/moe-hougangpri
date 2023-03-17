@@ -8,8 +8,8 @@ third_nav_title: Our Staff
 <table width="0">
 <tbody>
 <tr>
-<td style="text-align: center;" width="301"><strong>Appointment</strong></td>
-<td style="text-align: center;" width="312"><strong>Name</strong></td>
+<td style="text-align: left;" width="301"><strong>Appointment</strong></td>
+<td style="text-align: left;" width="312"><strong>Name</strong></td>
 </tr>
 <tr>
 <td width="301">Principal</td>
@@ -56,6 +56,10 @@ third_nav_title: Our Staff
 <td width="312">Kassidy Bin Kamis</td>
 </tr>
 <tr>
+	<td width="301">Head Of Department (Student Management & Leadership)</td>
+<td width="312">Lim Hong Da, Dylan</td>
+</tr>
+<tr>
 <td width="301">Year Head (P1 &amp; P2)</td>
 <td width="312">Vathsala Balakrishnan (Covering)</td>
 </tr>
@@ -84,8 +88,8 @@ third_nav_title: Our Staff
 <td width="312">Chee Poh Lai</td>
 </tr>
 <tr>
-<td width="301">Level Head (Science)</td>
-<td width="312">Xiao Jianfu</td>
+<td width="301">Level Head (Chinese)</td>
+<td width="312">Fong Baoyu</td>
 </tr>
 <tr>
 <td width="301">Level Head (Mathematics)</td>
@@ -100,12 +104,16 @@ third_nav_title: Our Staff
 <td width="312">Chia Ee San Serene</td>
 </tr>
 <tr>
-<td width="301">Subject Head (Discipline &amp; Student Leadership)</td>
-<td width="312">Lim Hong Da, Dylan</td>
-</tr>
-<tr>
 <td width="301">Subject Head (Aesthetics)</td>
 <td width="312">Sabariah Bte Kassim</td>
+</tr>
+<tr>
+<td width="301">Subject Head (Data Management)</td>
+<td width="312">Tan Mun Sing</td>
+</tr>
+<tr>
+<td width="301">Subject Head (PE)</td>
+<td width="312">Wong Keng</td>
 </tr>
 </tbody>
 </table>
