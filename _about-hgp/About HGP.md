@@ -21,95 +21,9 @@ description: ""
 | Pri 5    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.00am - 11.30am     | Around 12 noon (5 to 10 mins     |
 | Pri 6    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.30am - 12.00nn     | 9.30am     |
 
-<table width="548">
-<tbody>
-<tr>
-<td style="text-align: center;" width="66">
-<p><strong>Level</strong></p>
-</td>
-<td style="text-align: center;" width="64">
-<p><strong>Days</strong></p>
-</td>
-<td style="text-align: center;" width="75">
-<p><strong>Reporting Time</strong></p>
-</td>
-<td style="text-align: center;" width="82">
-<p><strong>Curriculum Time</strong></p>
-</td>
-<td style="text-align: center;" width="141">
-<p><strong>Recess Time</strong></p>
-</td>
-<td style="text-align: center;" width="122">
-<p><strong>Snack Time</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="66">
-<p>P1</p>
-</td>
-<td style="text-align: center;" rowspan="6" width="64">
-<p>Monday</p>
-<p>to</p>
-<p>Friday</p>
-</td>
-<td style="text-align: center;" rowspan="6" width="75">
-<p>Before 7.30am</p>
-</td>
-<td style="text-align: center;" rowspan="6" width="82">
-<p>7.30am</p>
-<p>to</p>
-<p>1.30pm</p>
-</td>
-<td style="text-align: center;" width="141">
-<p>9.00am &ndash; 9.30am</p>
-</td>
-<td style="text-align: center;" rowspan="4" width="122">
-<p>Around 12noon</p>
-<p>(5 to 10 mins)</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="66">
-<p>P2</p>
-</td>
-<td style="text-align: center;" width="141">
-<p>9.30am &ndash; 10.00am</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="66">
-<p>P3</p>
-</td>
-<td style="text-align: center;" width="141">
-<p>10.00am &ndash; 10.30am</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="66">
-<p>P4</p>
-</td>
-<td style="text-align: center;" width="141">
-<p>10.30am &ndash; 11.00am</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="66">
-<p>P5</p>
-</td>
-<td style="text-align: center;" width="141">
-<p>11.00am &ndash; 11.30am</p>
-</td>
-<td style="text-align: center;" rowspan="2" width="122">
-<p>9.30am</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="66">
-<p>P6</p>
-</td>
-<td style="text-align: center;" width="141">
-<p>11.30am &ndash; 12.00nn</p>
-</td>
+
+
+
 </tr>
 </tbody>
 </table>
@@ -117,143 +31,21 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="145">
-<p><strong>Gate</strong></p>
-</td>
-<td style="text-align: center;" width="145">
-<p><strong>Location</strong></p>
-</td>
-<td style="text-align: center;" width="145">
-<p><strong>Opening Hours</strong></p>
-</td>
-<td style="text-align: center;" width="145">
-<p><strong>Entry For</strong></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="145">
-<p>Main Gate / Foyer (Security Guard Post)</p>
-</td>
-<td rowspan="3" width="145">
-<p>Hougang St 93</p>
-</td>
-<td rowspan="3" width="145">
-<p>6.30 am to 6.30 pm</p>
-</td>
-<td width="145">
-<p>Parents</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>Visitors</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>Students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="145">
-<p>Front Gate &lsquo;A&rsquo;</p>
-<p>(Yellow)</p>
-</td>
-<td rowspan="3" width="145">
-<p>Hougang St 93</p>
-</td>
-<td width="145">
-<p>6.30 am to 7.30 am</p>
-</td>
-<td rowspan="3" width="145">
-<p>Students Only</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>1.30 pm to 2.00pm</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>3.00 pm to 4.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="145">
-<p>Back Gate &lsquo;D&rsquo;</p>
-<p>(Blue)</p>
-</td>
-<td rowspan="3" width="145">
-<p>Sheltered Walkway</p>
-<p>(Block 970)</p>
-</td>
-<td width="145">
-<p>6.45 am to 7.30 am</p>
-</td>
-<td rowspan="3" width="145">
-<p>Students Only</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>1.30 pm to 2.00pm</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>3.00 pm to 4.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" width="145">
-<p>Side Gate &lsquo;E&rsquo;</p>
-<p>(Orange)</p>
-</td>
-<td rowspan="2" width="145">
-<p>Lower Indoor Sport Hall</p>
-</td>
-<td width="145">
-<p>6.45 am to 7.30 am</p>
-</td>
-<td rowspan="2" width="145">
-<p>Students Only</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>1.30 pm to 2.00pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>School Suppliers</strong></p>
-<table width="575">
-<tbody>
-<tr>
-<td width="287">
-<p><strong>School Bus Service:<br /></strong><strong>BT &amp; Tan Transport Pte Ltd</strong></p>
-<p>Contact Person: Mr Ben Tan<br />Contact Number: 6483 7260&nbsp;</p>
-</td>
-<td width="287">
-<p><strong>School Bookshop:<br /></strong><strong>Pacific Bookstores</strong></p>
-<p>Contact Number: 6464 0111<br />Opening hours: 8.30am - 3.30pm&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="287">
-<p><strong>School Dental Clinic</strong></p>
-<p>Please call for appointment<br />Contact Number: 6386 3025</p>
-<p>Opening hours:<br />Monday to Thursday: 8.00am - 5.30pm<br />Friday: 8.00am - 5.00pm<br />Lunch: 1.00pm - 2.00pm</p>
-</td>
-<td width="287">
-<p><strong>School Uniform:&nbsp;</strong></p>
-<p><strong>Student Mart</strong></p>
-<p>&nbsp;</p>
-<p>Contact Number: 6387 3929</p>
-<p>Address: Blk 4012, Ang Mo Kio Ave 10, #01-09, Techplace 1, Singapore 569628</p>
-<p>Opening hours:<br />Monday to Friday: 10.00am - 6.00pm<br />Saturday: 10.00am - 2.00pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+	
+	
+	
+
+
+| Gate | Location | Opening Hours | Entry For |
+| -------- | -------- | -------- |-------- |
+| Main Gate / Foyer (Security Guard Post) | Hougang St 93     | 6.30am to 6.30pm     | Parents, Visitors & Students     |
+| Front Gate ‘A’ (Yellow) | Hougang St 93     | 6.30 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm    | Students Only     |
+| Back Gate ‘D’ (Blue) | Sheltered Walkway (Block 970)     | 6.45 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm     | Students Only     |
+| Side Gate 'E' (Orange) | Lower Indoor Sport Hall     | 6.45 am to 7.30 am / 1.30 pm to 2.00pm     | Students Only     |
+
+
+
+
+
+
+	
