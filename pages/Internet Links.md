@@ -31,7 +31,7 @@ description: ""
 <td width="435"><a href="https://rbs.avero-tech.com/">https://rbs.avero-tech.com/</a></td>
 </tr>
 <tr>
-<td width="188"><strong>SCMobile</strong></td>
+<td width="188"><strong>SC Mobile</strong></td>
 <td width="435"><a href="https://scmobile.moe.edu.sg/login">https://scmobile.moe.edu.sg/login</a></td>
 </tr>
 </tbody>
