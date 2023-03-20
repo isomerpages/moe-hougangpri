@@ -2,6 +2,9 @@ collections:
   cca:
     output: true
     order:
+      - CCA Main.md
+      - CCA Schedule 2023.md
+      - Arts/.keep
       - Arts/Drama Club.md
       - Arts/Art Club.md
       - Arts/Angklung.md
@@ -11,15 +14,10 @@ collections:
       - Arts/Brass Band.md
       - Arts/Malay Dance.md
       - Arts/Chinese Dance.md
-      - Arts/.keep
-      - Uniformed Group/Scouts.md
-      - Uniformed Group/.keep
+      - Clubs/.keep
       - Clubs/Media Resource Library.md
       - Clubs/Photography Club.md
       - Clubs/Infocomm Club.md
-      - Clubs/.keep
-      - CCA Main.md
-      - CCA Schedule 2023.md
       - Sports/.keep
       - Sports/Sports Main.md
       - Sports/FAST.md
@@ -28,3 +26,5 @@ collections:
       - Sports/Wushu.md
       - Sports/Football.md
       - Sports/Sport Climbing.md
+      - Uniformed Group/.keep
+      - Uniformed Group/Scouts.md
