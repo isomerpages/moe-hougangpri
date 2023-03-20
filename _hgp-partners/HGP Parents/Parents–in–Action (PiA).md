@@ -4,7 +4,6 @@ permalink: /hgp-partners/parents-in-action-pia/
 description: ""
 third_nav_title: HGP Parents
 ---
-
 <img style="width: 40%;" src="/images/pia1.jpg" />
 <p>The PiA is the parents support group for Hougang Primary School where parents from all walks of lives come together and get actively involved in our children&rsquo;s education journey.</p>
 <p>We welcome parents, grandparents and caregivers to join us. Click on the&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBd2nghhQLoNLZb5mID6rTA9yQvUKwbchTDC_ag-nkBT6qGg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0">link&nbsp;</a>to the membership form and join us today!</p>
