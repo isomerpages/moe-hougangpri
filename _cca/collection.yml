@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/.keep
       - CCA Main.md
       - CCA Schedule 2023.md
       - Sports/.keep
