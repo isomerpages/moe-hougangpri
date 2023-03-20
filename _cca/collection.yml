@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Arts/Indian Dance.md
       - Arts/Brass Band.md
       - Arts/Malay Dance.md
       - Arts/Chinese Dance.md
