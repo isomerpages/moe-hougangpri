@@ -2,6 +2,7 @@ collections:
   about-hgp:
     output: true
     order:
+      - HGP Heartbeat eNewsletter.md
       - About HGP.md
       - Principal's Message.md
       - Vision, Mission & Motto.md
