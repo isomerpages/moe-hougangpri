@@ -4,8 +4,8 @@ permalink: /hgp-partners/student-care-centre/
 description: ""
 ---
 <img style="width: 70%;" src="/images/scc1.png">
-<p style="text-align: center;"><strong>Ace@Work School Care Pte Ltd first opened its door in Hougang Primary School in January 2018.<br /></strong><strong>We accept students from Hougang Primary School Only.</strong></p>
-<p><strong>******************************************************************************************************************</strong></p>
+<p style="text-align: left;"><strong>Ace@Work School Care Pte Ltd first opened its door in Hougang Primary School in January 2018. We accept students from Hougang Primary School Only.</strong></p>
+<p><strong>****************************************************************************************************</strong></p>
 <p style="text-align: center;"><strong>Mission<br /></strong>To develop every child to his full potential.</p>
 <p style="text-align: center;"><strong>Vision<br /></strong>To nurture children who will be holistically developed with life-long skills and have a good sense of social conscience, empowering them to become outstanding adults in life.</p>
 <p style="text-align: center;"><strong>Core Values &ndash; A.C.E</strong></p>
