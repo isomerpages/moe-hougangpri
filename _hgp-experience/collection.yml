@@ -2,6 +2,7 @@ collections:
   hgp-experience:
     output: true
     order:
+      - Total Curriculum/.keep
       - Total Curriculum/Total Curriculum.md
       - Total Curriculum/English.md
       - Total Curriculum/Mathematics.md
@@ -14,14 +15,13 @@ collections:
       - Total Curriculum/Cyber Wellness.md
       - Total Curriculum/Character & Citizenship Education.md
       - Total Curriculum/SDT.md
-      - Total Curriculum/.keep
       - Applied Learning Programme/.keep
       - Applied Learning Programme/ALP (Applied Learning Programme).md
       - Applied Learning Programme/Xcell Zone Website.md
-      - Learning for Life Programme (LLP).md
+      - Home–Based Learning (HBL).md
+      - Innovative Projects/.keep
       - Innovative Projects/Coding@HGP.md
       - Innovative Projects/AR@H.md
       - Innovative Projects/HGPS Managed Print System.md
       - Innovative Projects/Heritage Wall.md
-      - Innovative Projects/.keep
-      - Home–Based Learning (HBL).md
+      - Learning for Life Programme (LLP).md
