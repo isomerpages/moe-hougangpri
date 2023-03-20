@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 <td style="text-align: left;" width="347"><strong>Email Address</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="19" width="89">1</td>
+<td style="text-align: center;" rowspan="21" width="89">1</td>
 <td style="text-align: center;" width="85"><span style="background-color: #ffff99;">AYH</span></td>
 <td width="312"><span style="background-color: #ffff99;">Sabariah Bte Kassim	</span></td>
 <td width="347">sabariah_kassim@moe.edu.sg
@@ -99,7 +99,7 @@ third_nav_title: Our Staff
 <tr>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="3" width="85">G</td>
+<td style="text-align: centre;" rowspan="3" width="85">G</td>
 <td width="312">Arlitaharianty Sayrol	</td>
 <td width="347">arlitaharianty_sayrol@moe.edu.sg</td>
 </tr>
