@@ -2,6 +2,7 @@ collections:
   hgp-partners:
     output: true
     order:
+      - School Vendors.md
       - HGP Parents/Parents in Education (PiE).md
       - HGP Parents/Resources for Parents.md
       - HGP Parents/40–hour PV.md
