@@ -2,6 +2,7 @@ collections:
   hgp-partners:
     output: true
     order:
+      - HGP Parents/Resources for Parents.md
       - HGP Parents/40–hour PV.md
       - HGP Parents/Family Matters @ HGP.md
       - HGP Parents/Parents–in–Action (PiA).md
