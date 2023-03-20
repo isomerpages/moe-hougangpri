@@ -2,6 +2,7 @@ collections:
   hgp-partners:
     output: true
     order:
+      - HGP Parents/Parents–in–Action (PiA).md
       - HGP Parents/.keep
       - HGP SAC.md
       - HGP Student Alumni.md
