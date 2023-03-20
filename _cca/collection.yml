@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Arts/Malay Dance.md
       - Arts/Chinese Dance.md
       - Arts/.keep
       - Uniformed Group/Scouts.md
