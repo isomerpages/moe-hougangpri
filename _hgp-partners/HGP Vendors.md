@@ -3,8 +3,6 @@ title: HGP Vendors
 permalink: /about-hgp/permalink/
 description: ""
 ---
-
-
 # School Vendors
 
 | Service | Company | Address | Contact Person | Contact No | Website | Additional Info |
