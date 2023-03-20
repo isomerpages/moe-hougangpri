@@ -66,6 +66,6 @@ description: ""
 <p><strong>****************************************************************************************************</strong></p>
 <p style="text-align: left;"><strong>Contact Details</strong></p>
 <p>Ace@Work School Care Pte Ltd (Hougang Primary)</p>
-<p><strong>Address: <br /></strong>1, Hougang Street 93,<br />Hougang Primary School<br />Singapore 534238<br /><strong>Tel:<br /></strong>6926 7154<br /><strong>Email:<br /></strong><a href="mailto:feedbackhgps@aceatwork.com.sg">feedbackhgps@aceatwork.com.sg</a><br /><a href="mailto:acehgps@gmail.com">acehgps@gmail.com</a></p>
+<p><strong>Address: <br /></strong>1, Hougang Street 93,<br />Hougang Primary School<br />Singapore 534238<br /><strong>Tel: </strong>6926 7154<br /><strong>Email:<br /></strong><a href="mailto:feedbackhgps@aceatwork.com.sg">feedbackhgps@aceatwork.com.sg</a><br /><a href="mailto:acehgps@gmail.com">acehgps@gmail.com</a></p>
 <p>Register of interest:&nbsp;<a href="https://www.aceatwork.com.sg/registration-form">https://www.aceatwork.com.sg/registration-form</a></p>
 <p>Note: All arrangements and agreements are to be made directly with the student care service provider.</p>
