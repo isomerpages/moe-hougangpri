@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Arts/Angklung.md
       - Arts/Guzheng.md
       - Arts/Ballet.md
       - Arts/Indian Dance.md
