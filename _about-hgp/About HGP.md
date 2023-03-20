@@ -22,20 +22,11 @@ description: ""
 | Pri 6    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.30am - 12.00nn     | 9.30am     |
 
 
-
-
-</tr>
-</tbody>
-</table>
 <p><strong>School Gate Opening Hours</strong></p>
 <table>
 <tbody>
 <tr>
 	
-	
-	
-
-
 | Gate | Location | Opening Hours | Entry For |
 | -------- | -------- | -------- |-------- |
 | Main Gate / Foyer (Security Guard Post) | Hougang St 93     | 6.30am to 6.30pm     | Parents, Visitors & Students     |
