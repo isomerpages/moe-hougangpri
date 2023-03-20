@@ -36,7 +36,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Links for Students</strong></h4>
+<h4><strong>Links for Students/Parents</strong></h4>
 <table width="625">
 <tbody>
 <tr>
