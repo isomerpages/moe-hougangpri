@@ -1,0 +1,19 @@
+collections:
+  about-hgp:
+    output: true
+    order:
+      - About HGP.md
+      - Principal's Message.md
+      - Vision, Mission & Motto.md
+      - Our Identity.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/Teacher Leaders.md
+      - Our Staff/Form Teachers.md
+      - Our Staff/Allied Educators.md
+      - School Safety Info.md
+      - Media Resource Library.md
+      - Canteen Menu.md
+      - Contact Us & Our Location.md
+      - Compliments & Feedback.md
+      - HGP Heartbeat eNewsletter.md

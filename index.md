@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Hougang Primary School
+description: Official website of Hougang Primary School
+image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/banner.gif
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /hgps/announcements/
+        - title: Links
+          description: For teachers, students/parents
+          url: /internet-links
+        - title: HGP Virtual Tour
+          description: ""
+          url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
+        - title: HGP Heartbeat
+          description: eNewsletter
+          url: /hgp-heartbeat-enewsletter
 ---
-

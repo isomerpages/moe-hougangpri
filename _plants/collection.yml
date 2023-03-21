@@ -1,0 +1,12 @@
+collections:
+  plants:
+    output: true
+    order:
+      - Plants.md
+      - Herbs.md
+      - Medicinal Plants.md
+      - Toxic Plants.md
+      - Weeds.md
+      - Vegetable Plots.md
+      - Roots and Stems.md
+      - Other.md

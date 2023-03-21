@@ -1,0 +1,14 @@
+collections:
+  hgp-partners:
+    output: true
+    order:
+      - HGP Parents/.keep
+      - HGP Parents/Parents in Education (PiE).md
+      - HGP Parents/Resources for Parents.md
+      - HGP Parents/40–hour PV.md
+      - HGP Parents/Family Matters @ HGP.md
+      - HGP Parents/Parents–in–Action (PiA).md
+      - HGP SAC.md
+      - HGP Student Alumni.md
+      - HGP Vendors.md
+      - Student Care Centre.md
