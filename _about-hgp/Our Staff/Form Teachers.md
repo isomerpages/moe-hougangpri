@@ -4,494 +4,413 @@ permalink: /about-hgp/our-staff/form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<table width="0">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nj25{background-color:#D9D2E9;text-align:left;vertical-align:top}
+.tg .tg-f62g{background-color:#D8D8D8;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-aiub{background-color:#FF0;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bcfl{background-color:#E7E6E6;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi" rowspan="2"></th>
+    <th class="tg-aiub" rowspan="2">CCA</th>
+    <th class="tg-aiub" rowspan="2">Day/s</th>
+    <th class="tg-aiub" rowspan="2">LEVEL/S</th>
+    <th class="tg-aiub" rowspan="2">From</th>
+    <th class="tg-aiub" rowspan="2">To</th>
+    <th class="tg-aiub" rowspan="2">Teachers IC</th>
+    <th class="tg-aiub" rowspan="2">Tuesday <br>Venue</th>
+    <th class="tg-aiub" rowspan="2">Thursday<br>Venue</th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: left;" width="89"><strong>Level</strong></td>
-<td style="text-align: left;" width="85"><strong>Class</strong></td>
-<td style="text-align: left;" width="312"><strong>Name of Teacher</strong></td>
-<td style="text-align: left;" width="347"><strong>Email Address</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="21" width="89">1</td>
-<td style="text-align: center;" width="85"><span style="background-color: #ffff99;">AYH</span></td>
-<td width="312"><span style="background-color: #ffff99;">Sabariah Bte Kassim	</span></td>
-<td width="347">sabariah_kassim@moe.edu.sg
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">A</td>
-<td width="312">Tan Hwee Chin, Amanda</td>
-<td width="347">tan_hwee_chin@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Han Hui Ling</td>
-<td width="347">han_hui_ling@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chia Kim Heoh</td>
-<td width="347">chia_kim_heoh@moe.edu.sg
-<td width="312"></td>
-<td width="347">
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">B</td>
-<td width="312">Elieen Wong Yi Ling	</td>
-<td width="347">elieen_wong_yi_ling@moe.edu.sg
-</td>
-</tr>
-<tr>
-<td width="312">Chia Choong Kit, Jameson	</td>
-<td width="347">chia_choong_kit@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">C</td>
-<td width="312">Nasyrah Fitriawaty</span></td>
-<td width="347">nasyrah_fitriawaty_ahmad_putri@moe.edu.sg
-</td>
-</tr>
-<tr>
-<td width="312">Tang Yuk Ching	</td>
-<td width="347">tang_yuk_ching@moe.edu.sg
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">D</td>
-<td width="312"><span style="background-color: #ffff99;">Sabariah Bte Kassim</td>
-<td width="347">sabariah_kassim@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chen Si Xuan, Serene</td>
-<td width="347">chen_si_xuan@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">E</td>
-<td width="312">Chan Nai Mun	</td>
-<td width="347">chan_nai_mun@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Ellene Prashanti D/O T Yogarajah</td>
-<td width="347">ellene_prashanti_t_yogarajah@moe.edu.sg</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">F</td>
-<td width="312">Tang Yuen Peng, Angela	</td>
-<td width="347">tang_yuen_peng_angela@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Renie Ashsyakirin Bte Adnan	</td>
-<td width="347">renie_ashsyakirin_adnan@moe.edu.sg</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">F</td>
-<td width="312">Tang Yuen Peng, Angela	</td>
-<td width="347">tang_yuen_peng_angela@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Renie Ashsyakirin Bte Adnan	</td>
-<td width="347">renie_ashsyakirin_adnan@moe.edu.sg</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td style="text-align: centre;" rowspan="3" width="85">G</td>
-<td width="312">Arlitaharianty Sayrol	</td>
-<td width="347">arlitaharianty_sayrol@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Lim Choi Hwee, Gillian	</td>
-<td width="347">lim_choi_hwee@moe.edu.sg</td>
-</tr>
-<tr>
-</tr>
-</tr>
-</tbody>
-</table>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="89"><strong>Level</strong></td>
-<td style="text-align: center;" width="85"><strong>Class</strong></td>
-<td style="text-align: center;" width="312"><strong>Name of Teacher</strong></td>
-<td style="text-align: center;" width="347"><strong>Email Address</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="18" width="89">2</td>
-<td style="text-align: center;" width="85"><span style="background-color: #ffff99;">YH</span></td>
-<td width="312"><span style="background-color: #ffff99;">Ong Yin Chiun, Susan</span></td>
-<td width="347">ong_yin_chiun@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">A</td>
-<td width="312">Lim Choi Hwee, Gillian</td>
-<td width="347">lim_choi_hwee@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Lim Li Tiang, Lena</td>
-<td width="347">lim_li_tiang@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chee Poh Lai</td>
-<td width="347">chee_poh_lai@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">B</td>
-<td width="312">Zhang Zhaoling</td>
-<td width="347">zhang_zhaoling@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Kassidy Bin Kamis</td>
-<td width="347">kassidy_b_kamis@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">C</td>
-<td width="312">Tang, Yuen Peng, Angela</td>
-<td width="347">tang_yuen_peng_angela@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Ung Siew Kwang, Mary</td>
-<td width="347">ung_siew_kwang@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312"><span style="background-color: #ffff99;">Ong Yin Chiun, Susan</span></td>
-<td width="347">ong_yin_chiun@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">D</td>
-<td width="312">Chan Nai Mun</td>
-<td width="347">chan_nai_mun@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Tan Tien Lung</td>
-<td width="347">tan_tien_lung@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Teo Hwee Ling</td>
-<td width="347">teo_hwee_ling@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">E</td>
-<td width="312">Tan Hwee Chin, Amanda</td>
-<td width="347">tan_hwee_chin@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Gangadaran Khaanchennah</td>
-<td width="347">gangadaran_khaanchennah@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">F</td>
-<td width="312">Leck Choo Jin, Alison</td>
-<td width="347">alison_leck_choo_jin@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Arlitaharianty Bte Sayrol</td>
-<td width="347">arlitaharianty_sayrol@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">G</td>
-<td width="312">Lek Su San</td>
-<td width="347">lek_susan@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Tan Ser Yunn, Kevin</td>
-<td width="347">tan_ser_yunn_kevin@moe.edu.sg</td>
-</tr>
-</tbody>
-</table>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="89"><strong>Level</strong></td>
-<td style="text-align: center;" width="85"><strong>Class</strong></td>
-<td style="text-align: center;" width="312"><strong>Name of Teacher</strong></td>
-<td style="text-align: center;" width="347"><strong>Email Address</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="14" width="89">3</td>
-<td style="text-align: center;" width="85"><span style="background-color: #ffff99;">AYH</span></td>
-<td width="312"><span style="background-color: #ffff99;">Ng Hong Wah, Desmond</span></td>
-<td width="347">ng_hong_wah_desmond@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">A</td>
-<td width="312">Anisah Bte Abdul Khalid</td>
-<td width="347">anisah_abdul_khalid@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Wong Keng</td>
-<td width="347">wong_keng@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">B</td>
-<td width="312">Ashley Pan Kai Wai</td>
-<td width="347">pan_kai_wei@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Yap Lin Lin</td>
-<td width="347">yap_lin_lin@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">C</td>
-<td width="312">Zarinah Binte Ali</td>
-<td width="347">zarinah_ali_a@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">See Shi Yau</td>
-<td width="347">see_shi_yau@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">D</td>
-<td width="312"><span style="background-color: #ffff99;">Ng Hong Wah, Desmond</span></td>
-<td width="347">ng_hong_wah_desmond@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Wong Yi Ling, Elieen</td>
-<td width="347">elieen_wong_yi_ling@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">E</td>
-<td width="312">Sim Woen Ting</td>
-<td width="347">sim_woen_ting@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Bahar Ali Bin Sakor</td>
-<td width="347">bahar_ali_sakor@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">F</td>
-<td width="312">Chia Ee San, Serene</td>
-<td width="347">chia_ee_san@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Juhaizan Bin Abd Hamid</td>
-<td width="347">juhaizan_abd_hamid@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Siti Zulaika Binte Salleh</td>
-<td width="347">siti_zulaika_salleh@moe.edu.sg</td>
-</tr>
-</tbody>
-</table>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="89"><strong>Level</strong></td>
-<td style="text-align: center;" width="85"><strong>Class</strong></td>
-<td style="text-align: center;" width="312"><strong>Name of Teacher</strong></td>
-<td style="text-align: center;" width="347"><strong>Email Address</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="14" width="89">4</td>
-<td style="text-align: center;" width="85"><span style="background-color: #ffff99;">YH</span></td>
-<td width="312"><span style="background-color: #ffff99;">Fu Yanying, Doris</span></td>
-<td width="347">fu_yanying_doris@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">A</td>
-<td width="312"><span style="background-color: #ffff99;">Fu Yanying, Doris</span></td>
-<td width="347">fu_yanying_doris@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chan Kian Keong</td>
-<td width="347">chan_kian_keong@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">B</td>
-<td width="312">Sabariah Bte Kassim</td>
-<td width="347">sabariah_kassim@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chen Si Xuan, Serene</td>
-<td width="347">chen_si_xuan@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">C</td>
-<td width="312">Sahernizam Bin Kimat</td>
-<td width="347">sahernizam_bin_limat@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Hor Puay Li</td>
-<td width="347">hor_puay_li@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">D</td>
-<td width="312">Hamsiah Bte Ahmad</td>
-<td width="347">hamsiah_ahmad@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Ng Beng Hong, Eythan</td>
-<td width="347">ng_beng_hong@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">E</td>
-<td width="312">Xiao Jianfu</td>
-<td width="347">xiao_jianfu@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Goh Lee Yen, Pauline</td>
-<td width="347">goh_lee_yen_pauline@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Boomichelvi Ramasamy</td>
-<td width="347">boomichelvi_ramasamy@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">F</td>
-<td width="312">Ser Yun Sheng, Julian</td>
-<td width="347">ser_yun_sheng_julian@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Nurhayati Binte Rosli</td>
-<td width="347">nurhayati_rosli@moe.edu.sg</td>
-</tr>
-</tbody>
-</table>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="89"><strong>Level</strong></td>
-<td style="text-align: center;" width="85"><strong>Class</strong></td>
-<td style="text-align: center;" width="312"><strong>Name of Teacher</strong></td>
-<td style="text-align: center;" width="347"><strong>Email Address</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="13" width="89">5</td>
-<td style="text-align: center;" width="85"><span style="background-color: #ffff99;">YH</span></td>
-<td width="312"><span style="background-color: #ffff99;">Goh Hui Leng</span></td>
-<td width="347">goh_hui_leng@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">A</td>
-<td width="312">Tay Kim Ling</td>
-<td width="347">tay_kim_ling@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Shen Wenwen</td>
-<td width="347">shen_wenwen@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">B</td>
-<td width="312">Hazeenah Bee d/o Abdul Latip</td>
-<td width="347">hazeenah_bee_abdul_latip@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Tee Wen Chi</td>
-<td width="347">tee_wen_chi@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">C</td>
-<td width="312">Toh Zhi Hao Joel Nathaniel</td>
-<td width="347">toh_zhi_hao_joel@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Lim Hui Heng, Ivy</td>
-<td width="347">lim_hui_heng@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">D</td>
-<td width="312"><span style="background-color: #ffff99;">Goh Hui Leng</span></td>
-<td width="347">goh_hui_leng@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Lim Pei Wen</td>
-<td width="347">lim_pei_wen@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">E</td>
-<td width="312">Pushpalalitha Nathan Nee Haridas</td>
-<td width="347">pushpalalitha_nathan@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Tan Guan Chin, Alvin</td>
-<td width="347">tan_guan_chin_alvin@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">F</td>
-<td width="312">Tan Chye Hee, Cindy</td>
-<td width="347">tan_chye_hee@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Seah Kai Ren, Harold</td>
-<td width="347">seah_kai_ren_harold@moe.edu.sg</td>
-</tr>
-</tbody>
-</table>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="89"><strong>Level</strong></td>
-<td style="text-align: center;" width="85"><strong>Class</strong></td>
-<td style="text-align: center;" width="312"><strong>Name of Teacher</strong></td>
-<td style="text-align: center;" width="347"><strong>Email Address</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="14" width="89">6</td>
-<td style="text-align: center;" width="85"><span style="background-color: #ffff99;">AYH</span></td>
-<td width="312"><span style="background-color: #ffff99;">Muhammad Aliff Asraf Bin Muhd Idris</span></td>
-<td width="347">muhammad_aliff_asraf@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="85">A1</td>
-<td width="312">Nasyrah Fitriawaty Ahmad Putri</td>
-<td width="347">nasyrah_fitriawaty_ahmad_putri@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Ang Jing Xuan, Xavier</td>
-<td width="347">ang_jing_xuan@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chia Kwee Eng</td>
-<td width="347">chia_kwee_eng@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">B</td>
-<td width="312">Lim Hong Da, Dylan</td>
-<td width="347">lim_hong_da@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Lee Wee San</td>
-<td width="347">lee_wee_san@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">C</td>
-<td width="312">Ratni Suriyani Bte Saib</td>
-<td width="347">ratni_suriyani_saib@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Soh Lee Yoong</td>
-<td width="347">soh_lee_yoong@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">D</td>
-<td width="312">Wang Ai Pei</td>
-<td width="347">wang_ai_pei@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Xu Pei Fen</td>
-<td width="347">xu_peifen@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">E</td>
-<td width="312">Koh Meow Koon</td>
-<td width="347">koh_meow_koon@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Chia Peng Hee, Colin</td>
-<td width="347">chia_peng_hee_colin@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="85">F</td>
-<td width="312"><span style="background-color: #ffff99;">Muhammad Aliff Asraf Bin Muhd Idris</span></td>
-<td width="347">muhammad_aliff_asraf@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="312">Fong Baoyu</td>
-<td width="347">fong_baoyu@moe.edu.sg</td>
-</tr>
+  <tr>
+    <td class="tg-bcfl" rowspan="22">Sports</td>
+    <td class="tg-0lax" rowspan="3">F.A.S.T</td>
+    <td class="tg-nj25" rowspan="3">Tuesday</td>
+    <td class="tg-nj25" rowspan="3">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">3.00 p.m.</td>
+    <td class="tg-nj25" rowspan="3">4.30 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Nasyrah Fitriawaty (Mdm) </span></td>
+    <td class="tg-0lax" rowspan="3">Hall</td>
+    <td class="tg-f62g" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Hamsiah Bte Ahmad (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Ser Yunn, Kevin (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Wushu</td>
+    <td class="tg-nj25" rowspan="3">Thursday</td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Group A</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Li Tiang, Lena (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">Hall</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Group B</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00p.m.</span></td>
+    <td class="tg-0lax">Elieen Wong Yi Ling</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Group C</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2..00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.45 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Chye Hee, Cindy (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Football</td>
+    <td class="tg-nj25" rowspan="2">Tuesday</td>
+    <td class="tg-nj25" rowspan="2">Team A</td>
+    <td class="tg-nj25" rowspan="2">2.30 p.m.</td>
+    <td class="tg-nj25" rowspan="2">4.00 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Hui Min, Celeste (Ms)</span></td>
+    <td class="tg-0lax" rowspan="3">Parade Square <br>&amp; Field</td>
+    <td class="tg-0lax" rowspan="3">Parade Square <br>&amp; Field</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mohd Aliff Asraf (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P3-P6 </span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.15 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3.45 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Suzana Abdul Rahim (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="4">Sport Climbing</td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tuesday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Exploratory A (~35 pax P3-P6)</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2:00 PM</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Chia Choong Kit Jameson (Mr</span></td>
+    <td class="tg-0lax" rowspan="4">Indoor Rockwall</td>
+    <td class="tg-0lax" rowspan="4">Indoor Rockwall</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tuesday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Exploratory B (~26 pax P3-P6)</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">5:00 PM</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Guan Chin, Alvin (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Competitive A (max.16 pax P3-P6)</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2:00 PM</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
+    <td class="tg-ktyi" rowspan="2">Renie Ashsyakirin Binte Adnan (Ms)</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Competitive B (max.16 pax P3-P6)</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">5:00 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">Hockey</td>
+    <td class="tg-nj25" rowspan="3">Tuesday</td>
+    <td class="tg-nj25" rowspan="3">P3, P4 , P5 and P6</td>
+    <td class="tg-nj25" rowspan="3">2.30 p.m.<br> </td>
+    <td class="tg-nj25" rowspan="3">4.30 p.m.<br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Chen Si Xuan, Serene (Mdm)</span></td>
+    <td class="tg-0lax" rowspan="4">Lower ISH </td>
+    <td class="tg-0lax" rowspan="4">Lower ISH </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Ng Beng Hong, Eythan (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Hazeenah Bee (Mdm) - Sem 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P5 &amp; P6</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.30 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.30 p.m.</span></td>
+    <td class="tg-0lax">Tang Yuen Peng Angela (Mdm)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">Volleyball</td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Monday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P2</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3.00 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Seah Kai Ren, Harold (Mr)</span></td>
+    <td class="tg-0lax" rowspan="5">Upper ISH</td>
+    <td class="tg-0lax" rowspan="5">Upper ISH</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Monday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P3</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.00 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Wong Keng (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tues</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P4</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">3.30 p.m.</span></td>
+    <td class="tg-ktyi" rowspan="2">Zarina Binte Sidik (Ms)</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P5</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00 p.m.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tues &amp; Thurs</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P6</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tang Yuk Ching (Ms)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bcfl" rowspan="7">Clubs</td>
+    <td class="tg-0lax" rowspan="3">Infocomm Club</td>
+    <td class="tg-nj25" rowspan="3">Thursday</td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">P3 &amp; P4</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.15 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.15 p.m.</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Chia Ee San, Serene (Mdm)</span></td>
+    <td class="tg-f62g"></td>
+    <td class="tg-0lax">Comp Lab 3</td>
+  </tr>
+  <tr>
+    <td class="tg-nj25" rowspan="2">P5 &amp; P6</td>
+    <td class="tg-nj25" rowspan="2">2.15 p.m.</td>
+    <td class="tg-nj25" rowspan="2">4.15 p.m.</td>
+    <td class="tg-ktyi" rowspan="2">Sahernizam Bin Limat (Mr)</td>
+    <td class="tg-f62g" rowspan="2"></td>
+    <td class="tg-0lax" rowspan="2">Comp Lab 3</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2">Media Resource Library</td>
+    <td class="tg-nj25" rowspan="2">Thursday</td>
+    <td class="tg-nj25" rowspan="2">P3-P6</td>
+    <td class="tg-nj25" rowspan="2">2.00 p.m.</td>
+    <td class="tg-nj25" rowspan="2">3.30 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Yap Lin Lin (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="2"></td>
+    <td class="tg-0lax" rowspan="2">Library</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Kong Song Yin (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="2">Photography Club</td>
+    <td class="tg-nj25" rowspan="2">Thursday</td>
+    <td class="tg-nj25" rowspan="2">P3 -P6</td>
+    <td class="tg-nj25" rowspan="2">2:15 p.m</td>
+    <td class="tg-nj25" rowspan="2">3:45 p.m</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">See Shi Yau (Mr)</span></td>
+    <td class="tg-f62g" rowspan="2"></td>
+    <td class="tg-0lax" rowspan="2">Comp Lab 1</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Sabariah Bte Ismail (Mdm)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bcfl" rowspan="3">UG</td>
+    <td class="tg-0lax" rowspan="3">Scouts</td>
+    <td class="tg-nj25" rowspan="3">Thursday</td>
+    <td class="tg-nj25" rowspan="3">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">2.30 p.m.</td>
+    <td class="tg-nj25" rowspan="3">4.00 p.m.</td>
+    <td class="tg-0lax">Arlitaharianty Sayrol (Mdm)</td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">Beside Cherish Room<br>Ideaz Room</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Tan Tien Lung (Mr)</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Mun Sing - Term 2 onwards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bcfl" rowspan="31">Arts</td>
+    <td class="tg-0lax" rowspan="3">Chinese Dance</td>
+    <td class="tg-nj25" rowspan="3">Thursday</td>
+    <td class="tg-nj25" rowspan="3">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">2.00 p.m.</td>
+    <td class="tg-nj25" rowspan="3">5.00 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tee Wen Chi (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">Pal Room 1</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Fong Baoyu (Ms)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Xu Pei Fen (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Malay Dance</td>
+    <td class="tg-nj25" rowspan="3">Thursday</td>
+    <td class="tg-nj25" rowspan="3">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">2.15 p.m.</td>
+    <td class="tg-nj25" rowspan="3">4.15 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Nurhayati Binte Rosli (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">Dance Room</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Hui Heng , Ivy (Ms)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Zarinah Bte Ali (Ms)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">Brass Band</td>
+    <td class="tg-nj25" rowspan="4">Thursday</td>
+    <td class="tg-nj25" rowspan="4">P3-P6</td>
+    <td class="tg-nj25" rowspan="4">2.00 p.m.</td>
+    <td class="tg-nj25" rowspan="4">5.00 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Choi Hwee (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="4"></td>
+    <td class="tg-0lax" rowspan="4">Theatrette </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Anisah Bte Abdul Khalid (Ms) - Sem 1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Shen Wenwen (Mdm) - Sem 1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Chee Poh Lai</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Indian Dance</td>
+    <td class="tg-nj25" rowspan="2">Tuesday </td>
+    <td class="tg-nj25" rowspan="3">P3- P6</td>
+    <td class="tg-nj25" rowspan="2">3.00pm </td>
+    <td class="tg-nj25" rowspan="2">5.00pm </td>
+    <td class="tg-0lax">Ellene Prashanti D/O T Yogarajah (Mrs)</td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">SFE Room</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Gangadaran Khaanchennah (Mrs)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.15 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.15 p.m.</span></td>
+    <td class="tg-0lax">Maris Stella Felix (Ms)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Ballet</td>
+    <td class="tg-nj25" rowspan="3">Thursday</td>
+    <td class="tg-nj25" rowspan="3">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">2.00p.m. </td>
+    <td class="tg-nj25" rowspan="3">4.30p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Pei Wen (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">Pal Room 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Zhang Zhaoling (Mdm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Lek Su San (Mdm)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">Guzheng Ensemble</td>
+    <td class="tg-nj25" rowspan="3">Thursday (Term 1)</td>
+    <td class="tg-nj25" rowspan="4">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">2.00p.m.</td>
+    <td class="tg-nj25" rowspan="3">5.00 PM</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Gui Sheau Li (Mdm)</span></td>
+    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-0lax" rowspan="3">Music Room 1 &amp; 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Han Huiling (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Seng Phey Huang, Chyrl (Ms)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tues &amp; Thur (Term 2 - 4)</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
+    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.00 p.m.</span></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-f62g"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">Angklung</td>
+    <td class="tg-nj25" rowspan="4">Tuesday </td>
+    <td class="tg-nj25" rowspan="4">P3-P6</td>
+    <td class="tg-nj25" rowspan="4">2.15 p.m. </td>
+    <td class="tg-nj25" rowspan="4">4.45 p.m. </td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Tay Kim Ling (Miss)</span></td>
+    <td class="tg-0lax" rowspan="4">Angklung Room</td>
+    <td class="tg-f62g" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Hazeenah Bee (Mdm) - Sem 1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Yeo Chip Kheong (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Vathsala Balakrishnan (Mdm)&nbsp;&nbsp;&nbsp;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">Art Club</td>
+    <td class="tg-nj25" rowspan="4">Thursday</td>
+    <td class="tg-nj25" rowspan="4">P3-P6</td>
+    <td class="tg-nj25" rowspan="4">2.30 p.m.</td>
+    <td class="tg-nj25" rowspan="4">4.00 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Juhaizan Bin Abdul Hamid (Mr)</span></td>
+    <td class="tg-f62g" rowspan="4"></td>
+    <td class="tg-0lax" rowspan="4">Art Room 1, 2 <br>and 3</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Sim Woen Ting (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Ang Jing Xuan, Xavier (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Goh Lee Yen, Pauline (Mdm)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Drama Club</td>
+    <td class="tg-nj25" rowspan="3">Tuesday</td>
+    <td class="tg-nj25" rowspan="3">P3-P6</td>
+    <td class="tg-nj25" rowspan="3">3.30 p.m.</td>
+    <td class="tg-nj25" rowspan="3">5.00 p.m.</td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Sabariah Bte Kassim (Mdm)</span></td>
+    <td class="tg-0lax" rowspan="3">PAL Room 1</td>
+    <td class="tg-f62g" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Ng Hong Wah Desmond (Mr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Guo Xiao Jin (Ms) - Sem 1</span></td>
+  </tr>
 </tbody>
 </table>
