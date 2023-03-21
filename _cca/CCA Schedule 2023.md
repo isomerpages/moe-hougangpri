@@ -10,16 +10,17 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nj25{background-color:#D9D2E9;text-align:left;vertical-align:top}
+.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
 .tg .tg-f62g{background-color:#D8D8D8;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-aiub{background-color:#FF0;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-bcfl{background-color:#E7E6E6;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ktyi" rowspan="2"></th>
+    <th class="tg-kftd" rowspan="2"></th>
     <th class="tg-aiub" rowspan="2">CCA</th>
     <th class="tg-aiub" rowspan="2">Day/s</th>
     <th class="tg-aiub" rowspan="2">LEVEL/S</th>
