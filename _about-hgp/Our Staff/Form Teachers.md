@@ -98,6 +98,8 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+<br>
+
 
 <table>
 <thead>
@@ -185,6 +187,8 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+<br>
+
 <table>
 <thead>
   <tr>
@@ -270,6 +274,8 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <thead>
@@ -348,6 +354,8 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+<br>
+
 <table>
 <thead>
   <tr>
@@ -424,6 +432,8 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <thead>
@@ -505,6 +515,8 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <thead>
