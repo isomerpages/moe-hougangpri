@@ -35,3 +35,4 @@ description: ""
 | Front Gate ‘A’ (Yellow) | Hougang St 93 | 6.30 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm | Students Only |
 | Back Gate ‘D’ (Blue) | Sheltered Walkway (Block 970) | 6.45 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm | Students Only |
 | Side Gate 'E' (Orange) | Lower Indoor Sport Hall | 6.45 am to 7.30 am / 1.30 pm to 2.00pm | Students Only |
+	
