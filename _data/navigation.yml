@@ -45,11 +45,6 @@ links:
         url: /hgp-partners/student-care-centre
       - title: Internet Links
         url: /hgp-partners/links/internet-links
-  - title: Contact Us
-    url: /contact-us
-    sublinks:
-      - title: Compliments/Feedback
-        url: /contact-us/compliments-feedback
   - title: CCA
     url: /hgp-experience/total-curriculum/ccas/
     sublinks:
@@ -63,3 +58,8 @@ links:
         url: /permalink
       - title: Arts
         url: /permalink
+  - title: Contact Us
+    url: /contact-us
+    sublinks:
+      - title: Compliments/Feedback
+        url: /contact-us/compliments-feedback
