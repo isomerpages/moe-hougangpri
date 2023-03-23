@@ -14,8 +14,8 @@ description: ""
 <table width="501">
 <tbody>
 <tr>
-<td width="229">**Designation**</td>
-<td width="272">**Name**</td>
+<td width="229">Designation</td>
+<td width="272">Name</td>
 </tr>
 <tr>
 <td width="229">Chairperson</td>
