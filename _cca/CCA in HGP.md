@@ -1,8 +1,9 @@
 ---
-title: CCA Main
+title: CCA in HGP
 permalink: /cca/
 description: ""
 ---
+
 
 
 <p><strong>Mission:&nbsp;</strong>To provide every child the opportunity to appreciate and acquire skills, knowledge and character development in the areas of sports, clubs and societies, arts and uniform groups.</p>

@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CCA Main.md
+      - CCA in HGP.md
       - CCA Schedule 2023.md
       - Arts/.keep
       - Arts/Angklung.md

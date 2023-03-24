@@ -4,316 +4,159 @@ permalink: /hgp-experience/total-curriculum/sexuality-education-in-schools/
 description: ""
 third_nav_title: Total Curriculum
 ---
-<h4><strong>HOUGANG PRIMARY SCHOOL</strong></h4>
-<p><strong>Moe Sexua</strong><strong>lity Education in Schools</strong></p>
-<p>1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
-<p>2. The goals of Sexuality Education are:</p>
-<ol style="list-style-type: lower-roman;">
-<li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;</li>
-<li>To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u>&nbsp;about sexuality.</li>
-</ol>
-<p>3. The key messages of Sexuality Education are:</p>
-<ol style="list-style-type: lower-roman;">
-<li>Love and respect yourself as you love and respect others;</li>
-<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-<li>Make responsible decisions for yourself, your family and society; and</li>
-<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
-</ol>
-<p>You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
-<p><strong>Overview of HOUGANG PRIMARY SCHOOL&rsquo;S Sexuality Education Programme for 2022</strong></p>
-<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
-<ol style="list-style-type: lower-alpha;">
-<li>Science</li>
-<li>Form Teacher Guidance Period (FTGP)</li>
-<li>Character and Citizenship Education (CCE)</li>
-</ol>
-<p><strong><u>Sexuality Education</u></strong>: &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo; (Primary 5 &amp; 6) Teaching &amp; Learning resource package</p>
-<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. &ldquo;Curious Minds&rdquo; is a response to these challenges.</p>
-<p>7. The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, &ldquo;Curious Minds (2<sup>nd</sup>Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping&nbsp;students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</p>
-<p><strong>At Hougang Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:&nbsp;</strong></p>
-<p style="font-weight: 400; text-align: center;"><strong>Primary 5</strong></p>
-<table width="0">
+## Hougang Primary School
+
+##### **MOE Sexuality Education in Schools**
+##### 
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+
+2. The **Goals** of Sexuality Education are:
+
+(a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+
+(b) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+
+(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+
+3.       The **Key Messages** of Sexuality Education are:
+
+(a) Love and respect yourself as you love and respect others;
+
+(b) Build positive relationships based on love and respect (which are the foundation for strong families);
+
+(c) Make responsible decisions for yourself, your family and society; and
+
+(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+    
+
+**Overview of Hougang Primary School’s Sexuality Education Programme for 2023**
+
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) (please insert hyperlink: [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope)[](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)) for more information on the scope of Sexuality Education in the school curriculum.
+
+5. The subjects that incorporate topics on sexuality include:
+
+a. Science
+
+b. Character and Citizenship Education (CCE)
+
+**Sexuality Education Lessons**:
+
+6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
+
+
+7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+
+
+**At Hougang Primary School, the following Sexuality Education lessons will be taught in 2023:**   
+
+#### **Primary 5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 905px">
+<colgroup>
+<col style="width: 143px">
+<col style="width: 200px">
+<col style="width: 411px">
+<col style="width: 151px">
+</colgroup>
 <thead>
-<tr>
-<td style="text-align: center;" width="119">
-<p><strong>UNIT</strong></p>
-</td>
-<td style="text-align: center;" width="217">
-<p><strong>LESSONS / DURATION</strong></p>
-</td>
-<td style="text-align: center;" width="352">
-<p><strong>LESSON OBJECTIVES<br /></strong><strong>At the end of the lesson, pupils will be able to:</strong></p>
-</td>
-<td style="text-align: center;" width="159">
-<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
-</td>
-</tr>
+  <tr>
+    <th class="tg-34fe"><span style="font-weight:bold">CCE(FTGP) THEME</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold;color:black">LESSON TITLE / DURATION</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">LESSON OVERVIEW</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">TIME PERIOD (subject to changes)</span></th>
+  </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: center;" rowspan="4" width="119">
-<p>Gosh! I Am Changing</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>What Is Happening To Me?</p>
-<p>(30 min)</p>
-</td>
-<td width="352">
-<ul>
-<li>Know what puberty is</li>
-<li>Identify the physical changes during puberty</li>
-</ul>
-</td>
-<td width="159">
-<p>To be confirmed</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>What Can I Do? (Part 1)</p>
-<p>&nbsp;(30 min)</p>
-</td>
-<td width="352">
-<ul>
-<li>Identify the stresses caused by physical and emotional changes during puberty</li>
-<li>Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li>
-<li>Describe the emotions caused by physical changes during puberty</li>
-<li>Recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>What Can I Do? (Part 2)</p>
-<p>&nbsp;(30 min)</p>
-</td>
-<td width="352">
-<ul>
-<li>Identify the stresses caused by physical and emotional changes during puberty</li>
-<li>Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
-<li>Describe the emotions caused by physical changes during puberty</li>
-<li>Recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Main Task</p>
-<p>(30 min)</p>
-</td>
-<td width="352">
-<p>Description of the Main Task:</p>
-<p>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</p>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="119">
-<p>Where I Belong</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>What Are Families?</p>
-<p>(30 min)</p>
-<p>&nbsp;</p>
-</td>
-<td width="352">
-<ul>
-<li>Know that there are different types of family structures</li>
-<li>Know that every family is unique</li>
-<li>State that the three basic functions of families are to provide love, protection and guidance</li>
-<li>Identify the right sources of help to turn to when in need</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="119">
-<p>Where I Belong</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>What is My Role?</p>
-<p>&nbsp;(30 min)</p>
-</td>
-<td width="352">
-<ul>
-<li>Know that gender is about being male or female</li>
-<li>Choose not to stereotype by gender</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="119">
-<p>How Do I Keep Myself Safe?</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>What is Safety?</p>
-<p>(30 min)</p>
-</td>
-<td width="352">
-<ul>
-<li>Know what sexual abuse is</li>
-<li>Know that there are laws in Singapore that can protect them from sexual abuse</li>
-<li>Know their rights in keeping themselves safe from sexual abuse</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Stop It! Run! Tell!</p>
-<p>(30 min)</p>
-</td>
-<td width="352">
-<ul>
-<li>Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li>
-<li>Know their responsibilities in minimising the risk of sexual harm</li>
-</ul>
-</td>
-<td width="159">
-<p>To be confirmed</p>
-</td>
-</tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Growing Years</td>
+    <td class="tg-0pky">The Changes in Me (60 min)</td>
+    <td class="tg-lboi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0pky">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Did You Know? (60 min)</td>
+    <td class="tg-lboi">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being   exposed to sexually explicit materials and reject the viewing and/or reading   of pornographic materials. They will learn to evaluate their own responses   when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This   lesson is conducted separately for boys and girls in different classrooms, so   that the students will feel more comfortable during the discussions.   </td>
+    <td class="tg-0pky">Term 3 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Keeping Myself Safe (60 min)</td>
+    <td class="tg-0pky">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0pky">Term 3 Week 6</td>
+  </tr>
 </tbody>
 </table>
-<p style="font-weight: 400; text-align: center;"><strong>Primary 6</strong></p>
-<table width="0">
+
+
+#### **Primary 6**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 905px">
+<colgroup>
+<col style="width: 143px">
+<col style="width: 200px">
+<col style="width: 411px">
+<col style="width: 151px">
+</colgroup>
 <thead>
-<tr>
-<td style="text-align: center;" width="120">
-<p><strong>UNIT</strong></p>
-</td>
-<td style="text-align: center;" width="217">
-<p><strong>LESSONS / DURATION</strong></p>
-</td>
-<td style="text-align: center;" width="353">
-<p><strong>LESSON OBJECTIVES</strong></p>
-<p><strong>At the end of the lesson, pupils will be able to:</strong></p>
-</td>
-<td style="text-align: center;" width="159">
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
-</td>
-</tr>
+  <tr>
+    <th class="tg-34fe"><span style="font-weight:bold">CCE(FTGP) THEME</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold;color:black">LESSON TITLE / DURATION</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">LESSON OVERVIEW</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">TIME PERIOD (subject to changes)</span></th>
+  </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: center;" rowspan="5" width="120">
-<p>Are We More Than Friends?</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>Who Are My Friends?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Identify the qualities of a healthy friendship</li>
-<li>Recognise the importance of making wise choices in friendship</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Am I A Good Friend?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Identify the qualities that they have as a friend</li>
-<li>Recognise the importance of developing in oneself the qualities of a good friend</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>What is Love?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Identify the characteristics of love and infatuation</li>
-<li>Distinguish between the characteristics of love versus infatuation</li>
-<li>Identify strong feelings arising from infatuation</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Am I Falling In Love?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Manage strong feelings arising from infatuation</li>
-<li>Identify ways to manage and cope with teasing from peers</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Main Task</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<p>Description of the Main Task:</p>
-<p>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation.&nbsp;They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="120">
-<p>Friends or Foes?</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>Are You Really My Friend?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Identify the pros and cons of forming relationships through social networking websites</li>
-<li>Know ways to keep themselves safe when using social networking websites</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Is It All Safe?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Know that some information (like pornography) received through the Internet may be harmful</li>
-<li>Know ways to keep themselves safe when using social networking websites or the Internet</li>
-</ul>
-</td>
-<td width="159">To be confirmed</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="217">
-<p>Main Task</p>
-<p>&nbsp;(30 min)</p>
-</td>
-<td width="353">
-<p>Description of the Main Task:</p>
-<p>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.&nbsp; These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
-</td>
-<td width="159">
-<p>To be confirmed</p>
-</td>
-</tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Growing Years</td>
+    <td class="tg-c3ow">Are We More than Friends? Lesson 1 (60 min)</td>
+    <td class="tg-lboi">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td class="tg-0pky">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Are We More than Friends? Lesson 2 (60 min)</td>
+    <td class="tg-lboi">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td class="tg-0pky">Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Did You Know?* (60 min)</td>
+    <td class="tg-0pky">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0pky">Term 2 Week 5</td>
+  </tr>
 </tbody>
 </table>
-<h4><strong>Information for Parents</strong></h4>
-<p>8. Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="/files/GY%20Opt%20out%20Form%202022.pdf" target="_blank" rel="noopener">here</a></u>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office.</p>
-<p>10. Parents can contact the school at&nbsp;<strong><u>64897445</u></strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
-<p>11. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.&nbsp;</p>
+         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1CxSpF"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1CxSpM"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1CxSpL"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} span.ListParagraphChar {mso-style-name:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-priority:34; mso-style-unhide:no; mso-style-locked:yes; mso-style-parent:""; mso-style-link:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1"; mso-ansi-font-size:12.0pt; mso-bidi-font-size:12.0pt; mso-ansi-language:EN-GB; mso-fareast-language:ZH-CN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:SimSun; mso-ansi-language:EN-SG; mso-fareast-language:EN-SG; mso-bidi-language:AR-SA;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+***Please Note:***
+*For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.*
+
+
+#### **Information for Parents**
+
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/sed-optout-2023). The completed opt-out form is to be submitted by 30/03/2023.
+
+10.      Parents can contact the school at 6489 7445 or [hougang\_ps@moe.edu.sg](mailto:hougang_ps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
