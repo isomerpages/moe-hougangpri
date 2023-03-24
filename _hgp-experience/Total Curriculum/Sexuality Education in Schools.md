@@ -56,7 +56,7 @@ b. Character and Citizenship Education (CCE)
 
          
 
-**Primary 5**
+#### **Primary 5**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -105,4 +105,53 @@ b. Character and Citizenship Education (CCE)
 </table>
 
 
-**Primary 6**
+#### **Primary 6**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 905px">
+<colgroup>
+<col style="width: 143px">
+<col style="width: 200px">
+<col style="width: 411px">
+<col style="width: 151px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-34fe"><span style="font-weight:bold">CCE(FTGP) THEME</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold;color:black">LESSON TITLE / DURATION</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">LESSON OVERVIEW</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">TIME PERIOD (subject to changes)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Growing Years</td>
+    <td class="tg-c3ow">Are We More than Friends? Lesson 1 (60 min)</td>
+    <td class="tg-lboi">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td class="tg-0pky">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Are We More than Friends? Lesson 2 (60 min)</td>
+    <td class="tg-lboi">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td class="tg-0pky">Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Did You Know?* (60 min)</td>
+    <td class="tg-0pky">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0pky">Term 2 Week 5</td>
+  </tr>
+</tbody>
+</table>
+         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1CxSpF"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1CxSpM"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-name:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1CxSpL"; mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} span.ListParagraphChar {mso-style-name:"List Paragraph Char\\,Credits Char\\,Noise heading Char\\,alphabet listing Char\\,RUS List Char\\,List Paragraph1 Char\\,Normal 1 Char\\,Text Char\\,Cell bullets Char\\,Rec para Char\\,Number abc Char\\,a List Paragraph Char\\,Dot pt Char\\,No Spacing1 Char\\,Indicator Text Char"; mso-style-priority:34; mso-style-unhide:no; mso-style-locked:yes; mso-style-parent:""; mso-style-link:"List Paragraph\\,Credits\\,Noise heading\\,alphabet listing\\,RUS List\\,List Paragraph1\\,Normal 1\\,Text\\,Cell bullets\\,Rec para\\,Number abc\\,a List Paragraph\\,Dot pt\\,No Spacing1\\,List Paragraph Char Char Char\\,Indicator Text\\,Numbered Para 1\\,F5 List Paragraph\\,En tête 1"; mso-ansi-font-size:12.0pt; mso-bidi-font-size:12.0pt; mso-ansi-language:EN-GB; mso-fareast-language:ZH-CN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:SimSun; mso-ansi-language:EN-SG; mso-fareast-language:EN-SG; mso-bidi-language:AR-SA;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+***Please Note:***
+*For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.*
