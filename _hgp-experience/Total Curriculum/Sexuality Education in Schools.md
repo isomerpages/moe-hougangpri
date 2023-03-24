@@ -49,3 +49,60 @@ b. Character and Citizenship Education (CCE)
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
 
+
+**At Hougang Primary School, the following Sexuality Education lessons will be taught in 2023:**
+
+**2023 Sexuality Education Lessons in CCE 2021**
+
+         
+
+**Primary 5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 905px">
+<colgroup>
+<col style="width: 143px">
+<col style="width: 200px">
+<col style="width: 411px">
+<col style="width: 151px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-34fe"><span style="font-weight:bold">CCE(FTGP) THEME</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold;color:black">LESSON TITLE / DURATION</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">LESSON OVERVIEW</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold">TIME PERIOD (subject to changes)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Growing Years</td>
+    <td class="tg-0pky">The Changes in Me (60 min)</td>
+    <td class="tg-lboi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0pky">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Did You Know? (60 min)</td>
+    <td class="tg-lboi">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being   exposed to sexually explicit materials and reject the viewing and/or reading   of pornographic materials. They will learn to evaluate their own responses   when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This   lesson is conducted separately for boys and girls in different classrooms, so   that the students will feel more comfortable during the discussions.   </td>
+    <td class="tg-0pky">Term 3 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Keeping Myself Safe (60 min)</td>
+    <td class="tg-0pky">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-0pky">Term 3 Week 6</td>
+  </tr>
+</tbody>
+</table>
+
+
+**Primary 6**
