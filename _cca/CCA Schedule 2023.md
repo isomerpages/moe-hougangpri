@@ -4,413 +4,420 @@ permalink: /hgp-experience/total-curriculum/ccas/
 description: ""
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nj25{background-color:#D9D2E9;text-align:left;vertical-align:top}
-.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
-.tg .tg-f62g{background-color:#D8D8D8;text-align:left;vertical-align:top}
-.tg .tg-aiub{background-color:#FF0;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-bcfl{background-color:#E7E6E6;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-ssw7{background-color:#ffffff;border-color:inherit;font-size:12px;text-align:left;vertical-align:top}
+.tg .tg-738q{background-color:#ffffc7;border-color:inherit;font-size:12px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i8xi{background-color:#ffffff;border-color:inherit;font-size:12px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-icsl{background-color:#ffffc7;border-color:inherit;font-size:12px;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 1232px">
+<colgroup>
+<col style="width: 89px">
+<col style="width: 105px">
+<col style="width: 106px">
+<col style="width: 131px">
+<col style="width: 110px">
+<col style="width: 113px">
+<col style="width: 266px">
+<col style="width: 150px">
+<col style="width: 162px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-kftd" rowspan="2"></th>
-    <th class="tg-aiub" rowspan="2">CCA</th>
-    <th class="tg-aiub" rowspan="2">Day/s</th>
-    <th class="tg-aiub" rowspan="2">LEVEL/S</th>
-    <th class="tg-aiub" rowspan="2">From</th>
-    <th class="tg-aiub" rowspan="2">To</th>
-    <th class="tg-aiub" rowspan="2">Teachers IC</th>
-    <th class="tg-aiub" rowspan="2">Tuesday <br>Venue</th>
-    <th class="tg-aiub" rowspan="2">Thursday<br>Venue</th>
-  </tr>
-  <tr>
+    <th class="tg-icsl"></th>
+    <th class="tg-738q">CCA</th>
+    <th class="tg-738q">Day/s</th>
+    <th class="tg-738q">Level/s</th>
+    <th class="tg-738q">From</th>
+    <th class="tg-738q">To</th>
+    <th class="tg-738q">Teachers IC</th>
+    <th class="tg-738q">Tuesday Venue</th>
+    <th class="tg-738q">Thursday Venue</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bcfl" rowspan="22">Sports</td>
-    <td class="tg-0lax" rowspan="3">F.A.S.T</td>
-    <td class="tg-nj25" rowspan="3">Tuesday</td>
-    <td class="tg-nj25" rowspan="3">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">3.00 p.m.</td>
-    <td class="tg-nj25" rowspan="3">4.30 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Nasyrah Fitriawaty (Mdm) </span></td>
-    <td class="tg-0lax" rowspan="3">Hall</td>
-    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-i8xi" rowspan="23">Sports</td>
+    <td class="tg-ssw7" rowspan="3">F.A.S.T</td>
+    <td class="tg-ssw7" rowspan="3">Tuesday</td>
+    <td class="tg-ssw7" rowspan="3">P3-P6</td>
+    <td class="tg-ssw7" rowspan="3">3.00 p.m.</td>
+    <td class="tg-ssw7" rowspan="3">4.30 p.m.</td>
+    <td class="tg-ssw7">Nasyrah Fitriawaty (Mdm) </td>
+    <td class="tg-ssw7" rowspan="3">Hall</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Hamsiah Bte Ahmad (Mdm)</span></td>
+    <td class="tg-ssw7">Hamsiah Bte Ahmad (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Ser Yunn, Kevin (Mr)</span></td>
+    <td class="tg-ssw7">Tan Ser Yunn, Kevin (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3">Wushu</td>
-    <td class="tg-nj25" rowspan="3">Thursday</td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Group A</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Li Tiang, Lena (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">Hall</td>
+    <td class="tg-ssw7" rowspan="3">Wushu</td>
+    <td class="tg-ssw7" rowspan="3">Thursday</td>
+    <td class="tg-ssw7">Group A</td>
+    <td class="tg-ssw7">2.00 p.m.</td>
+    <td class="tg-ssw7">5.00 p.m.</td>
+    <td class="tg-ssw7">Lim Li Tiang, Lena (Mdm)</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
+    <td class="tg-ssw7" rowspan="3">Hall</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Group B</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00p.m.</span></td>
-    <td class="tg-0lax">Elieen Wong Yi Ling</td>
+    <td class="tg-ssw7">Group B</td>
+    <td class="tg-ssw7">2.00p.m.</td>
+    <td class="tg-ssw7">5.00p.m.</td>
+    <td class="tg-ssw7">Elieen Wong Yi Ling</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Group C</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2..00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.45 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Chye Hee, Cindy (Mdm)</span></td>
+    <td class="tg-ssw7">Group C</td>
+    <td class="tg-ssw7">2..00 p.m.</td>
+    <td class="tg-ssw7">2.45 p.m.</td>
+    <td class="tg-ssw7">Tan Chye Hee, Cindy (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3">Football</td>
-    <td class="tg-nj25" rowspan="2">Tuesday</td>
-    <td class="tg-nj25" rowspan="2">Team A</td>
-    <td class="tg-nj25" rowspan="2">2.30 p.m.</td>
-    <td class="tg-nj25" rowspan="2">4.00 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Hui Min, Celeste (Ms)</span></td>
-    <td class="tg-0lax" rowspan="3">Parade Square <br>&amp; Field</td>
-    <td class="tg-0lax" rowspan="3">Parade Square <br>&amp; Field</td>
+    <td class="tg-ssw7" rowspan="3">Football</td>
+    <td class="tg-ssw7" rowspan="2">Tuesday</td>
+    <td class="tg-ssw7" rowspan="2">Team A</td>
+    <td class="tg-ssw7" rowspan="2">2.30 p.m.</td>
+    <td class="tg-ssw7" rowspan="2">4.30 p.m.</td>
+    <td class="tg-ssw7">Tan Hui Min, Celeste (Ms)</td>
+    <td class="tg-ssw7" rowspan="3">Parade Square &amp; Field</td>
+    <td class="tg-ssw7" rowspan="3">Parade Square &amp; Field</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mohd Aliff Asraf (Mr)</span></td>
+    <td class="tg-ssw7">Mohd Aliff Asraf (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P3-P6 </span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.15 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3.45 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Suzana Abdul Rahim (Mdm)</span></td>
+    <td class="tg-ssw7">Thursday</td>
+    <td class="tg-ssw7">P3-P6 </td>
+    <td class="tg-ssw7">2.15 p.m.</td>
+    <td class="tg-ssw7">4.15 p.m.</td>
+    <td class="tg-ssw7">Suzana Abdul Rahim (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="4">Sport Climbing</td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tuesday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Exploratory A (~35 pax P3-P6)</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2:00 PM</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Chia Choong Kit Jameson (Mr</span></td>
-    <td class="tg-0lax" rowspan="4">Indoor Rockwall</td>
-    <td class="tg-0lax" rowspan="4">Indoor Rockwall</td>
+    <td class="tg-ssw7" rowspan="4">Sport Climbing</td>
+    <td class="tg-ssw7">Tuesday</td>
+    <td class="tg-ssw7">Exploratory A<br>(~35 pax P3-P6)</td>
+    <td class="tg-ssw7">2:00 PM</td>
+    <td class="tg-ssw7">3:30 PM</td>
+    <td class="tg-ssw7">Chia Choong Kit Jameson (Mr)</td>
+    <td class="tg-ssw7" rowspan="4">Indoor Rockwall</td>
+    <td class="tg-ssw7" rowspan="4">Indoor Rockwall</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tuesday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Exploratory B (~26 pax P3-P6)</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">5:00 PM</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Guan Chin, Alvin (Mr)</span></td>
+    <td class="tg-ssw7">Tuesday</td>
+    <td class="tg-ssw7">Exploratory B (~26 pax P3-P6)</td>
+    <td class="tg-ssw7">3:30 PM</td>
+    <td class="tg-ssw7">5:00 PM</td>
+    <td class="tg-ssw7">Tan Guan Chin, Alvin (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Competitive A (max.16 pax P3-P6)</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2:00 PM</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
-    <td class="tg-ktyi" rowspan="2">Renie Ashsyakirin Binte Adnan (Ms)</td>
+    <td class="tg-ssw7">Thursday</td>
+    <td class="tg-ssw7">Competitive A (max.16 pax P3-P6)</td>
+    <td class="tg-ssw7">2:00 PM</td>
+    <td class="tg-ssw7">3:30 PM</td>
+    <td class="tg-ssw7" rowspan="2">Renie Ashsyakirin Binte Adnan (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Competitive B (max.16 pax P3-P6)</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3:30 PM</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">5:00 PM</span></td>
+    <td class="tg-ssw7">Thursday</td>
+    <td class="tg-ssw7">Competitive B (max.16 pax P3-P6)</td>
+    <td class="tg-ssw7">3:30 PM</td>
+    <td class="tg-ssw7">5:00 PM</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">Hockey</td>
-    <td class="tg-nj25" rowspan="3">Tuesday</td>
-    <td class="tg-nj25" rowspan="3">P3, P4 , P5 and P6</td>
-    <td class="tg-nj25" rowspan="3">2.30 p.m.<br> </td>
-    <td class="tg-nj25" rowspan="3">4.30 p.m.<br></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Chen Si Xuan, Serene (Mdm)</span></td>
-    <td class="tg-0lax" rowspan="4">Lower ISH </td>
-    <td class="tg-0lax" rowspan="4">Lower ISH </td>
+    <td class="tg-ssw7" rowspan="5">Hockey</td>
+    <td class="tg-ssw7" rowspan="3">Tuesday</td>
+    <td class="tg-ssw7" rowspan="3">P3</td>
+    <td class="tg-ssw7" rowspan="3">2.30 p.m.<br>      </td>
+    <td class="tg-ssw7" rowspan="3">3.30 p.m.<br>     </td>
+    <td class="tg-ssw7">Chen Si Xuan, Serene (Mdm)</td>
+    <td class="tg-ssw7" rowspan="5">Lower ISH </td>
+    <td class="tg-ssw7" rowspan="5">Lower ISH </td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Ng Beng Hong, Eythan (Mr)</span></td>
+    <td class="tg-ssw7">Ng Beng Hong, Eythan (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Hazeenah Bee (Mdm) - Sem 2</span></td>
+    <td class="tg-ssw7">Hazeenah Bee (Mdm) - Sem 2</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P5 &amp; P6</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.30 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.30 p.m.</span></td>
-    <td class="tg-0lax">Tang Yuen Peng Angela (Mdm)</td>
+    <td class="tg-ssw7">Tuesday</td>
+    <td class="tg-ssw7">P4, P5 and P6</td>
+    <td class="tg-ssw7">2.30 p.m.</td>
+    <td class="tg-ssw7">4.30 p.m.</td>
+    <td class="tg-ssw7"> </td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="5">Volleyball</td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Monday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P2</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3.00 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Seah Kai Ren, Harold (Mr)</span></td>
-    <td class="tg-0lax" rowspan="5">Upper ISH</td>
-    <td class="tg-0lax" rowspan="5">Upper ISH</td>
+    <td class="tg-ssw7">Thursday</td>
+    <td class="tg-ssw7">P5 &amp; P6</td>
+    <td class="tg-ssw7">2.30 p.m.</td>
+    <td class="tg-ssw7">4.30 p.m.</td>
+    <td class="tg-ssw7">Tang Yuen Peng Angela (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Monday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P3</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.00 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Wong Keng (Mr)</span></td>
+    <td class="tg-ssw7" rowspan="5">Volleyball</td>
+    <td class="tg-ssw7">Monday</td>
+    <td class="tg-ssw7">P2</td>
+    <td class="tg-ssw7">2.00 p.m.</td>
+    <td class="tg-ssw7">3.00 p.m.</td>
+    <td class="tg-ssw7">Seah Kai Ren, Harold (Mr)</td>
+    <td class="tg-ssw7" rowspan="5">Upper ISH</td>
+    <td class="tg-ssw7" rowspan="5">Upper ISH</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tues</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P4</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">3.30 p.m.</span></td>
-    <td class="tg-ktyi" rowspan="2">Zarina Binte Sidik (Ms)</td>
+    <td class="tg-ssw7">Monday</td>
+    <td class="tg-ssw7">P3</td>
+    <td class="tg-ssw7">2.00 p.m.</td>
+    <td class="tg-ssw7">4.00 p.m.</td>
+    <td class="tg-ssw7">Wong Keng (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P5</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00 p.m.</span></td>
+    <td class="tg-ssw7">Tues</td>
+    <td class="tg-ssw7">P4</td>
+    <td class="tg-ssw7">2.00 p.m.</td>
+    <td class="tg-ssw7">3.30 p.m.</td>
+    <td class="tg-ssw7" rowspan="2">Zarina Binte Sidik (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tues &amp; Thurs</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P6</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">5.00 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tang Yuk Ching (Ms)</span></td>
+    <td class="tg-ssw7">Thursday</td>
+    <td class="tg-ssw7">P5</td>
+    <td class="tg-ssw7">2.00 p.m.</td>
+    <td class="tg-ssw7">5.00 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-bcfl" rowspan="7">Clubs</td>
-    <td class="tg-0lax" rowspan="3">Infocomm Club</td>
-    <td class="tg-nj25" rowspan="3">Thursday</td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">P3 &amp; P4</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.15 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.15 p.m.</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Chia Ee San, Serene (Mdm)</span></td>
-    <td class="tg-f62g"></td>
-    <td class="tg-0lax">Comp Lab 3</td>
+    <td class="tg-ssw7">Tues &amp; Thurs</td>
+    <td class="tg-ssw7">P6</td>
+    <td class="tg-ssw7">2.00 p.m.</td>
+    <td class="tg-ssw7">5.00 p.m.</td>
+    <td class="tg-ssw7">Tang Yuk Ching   (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-nj25" rowspan="2">P5 &amp; P6</td>
-    <td class="tg-nj25" rowspan="2">2.15 p.m.</td>
-    <td class="tg-nj25" rowspan="2">4.15 p.m.</td>
-    <td class="tg-ktyi" rowspan="2">Sahernizam Bin Limat (Mr)</td>
-    <td class="tg-f62g" rowspan="2"></td>
-    <td class="tg-0lax" rowspan="2">Comp Lab 3</td>
+    <td class="tg-i8xi" rowspan="7">Clubs</td>
+    <td class="tg-ssw7" rowspan="3">Infocomm Club</td>
+    <td class="tg-ssw7" rowspan="3">Thursday</td>
+    <td class="tg-ssw7">P3 &amp; P4</td>
+    <td class="tg-ssw7">2.15 p.m.</td>
+    <td class="tg-ssw7">4.15 p.m.</td>
+    <td class="tg-ssw7">Chia Ee San, Serene (Mdm)</td>
+    <td class="tg-ssw7"> </td>
+    <td class="tg-ssw7">Comp Lab 3</td>
+  </tr>
+  <tr>
+    <td class="tg-ssw7" rowspan="2">P5 &amp; P6</td>
+    <td class="tg-ssw7" rowspan="2">2.15 p.m.</td>
+    <td class="tg-ssw7" rowspan="2">4.15 p.m.</td>
+    <td class="tg-ssw7" rowspan="2">Sahernizam Bin Limat (Mr)</td>
+    <td class="tg-ssw7" rowspan="2"> <br></td>
+    <td class="tg-ssw7" rowspan="2">Comp Lab 3</td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2">Media Resource Library</td>
-    <td class="tg-nj25" rowspan="2">Thursday</td>
-    <td class="tg-nj25" rowspan="2">P3-P6</td>
-    <td class="tg-nj25" rowspan="2">2.00 p.m.</td>
-    <td class="tg-nj25" rowspan="2">3.30 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Yap Lin Lin (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="2"></td>
-    <td class="tg-0lax" rowspan="2">Library</td>
+    <td class="tg-ssw7" rowspan="2">Media Resource Library</td>
+    <td class="tg-ssw7" rowspan="2">Thursday</td>
+    <td class="tg-ssw7" rowspan="2">P3-P6</td>
+    <td class="tg-ssw7" rowspan="2">2.00 p.m.</td>
+    <td class="tg-ssw7" rowspan="2">3.30 p.m.</td>
+    <td class="tg-ssw7">Yap Lin Lin (Mdm)</td>
+    <td class="tg-ssw7" rowspan="2"> <br></td>
+    <td class="tg-ssw7" rowspan="2">Library</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Kong Song Yin (Mdm)</span></td>
+    <td class="tg-ssw7">Kong Song Yin (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">Photography Club</td>
-    <td class="tg-nj25" rowspan="2">Thursday</td>
-    <td class="tg-nj25" rowspan="2">P3 -P6</td>
-    <td class="tg-nj25" rowspan="2">2:15 p.m</td>
-    <td class="tg-nj25" rowspan="2">3:45 p.m</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">See Shi Yau (Mr)</span></td>
-    <td class="tg-f62g" rowspan="2"></td>
-    <td class="tg-0lax" rowspan="2">Comp Lab 1</td>
+    <td class="tg-ssw7" rowspan="2">Photography Club</td>
+    <td class="tg-ssw7" rowspan="2">Thursday</td>
+    <td class="tg-ssw7" rowspan="2">P3 -P6</td>
+    <td class="tg-ssw7" rowspan="2">2:15 p.m</td>
+    <td class="tg-ssw7" rowspan="2">3:45 p.m</td>
+    <td class="tg-ssw7">See Shi Yau (Mr)</td>
+    <td class="tg-ssw7" rowspan="2"> <br></td>
+    <td class="tg-ssw7" rowspan="2">Comp Lab 1</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Sabariah Bte Ismail (Mdm)</span><br></td>
+    <td class="tg-ssw7">Sabariah Bte Ismail   (Mdm)<br>     </td>
   </tr>
   <tr>
-    <td class="tg-bcfl" rowspan="3">UG</td>
-    <td class="tg-0lax" rowspan="3">Scouts</td>
-    <td class="tg-nj25" rowspan="3">Thursday</td>
-    <td class="tg-nj25" rowspan="3">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">2.30 p.m.</td>
-    <td class="tg-nj25" rowspan="3">4.00 p.m.</td>
-    <td class="tg-0lax">Arlitaharianty Sayrol (Mdm)</td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">Beside Cherish Room<br>Ideaz Room</td>
+    <td class="tg-i8xi" rowspan="3">UG</td>
+    <td class="tg-ssw7" rowspan="3">Scouts</td>
+    <td class="tg-ssw7" rowspan="3">Thursday</td>
+    <td class="tg-ssw7" rowspan="3">P3-P6</td>
+    <td class="tg-ssw7" rowspan="3">2.30 p.m.</td>
+    <td class="tg-ssw7" rowspan="3">4.00 p.m.</td>
+    <td class="tg-ssw7">Arlitaharianty Sayrol (Mdm)</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
+    <td class="tg-ssw7" rowspan="3">Beside Cherish Room<br>     Ideaz Room</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tan Tien Lung (Mr)</td>
+    <td class="tg-ssw7">Tan Tien Lung (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tan Mun Sing - Term 2 onwards</span></td>
+    <td class="tg-ssw7">Tan Mun Sing - Term 2 onwards</td>
   </tr>
   <tr>
-    <td class="tg-bcfl" rowspan="31">Arts</td>
-    <td class="tg-0lax" rowspan="3">Chinese Dance</td>
-    <td class="tg-nj25" rowspan="3">Thursday</td>
-    <td class="tg-nj25" rowspan="3">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">2.00 p.m.</td>
-    <td class="tg-nj25" rowspan="3">5.00 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tee Wen Chi (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">Pal Room 1</td>
+    <td class="tg-i8xi" rowspan="31">Arts</td>
+    <td class="tg-ssw7" rowspan="3">Chinese Dance</td>
+    <td class="tg-ssw7" rowspan="3">Thursday</td>
+    <td class="tg-ssw7" rowspan="3">P3-P6</td>
+    <td class="tg-ssw7" rowspan="3">2.00 p.m.</td>
+    <td class="tg-ssw7" rowspan="3">4.30 p.m.</td>
+    <td class="tg-ssw7">Tee Wen Chi (Mdm)</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
+    <td class="tg-ssw7" rowspan="3">Pal Room 1</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Fong Baoyu (Ms)</span></td>
+    <td class="tg-ssw7">Fong Baoyu (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Xu Pei Fen (Mdm)</span></td>
+    <td class="tg-ssw7">Xu Pei Fen (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3">Malay Dance</td>
-    <td class="tg-nj25" rowspan="3">Thursday</td>
-    <td class="tg-nj25" rowspan="3">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">2.15 p.m.</td>
-    <td class="tg-nj25" rowspan="3">4.15 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Nurhayati Binte Rosli (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">Dance Room</td>
+    <td class="tg-ssw7" rowspan="3">Malay Dance</td>
+    <td class="tg-ssw7" rowspan="3">Thursday</td>
+    <td class="tg-ssw7" rowspan="3">P3-P6</td>
+    <td class="tg-ssw7" rowspan="3">2.15 p.m.</td>
+    <td class="tg-ssw7" rowspan="3">4.15 p.m.</td>
+    <td class="tg-ssw7">Nurhayati Binte Rosli (Mdm)</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
+    <td class="tg-ssw7" rowspan="3">Dance Room</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Hui Heng , Ivy (Ms)</span></td>
+    <td class="tg-ssw7">Lim Hui Heng , Ivy (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Zarinah Bte Ali (Ms)</span></td>
+    <td class="tg-ssw7">Zarinah Bte Ali (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">Brass Band</td>
-    <td class="tg-nj25" rowspan="4">Thursday</td>
-    <td class="tg-nj25" rowspan="4">P3-P6</td>
-    <td class="tg-nj25" rowspan="4">2.00 p.m.</td>
-    <td class="tg-nj25" rowspan="4">5.00 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Choi Hwee (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="4"></td>
-    <td class="tg-0lax" rowspan="4">Theatrette </td>
+    <td class="tg-ssw7" rowspan="4">Brass Band</td>
+    <td class="tg-ssw7" rowspan="4">Thursday</td>
+    <td class="tg-ssw7" rowspan="4">P3-P6</td>
+    <td class="tg-ssw7" rowspan="4">2.00 p.m.</td>
+    <td class="tg-ssw7" rowspan="4">5.00 p.m.</td>
+    <td class="tg-ssw7">Lim Choi Hwee (Mdm)</td>
+    <td class="tg-ssw7" rowspan="4"> <br><br><br></td>
+    <td class="tg-ssw7" rowspan="4">Theatrette </td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Anisah Bte Abdul Khalid (Ms) - Sem 1</span></td>
+    <td class="tg-ssw7">Anisah   Bte Abdul Khalid (Ms) - Sem 1</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Shen Wenwen (Mdm) - Sem 1</span></td>
+    <td class="tg-ssw7">Shen Wenwen (Mdm) - Sem 1</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Chee Poh Lai</span></td>
+    <td class="tg-ssw7">Chee Poh Lai</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3">Indian Dance</td>
-    <td class="tg-nj25" rowspan="2">Tuesday </td>
-    <td class="tg-nj25" rowspan="3">P3- P6</td>
-    <td class="tg-nj25" rowspan="2">3.00pm </td>
-    <td class="tg-nj25" rowspan="2">5.00pm </td>
-    <td class="tg-0lax">Ellene Prashanti D/O T Yogarajah (Mrs)</td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">SFE Room</td>
+    <td class="tg-ssw7" rowspan="3">Indian Dance</td>
+    <td class="tg-ssw7" rowspan="2">Tuesday </td>
+    <td class="tg-ssw7" rowspan="3">P3- P6</td>
+    <td class="tg-ssw7" rowspan="2">3.00pm </td>
+    <td class="tg-ssw7" rowspan="2">5.00pm</td>
+    <td class="tg-ssw7">Ellene Prashanti D/O T Yogarajah (Mrs)</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
+    <td class="tg-ssw7" rowspan="3">SFE Room</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Gangadaran Khaanchennah (Mrs)</span></td>
+    <td class="tg-ssw7">Gangadaran Khaanchennah (Mrs)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Thursday</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.15 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.15 p.m.</span></td>
-    <td class="tg-0lax">Maris Stella Felix (Ms)</td>
+    <td class="tg-ssw7">Thursday</td>
+    <td class="tg-ssw7">2.15 p.m.</td>
+    <td class="tg-ssw7">4.15 p.m.</td>
+    <td class="tg-ssw7">Maris Stella Felix (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3">Ballet</td>
-    <td class="tg-nj25" rowspan="3">Thursday</td>
-    <td class="tg-nj25" rowspan="3">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">2.00p.m. </td>
-    <td class="tg-nj25" rowspan="3">4.30p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Lim Pei Wen (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">Pal Room 2</td>
+    <td class="tg-ssw7" rowspan="3">Ballet</td>
+    <td class="tg-ssw7" rowspan="3">Thursday</td>
+    <td class="tg-ssw7" rowspan="3">P3-P6</td>
+    <td class="tg-ssw7" rowspan="3">2.00p.m. </td>
+    <td class="tg-ssw7" rowspan="3">4.30p.m.</td>
+    <td class="tg-ssw7">Lim Pei Wen (Mdm)</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
+    <td class="tg-ssw7" rowspan="3">Pal Room 2</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Zhang Zhaoling (Mdm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+    <td class="tg-ssw7">Zhang Zhaoling (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Lek Su San (Mdm)</span><br></td>
+    <td class="tg-ssw7">Lek Su San (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">Guzheng Ensemble</td>
-    <td class="tg-nj25" rowspan="3">Thursday (Term 1)</td>
-    <td class="tg-nj25" rowspan="4">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">2.00p.m.</td>
-    <td class="tg-nj25" rowspan="3">5.00 PM</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Gui Sheau Li (Mdm)</span></td>
-    <td class="tg-f62g" rowspan="3"></td>
-    <td class="tg-0lax" rowspan="3">Music Room 1 &amp; 2</td>
+    <td class="tg-ssw7" rowspan="4">Guzheng Ensemble</td>
+    <td class="tg-ssw7" rowspan="4">Tuesday and Thursday (Term 2 - 4)</td>
+    <td class="tg-ssw7" rowspan="4">P3-P6</td>
+    <td class="tg-ssw7" rowspan="4">2.00 p.m.</td>
+    <td class="tg-ssw7" rowspan="4">4.00 p.m.</td>
+    <td class="tg-ssw7">Gui Sheau Li (Mdm)</td>
+    <td class="tg-ssw7" rowspan="4"> <br><br><br></td>
+    <td class="tg-ssw7" rowspan="4">Music Room 1 &amp; 2</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Han Huiling (Mdm)</span></td>
+    <td class="tg-ssw7">Han Huiling (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Seng Phey Huang, Chyrl (Ms)</span></td>
+    <td class="tg-ssw7" rowspan="2">Seng Phey Huang, Chyrl (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">Tues &amp; Thur (Term 2 - 4)</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">2.00 p.m.</span></td>
-    <td class="tg-nj25"><span style="background-color:#D9D2E9">4.00 p.m.</span></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-f62g"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">Angklung</td>
-    <td class="tg-nj25" rowspan="4">Tuesday </td>
-    <td class="tg-nj25" rowspan="4">P3-P6</td>
-    <td class="tg-nj25" rowspan="4">2.15 p.m. </td>
-    <td class="tg-nj25" rowspan="4">4.45 p.m. </td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Tay Kim Ling (Miss)</span></td>
-    <td class="tg-0lax" rowspan="4">Angklung Room</td>
-    <td class="tg-f62g" rowspan="4"></td>
+    <td class="tg-ssw7" rowspan="4">Angklung</td>
+    <td class="tg-ssw7" rowspan="4">Tuesday </td>
+    <td class="tg-ssw7" rowspan="4">P3-P6</td>
+    <td class="tg-ssw7" rowspan="4">2.15 p.m. </td>
+    <td class="tg-ssw7" rowspan="4">4.45 p.m. </td>
+    <td class="tg-ssw7">Tay Kim Ling (Miss)</td>
+    <td class="tg-ssw7" rowspan="4">Angklung Room</td>
+    <td class="tg-ssw7" rowspan="4"> <br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Hazeenah Bee (Mdm) - Sem 1</span></td>
+    <td class="tg-ssw7">Hazeenah Bee (Mdm) - Sem 1</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Yeo Chip Kheong (Mr)</span></td>
+    <td class="tg-ssw7">Yeo Chip Kheong (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Vathsala Balakrishnan (Mdm)&nbsp;&nbsp;&nbsp;</span></td>
+    <td class="tg-ssw7">Vathsala Balakrishnan   (Mdm)   </td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">Art Club</td>
-    <td class="tg-nj25" rowspan="4">Thursday</td>
-    <td class="tg-nj25" rowspan="4">P3-P6</td>
-    <td class="tg-nj25" rowspan="4">2.30 p.m.</td>
-    <td class="tg-nj25" rowspan="4">4.00 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Juhaizan Bin Abdul Hamid (Mr)</span></td>
-    <td class="tg-f62g" rowspan="4"></td>
-    <td class="tg-0lax" rowspan="4">Art Room 1, 2 <br>and 3</td>
+    <td class="tg-ssw7" rowspan="4">Art Club</td>
+    <td class="tg-ssw7" rowspan="4">Thursday</td>
+    <td class="tg-ssw7" rowspan="4">P3-P6</td>
+    <td class="tg-ssw7" rowspan="4">2.30 p.m.</td>
+    <td class="tg-ssw7" rowspan="4">4.00 p.m.</td>
+    <td class="tg-ssw7">Juhaizan Bin Abdul Hamid (Mr)</td>
+    <td class="tg-ssw7" rowspan="4"> <br><br><br></td>
+    <td class="tg-ssw7" rowspan="4">Art Room 1, 2 <br>     and 3</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Sim Woen Ting (Mdm)</span></td>
+    <td class="tg-ssw7">Sim Woen Ting (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Ang Jing Xuan, Xavier (Mr)</span></td>
+    <td class="tg-ssw7">Ang Jing Xuan, Xavier (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Goh Lee Yen, Pauline (Mdm)</span></td>
+    <td class="tg-ssw7">Goh Lee Yen, Pauline (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3">Drama Club</td>
-    <td class="tg-nj25" rowspan="3">Tuesday</td>
-    <td class="tg-nj25" rowspan="3">P3-P6</td>
-    <td class="tg-nj25" rowspan="3">3.30 p.m.</td>
-    <td class="tg-nj25" rowspan="3">5.00 p.m.</td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Sabariah Bte Kassim (Mdm)</span></td>
-    <td class="tg-0lax" rowspan="3">PAL Room 1</td>
-    <td class="tg-f62g" rowspan="3"></td>
+    <td class="tg-ssw7" rowspan="3">Drama Club</td>
+    <td class="tg-ssw7" rowspan="3">Tuesday</td>
+    <td class="tg-ssw7" rowspan="3">P3-P6</td>
+    <td class="tg-ssw7" rowspan="3">3.30 p.m.</td>
+    <td class="tg-ssw7" rowspan="3">5.00 p.m.</td>
+    <td class="tg-ssw7">Sabariah Bte Kassim (Mdm)</td>
+    <td class="tg-ssw7" rowspan="3">PAL Room 1</td>
+    <td class="tg-ssw7" rowspan="3"> <br><br></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Ng Hong Wah Desmond (Mr)</span></td>
+    <td class="tg-ssw7">Ng Hong Wah Desmond (Mr)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Guo Xiao Jin (Ms) - Sem 1</span></td>
+    <td class="tg-ssw7">Guo Xiao Jin (Ms) - Sem 1</td>
   </tr>
 </tbody>
 </table>
