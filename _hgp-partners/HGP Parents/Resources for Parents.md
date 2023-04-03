@@ -16,9 +16,8 @@ Leave of Absence Form
 
 School Transfer Application
 
-GIRO Application Form
+[GIRO Online Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
 Financial Assistance Scheme (FAS) Application Form
 
 Edusave Application Form
-
