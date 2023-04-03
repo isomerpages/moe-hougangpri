@@ -4,9 +4,7 @@ permalink: /hgp-partners/resources-for-parents/
 description: ""
 third_nav_title: HGP Parents
 ---
-<p><a></a></p><a>
-<p><strong>Forms &amp; Links</strong></p>
-</a>
+### Forms & Links
 
 [Group Personal Accident Insurance for Students Factsheet](https://go.gov.sg/gpaproductsheet2023)
 
