@@ -32,45 +32,44 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4f9w{background-color:#FFF;color:#323232;font-family:inherit;font-size:100%;font-weight:bold;text-align:left;
+.tg .tg-5tx6{background-color:#FFF;color:#323232;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+  font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4xsb{background-color:#FFF;color:#1A202C;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;text-align:left;
   vertical-align:top}
-.tg .tg-sc4m{background-color:#FFF;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fev1{background-color:#FFF;color:#1A202C;font-family:inherit;font-size:100%;text-align:left;vertical-align:top}
-.tg .tg-ryel{background-color:#FFF;color:#1A202C;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-4f9w"><span style="color:#323232">Gate</span></th>
-    <th class="tg-4f9w"><span style="color:#323232">Location</span></th>
-    <th class="tg-4f9w"><span style="color:#323232">Opening Hours</span></th>
-    <th class="tg-sc4m"><span style="color:#323232">Entry For</span></th>
+    <th class="tg-5tx6"><span style="color:#323232">Gate</span></th>
+    <th class="tg-5tx6"><span style="color:#323232">Location</span></th>
+    <th class="tg-5tx6"><span style="color:#323232">Opening Hours</span></th>
+    <th class="tg-5tx6"><span style="color:#323232">Entry For</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fev1">Main Gate / Foyer (Security Guard Post)</td>
-    <td class="tg-fev1">Hougang St 93</td>
-    <td class="tg-fev1">6.30am to 6.30pm</td>
-    <td class="tg-ryel">Parents, Visitors &amp; Students</td>
+    <td class="tg-4xsb">Main Gate / Foyer (Security Guard Post)</td>
+    <td class="tg-4xsb">Hougang St 93</td>
+    <td class="tg-4xsb">6.30am to 6.30pm</td>
+    <td class="tg-4xsb">Parents, Visitors &amp; Students</td>
   </tr>
   <tr>
-    <td class="tg-fev1">Front Gate ‘A’ (Yellow)</td>
-    <td class="tg-fev1">Hougang St 93</td>
-    <td class="tg-fev1">6.30 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm</td>
-    <td class="tg-ryel">Students Only</td>
+    <td class="tg-4xsb">Front Gate ‘A’ (Yellow)</td>
+    <td class="tg-4xsb">Hougang St 93</td>
+    <td class="tg-4xsb">6.30 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm</td>
+    <td class="tg-4xsb">Students Only</td>
   </tr>
   <tr>
-    <td class="tg-fev1">Back Gate ‘D’ (Blue)</td>
-    <td class="tg-fev1">Sheltered Walkway (Block 970)</td>
-    <td class="tg-fev1">6.45 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm</td>
-    <td class="tg-ryel">Students Only</td>
+    <td class="tg-4xsb">Back Gate ‘D’ (Blue)</td>
+    <td class="tg-4xsb">Sheltered Walkway (Block 970)</td>
+    <td class="tg-4xsb">6.45 am to 7.30 am / 1.30 pm to 2.00pm / 3.00 pm to 4.30pm</td>
+    <td class="tg-4xsb">Students Only</td>
   </tr>
   <tr>
-    <td class="tg-ryel">Side Gate 'E' (Orange)</td>
-    <td class="tg-ryel">Lower Indoor Sport Hall</td>
-    <td class="tg-ryel">6.45 am to 7.30 am / 1.30 pm to 2.00pm</td>
-    <td class="tg-ryel">Students Only</td>
+    <td class="tg-4xsb">Side Gate 'E' (Orange)</td>
+    <td class="tg-4xsb">Lower Indoor Sport Hall</td>
+    <td class="tg-4xsb">6.45 am to 7.30 am / 1.30 pm to 2.00pm</td>
+    <td class="tg-4xsb">Students Only</td>
   </tr>
 </tbody>
 </table>
