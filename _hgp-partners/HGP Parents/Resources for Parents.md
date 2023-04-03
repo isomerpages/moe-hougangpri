@@ -18,4 +18,4 @@ School Transfer Application
 
 [eGIRO Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
-Financial Assistance Scheme (FAS) Application Form
+eFinancial Assistance Scheme (eFAS) Application Form
