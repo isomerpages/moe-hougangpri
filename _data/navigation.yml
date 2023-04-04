@@ -19,6 +19,8 @@ links:
         url: /about-hgp/canteen-menu
       - title: Compliments & Feedback
         url: https://www.hougangpri.moe.edu.sg/contact-us/compliments-feedback/
+      - title: HGP Calendar
+        url: /permalink
   - title: HGP Experience
     url: /hgp-experience/total-curriculum
     sublinks:
