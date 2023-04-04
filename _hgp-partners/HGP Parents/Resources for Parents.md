@@ -4,6 +4,16 @@ permalink: /hgp-partners/resources-for-parents/
 description: ""
 third_nav_title: HGP Parents
 ---
-<p><strong>Parents’ Slides</strong></p>
-<p><a></a></p><a>
-<p><strong>Forms and Letters</strong></p>
+### Forms & Links
+
+[Group Personal Accident Insurance for Students Factsheet](https://go.gov.sg/gpaproductsheet2023)
+
+[Student Insurance Claims Portal](https://studentgpa.incomegroupins.com.sg/#/)
+
+Leave of Absence Form
+
+School Transfer Application
+
+[eGIRO Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
+
+eFinancial Assistance Scheme (eFAS) Application Form
