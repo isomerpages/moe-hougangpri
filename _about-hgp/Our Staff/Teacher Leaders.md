@@ -7,8 +7,8 @@ third_nav_title: Our Staff
 <table width="0">
 <tbody>
 <tr>
-<td style="text-align: center;" width="301"><strong>Appointment</strong></td>
-<td style="text-align: center;" width="272"><strong>Name</strong></td>
+<td style="text-align: left;" width="301"><strong>Appointment</strong></td>
+<td style="text-align: left;" width="272"><strong>Name</strong></td>
 </tr>
 <tr>
 <td width="301">Lead Teacher (Science)</td>
