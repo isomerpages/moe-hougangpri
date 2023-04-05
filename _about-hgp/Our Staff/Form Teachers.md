@@ -4,34 +4,7 @@ permalink: /about-hgp/our-staff/form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:}
-</style>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9z5e{background-color:#FFF;color:#454545;font-size:14px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-kdr7{background-color:#FFF;color:#454545;font-size:14px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9z5e"><span style="font-weight:bold;color:#454545;background-color:#FFF">Level</span></th>
-    <th class="tg-kdr7"><span style="font-weight:bold;color:#454545;background-color:#FFF">Class</span></th>
-    <th class="tg-9z5e"><span style="font-weight:bold;color:#454545;background-color:#FFF">Name of Teacher</span></th>
-    <th class="tg-9z5e"><span style="font-weight:bold;color:#454545;background-color:#FFF">Email Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,7 +14,7 @@ third_nav_title: Our Staff
 .tg .tg-zje9{background-color:#FFF;color:#454545;font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-9y02{background-color:#FFF;color:#454545;font-size:15px;text-align:left;vertical-align:top}
 </style>
-</tr></tbody></table><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-zje9"><span style="font-weight:bold;color:#454545;background-color:#FFF">Level</span></th>
