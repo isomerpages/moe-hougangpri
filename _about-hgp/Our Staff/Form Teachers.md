@@ -5,98 +5,105 @@ description: ""
 third_nav_title: Our Staff
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-zje9{background-color:#FFF;color:#454545;font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-9y02{background-color:#FFF;color:#454545;font-size:15px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ncov">Level</th>
-    <th class="tg-ncov">Class</th>
-    <th class="tg-ncov">Name of Teacher</th>
-    <th class="tg-ncov">Email Address</th>
+    <th class="tg-zje9"><span style="font-weight:bold;color:#454545;background-color:#FFF">Level</span></th>
+    <th class="tg-9y02"><span style="font-weight:bold;color:#454545;background-color:#FFF">Class</span></th>
+    <th class="tg-zje9"><span style="font-weight:bold;color:#454545;background-color:#FFF">Name of Teacher</span></th>
+    <th class="tg-zje9"><span style="font-weight:bold;color:#454545;background-color:#FFF">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ncov" rowspan="16">1</td>
-    <td class="tg-ncov">AYH (Covering)</td>
-    <td class="tg-ncov">Sabariah Bte Kassim</td>
-    <td class="tg-ncov">sabariah_kassim@moe.edu.sg</td>
+    <td rowspan="16" class="tg-9y02"><span style="color:#454545;background-color:#FFF">1</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">AYH (Covering)</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Sabariah Bte Kassim</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">sabariah_kassim@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="3">A</td>
-    <td class="tg-ncov">Tan Hwee Chin, Amanda</td>
-    <td class="tg-ncov">tan_hwee_chin@moe.edu.sg</td>
+    <td rowspan="3" class="tg-9y02"><span style="color:#454545;background-color:#FFF">A</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Tan Hwee Chin, Amanda</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">tan_hwee_chin@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Han Hui Ling</td>
-    <td class="tg-ncov">han_hui_ling@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Han Hui Ling</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">han_hui_ling@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Chia Kim Heoh</td>
-    <td class="tg-ncov">chia_kim_heoh@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Chia Kim Heoh</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">chia_kim_heoh@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="2">B</td>
-    <td class="tg-ncov">Elieen Wong Yi Ling</td>
-    <td class="tg-ncov">elieen_wong_yi_ling@moe.edu.sg</td>
+    <td rowspan="2" class="tg-9y02"><span style="color:#454545;background-color:#FFF">B</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Elieen Wong Yi Ling</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">elieen_wong_yi_ling@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Chia Choong Kit, Jameson</td>
-    <td class="tg-ncov">chia_choong_kit@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Chia Choong Kit, Jameson</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">chia_choong_kit@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="2">C</td>
-    <td class="tg-ncov">Nasyrah Fitriawaty</td>
-    <td class="tg-ncov">nasyrah_fitriawaty_ahmad_putri@moe.edu.sg</td>
+    <td rowspan="2" class="tg-9y02"><span style="color:#454545;background-color:#FFF">C</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Nasyrah Fitriawaty</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">nasyrah_fitriawaty_ahmad_putri@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Tang Yuk Ching</td>
-    <td class="tg-ncov">tang_yuk_ching@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Tang Yuk Ching</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">tang_yuk_ching@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="2">D</td>
-    <td class="tg-ncov">Sabariah Bte Kassim</td>
-    <td class="tg-ncov">sabariah_kassim@moe.edu.sg</td>
+    <td rowspan="2" class="tg-9y02"><span style="color:#454545;background-color:#FFF">D</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Sabariah Bte Kassim</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">sabariah_kassim@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Chen Si Xuan, Serene</td>
-    <td class="tg-ncov">chen_si_xuan@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Chen Si Xuan, Serene</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">chen_si_xuan@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="2">E</td>
-    <td class="tg-ncov">Chan Nai Mun</td>
-    <td class="tg-ncov">chan_nai_mun@moe.edu.sg</td>
+    <td rowspan="2" class="tg-9y02"><span style="color:#454545;background-color:#FFF">E</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Chan Nai Mun</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">chan_nai_mun@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Ellene Prashanti D/O<br>T Yogarajah</td>
-    <td class="tg-ncov">ellene_prashanti_t_yogarajah@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Ellene Prashanti D/O</span><br><span style="color:#454545;background-color:#FFF">T Yogarajah</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">ellene_prashanti_t_yogarajah@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="2">F</td>
-    <td class="tg-ncov">Tang Yuen Peng, Angela</td>
-    <td class="tg-ncov">tang_yuen_peng_angela@moe.edu.sg</td>
+    <td rowspan="2" class="tg-9y02"><span style="color:#454545;background-color:#FFF">F</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Tang Yuen Peng, Angela</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">tang_yuen_peng_angela@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Renie Ashsyakirin Bte Adnan</td>
-    <td class="tg-ncov">renie_ashsyakirin_adnan@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Renie Ashsyakirin Bte Adnan</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">renie_ashsyakirin_adnan@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="2">G</td>
-    <td class="tg-ncov">Arlitaharianty Sayrol</td>
-    <td class="tg-ncov">arlitaharianty_sayrol@moe.edu.sg</td>
+    <td rowspan="2" class="tg-9y02"><span style="color:#454545;background-color:#FFF">G</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Arlitaharianty Sayrol</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">arlitaharianty_sayrol@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Lim Choi Hwee, Gillian</td>
-    <td class="tg-ncov">lim_choi_hwee@moe.edu.sg</td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">Lim Choi Hwee, Gillian</span></td>
+    <td class="tg-9y02"><span style="color:#454545;background-color:#FFF">lim_choi_hwee@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
+  
+
+
+  
+
+
 
 <br>
 

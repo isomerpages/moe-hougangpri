@@ -5,7 +5,7 @@ description: ""
 third_nav_title: HGP Parents
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
-<p>Parent Volunteer Registration for&nbsp;<strong>2025 Primary 1</strong>&nbsp;admission will be opened from&nbsp;<strong>1 May 2022 to 30 April 2023.</strong></p>
+<p>Parent Volunteer Registration for&nbsp;<strong>2026 Primary 1</strong>&nbsp;admission will be opened from&nbsp;<strong>1 May 2023 to 30 April 2024.</strong></p>
 <p><strong>TERMS AND CONDITIONS</strong></p>
 <ol>
 
@@ -31,31 +31,31 @@ third_nav_title: HGP Parents
 <tbody>
 <tr>
 <td width="196" style="text-align: left;"><strong>YEAR OF CHILD'S BIRTH</strong></td>
-<td width="181" style="text-align: left;"><strong>2018</strong></td>
+<td width="181" style="text-align: left;"><strong>2019</strong></td>
 </tr>
 <tr>
 <td width="196" style="text-align: left;"><strong>P1 REGISTRATION YEAR</strong></td>
-<td width="181" style="text-align: left;">JUL 2024</td>
+<td width="181" style="text-align: left;">JUL 2025</td>
 </tr>
 <tr>
 <td width="196" style="text-align: left;"><strong>P1 ADMISSION YEAR</strong></td>
-<td width="181" style="text-align: left;">JAN 2025</td>
+<td width="181" style="text-align: left;">JAN 2026</td>
 </tr>
 <tr>
 <td width="196" style="text-align: left;"><strong>PV APPLICATION PERIOD</strong></td>
-<td width="181" style="text-align: left;">1 MAY 2022 - 30 APRIL 2023</td>
+<td width="181" style="text-align: left;">1 MAY 2023 - 30 APRIL 2024</td>
 </tr>
 <tr>
 <td width="196" style="text-align: left;"><strong>SELECTION PERIOD</strong></td>
-<td width="181" style="text-align: left;">MAY TO JUNE 2023</td>
+<td width="181" style="text-align: left;">MAY TO JUNE 2024</td>
 </tr>
 <tr>
 <td width="196" style="text-align: left;"><strong>COMMENCEMENT DATE FOR VOLUNTEERING WORK</strong></td>
-<td width="181" style="text-align: left;">JULY 2023 onwards</td>
+<td width="181" style="text-align: left;">JULY 2024 onwards</td>
 </tr>
 <tr>
 <td width="196" style="text-align: left;"><strong>COMPLETION DATE</strong></td>
-<td width="181" style="text-align: left;">by 31 MAY 2024</td>
+<td width="181" style="text-align: left;">by 31 MAY 2025</td>
 </tr>
 </tbody>
 </table>
