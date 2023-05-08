@@ -16,47 +16,48 @@ Price of daily School Bus Services (i.e. for sending pupils from home to school 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ee2o{background-color:#ffffc7;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;font-weight:bold;
+.tg .tg-69a3{font-family:Arial, Helvetica, sans-serif !important;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-4q1r{background-color:#ffffc7;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;font-weight:bold;
   text-align:center;vertical-align:middle}
-.tg .tg-79b4{background-color:#ffffc7;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;font-weight:bold;
+.tg .tg-wjxb{background-color:#ffffc7;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;font-weight:bold;
   text-align:center;vertical-align:top}
-.tg .tg-u84k{font-family:Arial, Helvetica, sans-serif !important;font-size:15px;text-align:center;vertical-align:top}
+.tg .tg-a9q3{font-family:Arial, Helvetica, sans-serif !important;font-size:16px;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th rowspan="2" class="tg-ee2o">   <br><span style="color:black">Distance</span></th>
-    <th colspan="2" class="tg-79b4">   <br><span style="color:black">Up to 15 seaters</span>   </th>
-    <th colspan="2" class="tg-79b4">   <br><span style="color:black">&gt;15-30 seaters</span>   </th>
-    <th colspan="2" class="tg-79b4">   <br><span style="color:black">&gt;30 seaters</span>   </th>
+    <th rowspan="2" class="tg-4q1r">   <br><span style="color:black">Distance</span></th>
+    <th colspan="2" class="tg-wjxb">   <br><span style="color:black">Up to 15 seaters</span>   </th>
+    <th colspan="2" class="tg-wjxb">   <br><span style="color:black">&gt;15-30 seaters</span>   </th>
+    <th colspan="2" class="tg-wjxb">   <br><span style="color:black">&gt;30 seaters</span>   </th>
   </tr>
   <tr>
-    <th class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1 way</span>&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2 way</span>&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1 way</span>&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2 way</span>&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1 way</span>&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2 way</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1 way</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2 way</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1 way</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2 way</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1 way</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2 way</span>&nbsp;&nbsp;&nbsp;</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Up to 2km</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>95&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>120&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>95&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>110&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>85&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>100&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Up to 2km</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>102&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>128&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>102&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>118&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>91&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br><span style="color:black"> </span>107&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br><span style="color:black">&gt;2 – 4km</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>110&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>140&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>110&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>130&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>100&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-u84k">&nbsp;&nbsp;&nbsp;<br>120&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-69a3">&nbsp;&nbsp;&nbsp;<br><span style="color:black">&gt;2 – 4km</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br><span style="color:black"> </span>118&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>150&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br><span style="color:black"> </span>118&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>139&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br><span style="color:black"> </span>107&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-a9q3">&nbsp;&nbsp;&nbsp;<br>128&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
