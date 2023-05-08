@@ -37,10 +37,10 @@ links:
   - title: HGP Partners
     url: /hgp-partners/hgp-sac
     sublinks:
-      - title: HGP SAC
-        url: /hgp-partners/hgp-sac
       - title: HGP Parents
         url: /hgp-partners/hgp-parents/main/
+      - title: HGP SAC
+        url: /hgp-partners/hgp-sac
       - title: HGP Student Alumni
         url: /hgp-partners/hgp-student-alumni
       - title: HGP Vendors
