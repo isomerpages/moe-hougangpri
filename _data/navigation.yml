@@ -43,10 +43,8 @@ links:
         url: /hgp-partners/hgp-parents/main/
       - title: HGP Student Alumni
         url: /hgp-partners/hgp-student-alumni
-      - title: Student Care Centre
-        url: /hgp-partners/student-care-centre
-      - title: Internet Links
-        url: /hgp-partners/links/internet-links
+      - title: HGP Vendors
+        url: /about-hgp/hgp-vendors/
   - title: CCA
     url: /hgp-experience/total-curriculum/ccas/
     sublinks:
