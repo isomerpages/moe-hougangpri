@@ -19,7 +19,7 @@ Increase awareness of healthy nutrition Increase consumption of fruit, vegetable
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cey4{border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-cey4{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
 .tg .tg-c9j9{background-color:#fffc9e;border-color:inherit;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table style="undefined;table-layout: fixed; width: 592px" class="tg">
