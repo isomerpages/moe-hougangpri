@@ -2,9 +2,9 @@ collections:
   hgp-partners:
     output: true
     order:
-      - HGP Vendors/School Canteen.md
-      - HGP Vendors/School Vendors Overview.md
       - HGP Vendors/.keep
+      - HGP Vendors/School Vendors Overview.md
+      - HGP Vendors/School Canteen.md
       - HGP Parents/.keep
       - HGP Parents/HGP Parents.md
       - HGP Parents/40–hour PV.md
