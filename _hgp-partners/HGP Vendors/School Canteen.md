@@ -92,6 +92,6 @@ Contact Person: Ms Jocelyn Kwan
 
 - Possess catering experience or experience operating in a school environment.
 
-- Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).[\[AK(3\]](#_msocom_3)&nbsp;
+- Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-\*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
