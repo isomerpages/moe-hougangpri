@@ -17,13 +17,13 @@ Bus fare:
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
-\*\*Service Requirements\*\*
+**Service Requirements**
 
 1.           \[Call for Proposal\][\[AK(1\]](#_msocom_1) 
 
 2.           \[Agreement for Appointment of School Bus Operator\][\[AK(2\]](#_msocom_2) 
 
-\*\*Application Procedure\*\*
+**Application Procedure**
 
 1\. Complete the \[Call for Proposal - Annex A\][\[AK(3\]](#_msocom_3) 
 
@@ -36,7 +36,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 \* Email: hougang\_ps@moe.edu.sg
 
 \* Contact Person: Ms Jocelyn Kwan
-
-
-
-
