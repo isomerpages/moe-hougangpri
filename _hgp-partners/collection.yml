@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - HGP Vendors/School Canteen.md
-      - HGP Vendors/HGP Vendors.md
+      - HGP Vendors/School Vendors Overview.md
       - HGP Vendors/.keep
       - HGP Parents/.keep
       - HGP Parents/HGP Parents.md
