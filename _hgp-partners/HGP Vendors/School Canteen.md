@@ -99,12 +99,3 @@ Increase awareness of healthy nutrition Increase consumption of fruit, vegetable
 \* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).[\[AK(3\]](#_msocom_3)&nbsp;
 
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
-
-
-
-
-
-
-
-
-
