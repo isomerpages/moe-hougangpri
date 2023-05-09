@@ -37,16 +37,16 @@ links:
   - title: HGP Partners
     url: /hgp-partners/hgp-sac
     sublinks:
-      - title: HGP SAC
-        url: /hgp-partners/hgp-sac
       - title: HGP Parents
         url: /hgp-partners/hgp-parents/main/
+      - title: HGP SAC
+        url: /hgp-partners/hgp-sac
       - title: HGP Student Alumni
         url: /hgp-partners/hgp-student-alumni
+      - title: HGP Vendors
+        url: /about-hgp/hgp-vendors/
       - title: Student Care Centre
-        url: /hgp-partners/student-care-centre
-      - title: Internet Links
-        url: /hgp-partners/links/internet-links
+        url: /hgp-partners/student-care-centre/
   - title: CCA
     url: /hgp-experience/total-curriculum/ccas/
     sublinks:

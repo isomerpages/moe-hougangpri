@@ -1,7 +1,8 @@
 ---
-title: HGP Vendors
-permalink: /about-hgp/permalink/
+title: School Vendors Overview
+permalink: /about-hgp/hgp-vendors-main/
 description: ""
+third_nav_title: HGP Vendors
 ---
 # School Vendors
 

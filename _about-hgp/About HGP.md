@@ -1,6 +1,6 @@
 ---
 title: About HGP
-permalink: /about-hgp/hgpcalendar/
+permalink: /about-hgp/
 description: ""
 ---
 <h4><strong>School Profile</strong></h4>
