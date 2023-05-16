@@ -12,4 +12,6 @@ third_nav_title: HGP Parents
 
 [Parents in Education (PiE)](https://www.hougangpri.moe.edu.sg/hgp-partners/resources-for-parents/parents-in-education-pie/)
 
+[Edusave Standing Order Form ](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
+
 [Resources for Parents](https://www.hougangpri.moe.edu.sg/hgp-partners/resources-for-parents/)
