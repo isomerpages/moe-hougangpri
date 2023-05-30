@@ -12,47 +12,7 @@ Increase awareness of healthy nutrition Increase consumption of fruit, vegetable
 
 [Canteen Menu 2023](/files/Canteen%20Stalls%20Menu%202023_2.pdf)
 #### School Canteen Advertisement
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cey4{border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-c9j9{background-color:#fffc9e;border-color:inherit;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 592px" class="tg">
-<colgroup>
-<col style="width: 213px">
-<col style="width: 136px">
-<col style="width: 243px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-c9j9">Type of Stall</th>
-    <th class="tg-c9j9">Closing Date</th>
-    <th class="tg-c9j9">Requirements</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cey4">Chinese Food</td>
-    <td class="tg-cey4">30 June 2023</td>
-    <td class="tg-cey4">Rice or noodles are acceptable</td>
-  </tr>
-  <tr>
-    <td class="tg-cey4">Malay Food</td>
-    <td class="tg-cey4">30 June 2023</td>
-    <td class="tg-cey4">Rice or noodles are acceptable</td>
-  </tr>
-  <tr>
-    <td class="tg-cey4">Western Food</td>
-    <td class="tg-cey4">30 June 2023</td>
-    <td class="tg-cey4">Halal/non-halal stalls are acceptable</td>
-  </tr>
-</tbody>
-</table>
+There are currently no available stalls for our school canteen.
 
 
 **Application Procedure**
