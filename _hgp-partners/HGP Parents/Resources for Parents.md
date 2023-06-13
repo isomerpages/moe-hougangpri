@@ -12,10 +12,10 @@ third_nav_title: HGP Parents
 
 [Student Insurance Claims Portal](https://studentgpa.incomegroupins.com.sg/#/)
 
-Leave of Absence Form (Coming soon!)
-
 [School Transfer Application](https://form.gov.sg/641d41fe87c4320012288ba0)
 
 [eGIRO Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
 eFinancial Assistance Scheme (eFAS) Application Form (Coming soon!)
+
+Leave of Absence Form (Coming soon!)
