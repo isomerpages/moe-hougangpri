@@ -6,6 +6,8 @@ third_nav_title: HGP Parents
 ---
 ### Forms & Links
 
+[Letter for Student's Absence from School](https://form.gov.sg/645360756dc31e00120596cc)
+
 [Group Personal Accident Insurance for Students Factsheet](https://go.gov.sg/gpaproductsheet2023)
 
 [Student Insurance Claims Portal](https://studentgpa.incomegroupins.com.sg/#/)
