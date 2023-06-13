@@ -14,7 +14,7 @@ third_nav_title: HGP Parents
 
 Leave of Absence Form (Coming soon!)
 
-School Transfer Application (Coming soon!)
+[School Transfer Application](https://form.gov.sg/641d41fe87c4320012288ba0)
 
 [eGIRO Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
