@@ -402,7 +402,7 @@ third_nav_title: Our Staff
     <td>gangadaran_khaanchennah@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Tan Mun Sing (Term 2)</td>
+    <td>Tan Mun Sing</td>
     <td>tan_mun_sing@moe.edu.sg</td>
   </tr>
   <tr>
