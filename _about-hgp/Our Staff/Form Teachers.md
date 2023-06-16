@@ -218,12 +218,12 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td rowspan="2">A</td>
-    <td>Wang Ai Pei</td>
-    <td>wang_ai_pei@moe.edu.sg</td>
+    <td>Kassidy Bin Kamis</td>
+    <td>kassidy_b_kamis@moe.edu.s</td>
   </tr>
   <tr>
-    <td>Kassidy Bin Kamis</td>
-    <td>kassidy_b_kamis@moe.edu.sg</td>
+    <td>Tong Hwee Kwan</td>
+    <td>tong_hwee_kwan_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">B</td>
@@ -393,7 +393,7 @@ third_nav_title: Our Staff
     <td>goh_lee_yen_pauline@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Lee Chai Ching, Veena (Sem 2)</td>
+    <td>Lee Chai Ching, Veena</td>
     <td>lee_chai_ching_veena@moe.edu.sg</td>
   </tr>
   <tr>
