@@ -36,8 +36,8 @@ third_nav_title: Our Staff
 <td width="312">Koh Meow Koon</td>
 </tr>
 <tr>
-<td width="301">Head Of Department (Science)</td>
-<td width="312">Chia Peng Hee, Colin (Sem 1) / Goh Hui Leng (Sem 2)</td>
+<td width="301">Head Of Department (Science (Covering))</td>
+<td width="312">Goh Hui Leng (Sem 2)</td>
 </tr>
 <tr>
 <td width="301">Head Of Department (Mother Tongue)</td>
@@ -56,7 +56,7 @@ third_nav_title: Our Staff
 <td width="312">Kassidy Bin Kamis</td>
 </tr>
 <tr>
-	<td width="301">Head Of Department (Student Management & Leadership)</td>
+	<td width="301">Head Of Department (Student Management &amp; Leadership)</td>
 <td width="312">Lim Hong Da, Dylan</td>
 </tr>
 <tr>
