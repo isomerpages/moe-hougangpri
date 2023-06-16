@@ -297,7 +297,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td rowspan="3">A</td>
-    <td>Tong Hwee Kwan (Sem 2)</td>
+    <td>Tong Hwee Kwan</td>
     <td>tong_hwee_kwan_a@moe.edu.sg</td>
   </tr>
   <tr>
