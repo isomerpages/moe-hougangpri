@@ -36,8 +36,8 @@ third_nav_title: Our Staff
 <td width="312">Koh Meow Koon</td>
 </tr>
 <tr>
-<td width="301">Head Of Department (Science (Covering))</td>
-<td width="312">Goh Hui Leng (Sem 2)</td>
+<td width="301">Head Of Department (Science)</td>
+<td width="312">Goh Hui Leng (Covering)</td>
 </tr>
 <tr>
 <td width="301">Head Of Department (Mother Tongue)</td>
