@@ -477,8 +477,6 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td rowspan="3">C</td>
-    <td>Colin Chia Peng Hee (Sem 1)</td>
-    <td>chia_peng_hee_colin@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Lim Hui Heng, Ivy </td>
