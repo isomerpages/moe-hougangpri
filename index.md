@@ -4,7 +4,7 @@ title: Hougang Primary School
 description: Official website of Hougang Primary School
 image: /images/logo.jpg
 permalink: /
-notification: ""
+notification: New! HGP Calendar for parents under 'About HGP'
 sections:
   - hero:
       background: /images/banner.gif
