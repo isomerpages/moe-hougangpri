@@ -10,7 +10,8 @@ The programme aims to achieve the following objectives:
 
 Increase awareness of healthy nutrition Increase consumption of fruit, vegetables and whole-grains Reduce intake of high fat, salt and sugar Under this programme, stallholders will be selling set meal that consists of the four food groups, ie. rice/noodles, meat, vegetable and fruit. The set meal will come in small or big portion that ranges from $1.30 to $2.00. The Canteen Menu can be found below.
 
-[Canteen Menu 2023](/files/Canteen%20Stalls%20Menu%202023_2.pdf)
+[Canteen Menu 2023](/files/canteen%20stalls%20menu%202023_20%20june%202023.pdf)
+
 #### School Canteen Advertisement
 There are currently no available stalls for our school canteen.
 
