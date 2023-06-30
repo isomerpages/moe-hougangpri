@@ -71,7 +71,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[Call for Proposal\][\[AK(1\]](#_msocom_1)&nbsp;
+1. Call for proposals [Attachment 1 Call for proposals]()
+
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[Agreement for Appointment of School Bus Operator\][\[AK(2\]](#_msocom_2)&nbsp;
 
