@@ -72,11 +72,11 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Service Requirements**
 
 1. Call for proposals
-- [Attachment 1 Call of Proposals]()
+- [Attachment 1 Call for Proposal](/files/attachment%201%20call%20for%20proposals.pdf)
 
 2. Agreement for appointment of school bus operators
-- [Attachment 3 Agreement for Appointment of Sch Bus Operator]()
-- [Attachment 4 Request for Sch Bus Services]()
+- [Attachment 3 Agreement for Appointment of Sch Bus Operator](/files/attachment%203%20agreement%20for%20appointment.pdf)
+- [Attachment 4 Request for Sch Bus Services](/files/attachment%204%20request%20for%20school%20bus%20services.pdf)
 
 **Application Procedure**
 
