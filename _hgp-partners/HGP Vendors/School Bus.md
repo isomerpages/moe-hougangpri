@@ -71,21 +71,21 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 
-1. Call for proposals [Attachment 1 Call for proposals]()
+1. Call for proposals
+- [Attachment 1 Call of Proposals]()
 
-
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[Agreement for Appointment of School Bus Operator\][\[AK(2\]](#_msocom_2)&nbsp;
+2. Agreement for appointment of school bus operators
+- [Attachment 3 Agreement for Appointment of Sch Bus Operator]()
+- [Attachment 4 Request for Sch Bus Services]()
 
 **Application Procedure**
 
-1\. Complete the \[Call for Proposal - Annex A\][\[AK(3\]](#_msocom_3)&nbsp;
+1. Complete the Call for Proposal Annex A
+- [Attachment 2 Call for Proposal (Hougang Pri Sch)](/files/attachment%202%20-%20hougang%20pri%20sch.pdf)
 
-2\. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023[\[SYS(4\]](#_msocom_4)&nbsp;, to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School's General Office.
 
-\* Address: 1, Hougang Street 93 Singapore 534238
-
-\* Contact No: 6489 7445
-
-\* Email: hougang\_ps@moe.edu.sg
-
-\* Contact Person: Ms Jocelyn Kwan
+- Address: 1, Hougang Street 93 Singapore 534238
+- Contact No: 6489 7445
+- Email: hougang_ps@moe.edu.sg
+- Contact Person: Ms Jocelyn Kwan
