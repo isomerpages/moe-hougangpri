@@ -2,5 +2,6 @@ collections:
   open-house-2023:
     output: true
     order:
+      - Virtual Tour Around HGP.md
       - Welcome to HGP!.md
       - Niche Programme.md
