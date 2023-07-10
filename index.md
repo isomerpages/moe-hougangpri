@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Announcements
+        - title: Open House 2023
           description: ""
-          url: /hgps/announcements/
+          url: ""
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
