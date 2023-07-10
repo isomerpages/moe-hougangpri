@@ -11,4 +11,3 @@ description: ""
 [Click here for a virtual tour around our school!](https://tubear.co/3d-model/hougang-primary-school/fullscreen/)
 
 ![](/images/vt_aerial.jpg)
-
