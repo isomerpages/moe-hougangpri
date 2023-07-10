@@ -36,6 +36,7 @@ Address: 1, Hougang Street 93 S534238
 Contact No: 6489 7445
 
 Email: hougang_ps@moe.edu.sg
+
 Contact Person: Ms Jocelyn Kwan
 
 
