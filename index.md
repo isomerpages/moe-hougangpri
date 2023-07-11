@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: ""
-          url: /open-house-2023/main/
+          url: ""
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
