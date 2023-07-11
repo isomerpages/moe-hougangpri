@@ -1,0 +1,8 @@
+collections:
+  open-house-2023:
+    output: true
+    order:
+      - Welcome to HGP!.md
+      - Niche Programme.md
+      - Virtual Tour Around HGP.md
+      - FAQs.md
