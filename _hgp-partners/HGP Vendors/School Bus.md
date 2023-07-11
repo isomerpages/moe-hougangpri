@@ -83,7 +83,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 1. Complete the Call for Proposal Annex A
 - [Attachment 2 Call for Proposal (Hougang Pri Sch)](/files/attachment%202%20-%20hougang%20pri%20sch.pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School's General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 18 July 2023, to the School's General Office.
 
 - Address: 1, Hougang Street 93 Singapore 534238
 - Contact No: 6489 7445
