@@ -4,14 +4,14 @@ title: Hougang Primary School
 description: Official website of Hougang Primary School
 image: /images/logo.jpg
 permalink: /
-notification: New! HGP Calendar for parents under 'About HGP'
+notification: Come visit us! Click on the 'e-Open House 2023' button below!
 sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Open House 2023
+        - title: e-Open House 2023
           description: ""
-          url: ""
+          url: /open-house-2023/main/
         - title: Links
           description: For teachers, students/parents
           url: /internet-links

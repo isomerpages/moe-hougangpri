@@ -72,7 +72,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Service Requirements**
 
 1. Call for proposals
-- [Attachment 1 Call for Proposal](/files/attachment%201%20call%20for%20proposals.pdf)
+- [Attachment 1 Call for Proposal](/files/attachment%201%20call%20for%20proposals%20by%20school%20-%20hougang%20primary%20school%20(version%20june%202023)_v2.pdf)
 
 2. Agreement for appointment of school bus operators
 - [Attachment 3 Agreement for Appointment of Sch Bus Operator](/files/attachment%203%20agreement%20for%20appointment.pdf)
