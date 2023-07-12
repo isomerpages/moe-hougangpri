@@ -4,7 +4,7 @@ title: Hougang Primary School
 description: Official website of Hougang Primary School
 image: /images/logo.jpg
 permalink: /
-notification: Come visit our 'Open House 2023' page below!
+notification: Come visit us via 'e-Open House 2023' button below!
 sections:
   - hero:
       background: /images/banner.gif
