@@ -154,8 +154,6 @@ third_nav_title: Our Staff
     <td>shen_wenwen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Guo Xiaojin</td>
-    <td>guo_xiaojin@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">E</td>
