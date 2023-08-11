@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: e-Open House 2023
-          description: ""
-          url: /open-house-2023/main/
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
