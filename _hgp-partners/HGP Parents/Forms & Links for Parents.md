@@ -16,6 +16,6 @@ third_nav_title: HGP Parents
 
 [eGIRO Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
-eFinancial Assistance Scheme (eFAS) Application Form (Coming soon!)
+[Leave of Absence Application Form](https://form.gov.sg/64bdd91114532f0012895704)
 
-Leave of Absence Form (Coming soon!)
+eFinancial Assistance Scheme (eFAS) Application Form (Coming soon!)
