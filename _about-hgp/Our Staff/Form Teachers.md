@@ -176,11 +176,11 @@ third_nav_title: Our Staff
   <tr>
     <td rowspan="2">G</td>
     <td>Caroline Woo</td>
-    <td>caroline_seet@schools.gov.sg</td>
+    <td>caroline_seet@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Tan Hui Min, Celeste</td>
-    <td>tan_hui_min_b@moe.edu.sg</td>
+    <td>celeste_tan_hui_min@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
