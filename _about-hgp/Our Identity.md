@@ -18,6 +18,6 @@ description: ""
 </tbody>
 </table>
 <h4><strong>School Song</strong></h4>
-<p>Here in Hougang Primary. We work and play together.<br>With perserverance and joy. In our hearts we will treasure.</p>
+<p>Here in Hougang Primary. We work and play together.<br>With perseverance and joy. In our hearts we will treasure.</p>
 <p>Chorus:<br>River of life. Flowing in our hearts.<br>River of life. With a passion to learn.<br>Have a vision to share. We make our mission to care.</p>
 <p>Here in Hougang Primary. We excel with character.<br>To bring her honour and glory. And champion her cause with valour.</p>
