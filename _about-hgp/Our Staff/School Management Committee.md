@@ -45,7 +45,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="301">Head Of Department (CCE)</td>
-<td width="312">Caroline Woo</td>
+<td width="312"></td>
 </tr>
 <tr>
 <td width="301">Head Of Department (ICT &amp; Innovation)</td>
