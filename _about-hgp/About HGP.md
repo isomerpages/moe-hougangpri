@@ -17,10 +17,10 @@ description: ""
 | Level | Days | Reporting Time | Curriculum Time | Recess Time | Snack Time | 
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | Pri 1    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 9.00am - 9.30am     | Around 12 noon (5 to 10 mins)     |
-| Pri 2    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 9.30am - 10.00am     | Around 12 noon (5 to 10 mins     |
-| Pri 3    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 10.00am - 10.30am     | Around 12 noon (5 to 10 mins     |
-| Pri 4    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 10.30am - 11.00am     | Around 12 noon (5 to 10 mins     |
-| Pri 5    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.00am - 11.30am     | Around 12 noon (5 to 10 mins     |
+| Pri 2    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 9.30am - 10.00am     | Around 12 noon (5 to 10 mins)     |
+| Pri 3    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 10.00am - 10.30am     | Around 12 noon (5 to 10 mins)     |
+| Pri 4    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 10.30am - 11.00am     | Around 12 noon (5 to 10 mins)     |
+| Pri 5    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.00am - 11.30am     | Around 12 noon (5 to 10 mins)     |
 | Pri 6    | Mon - Fri     | Before 7.30am     | 7.30am to 1.30pm     | 11.30am - 12.00nn     | 9.30am     |
 
 

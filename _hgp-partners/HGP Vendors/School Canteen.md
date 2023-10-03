@@ -14,8 +14,39 @@ Increase awareness of healthy nutrition Increase consumption of fruit, vegetable
 
 
 #### School Canteen Advertisement
-There are currently no available stalls for our school canteen.
+The school is looking for canteen stall holders. Please refer to the table below for more details.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apdk{background-color:#FFF;color:#484848;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-kwi2{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kwi2"><span style="color:#323232">Type of Stall</span></th>
+    <th class="tg-kwi2"><span style="color:#323232">Closing Date</span></th>
+    <th class="tg-kwi2"><span style="color:#323232">Requirements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apdk">Food Stall (Halal)</td>
+    <td class="tg-apdk">30 June 2024</td>
+    <td class="tg-apdk">All cuisines are welcomed</td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1">Food Stall (Non-Halal)</td>
+    <td class="tg-x5q1">30 June 2024</td>
+    <td class="tg-apdk">All cuisines are welcomed</td>
+  </tr>
+</tbody>
+</table>
 
 **Application Procedure**
 
