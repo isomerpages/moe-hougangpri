@@ -217,7 +217,7 @@ third_nav_title: Our Staff
     <td>tong_hwee_kwan_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">B</td>
+    <td rowspan="3">B</td>
     <td>Kalaivani Balrasan</td>
     <td>kalaivani_balrasan@moe.edu.sg</td>
   </tr>
@@ -225,6 +225,10 @@ third_nav_title: Our Staff
     <td>Tan Tien Lung</td>
     <td>tan_tien_lung@moe.edu.sg</td>
   </tr>
+  <tr>
+		<td>Lee Chai Cheng, Veena</td>
+    <td>lee_chai_ching_veena@moe.edu.sg</td>
+		</tr>
   <tr>
     <td rowspan="2">C</td>
     <td>Ng Beng Hong, Eythan </td>
@@ -384,8 +388,6 @@ third_nav_title: Our Staff
     <td>goh_lee_yen_pauline@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Lee Chai Ching, Veena</td>
-    <td>lee_chai_ching_veena@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="3">C</td>
