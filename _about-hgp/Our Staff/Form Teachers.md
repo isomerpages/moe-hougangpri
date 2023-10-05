@@ -202,7 +202,7 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td rowspan="14">3</td>
+    <td rowspan="15">3</td>
     <td>AYH</td>
     <td>Muhammad Aliff Asraf </td>
     <td>muhammad_aliff_asraf@moe.edu.sg</td>
@@ -265,11 +265,11 @@ third_nav_title: Our Staff
     <td>Anisah Bte Abdul Khalid</td>
     <td>anisah_abdul_khalid@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Kong Song Yin</td>
+  <tr><td>Kong Song Yin</td>
     <td>kong_song_yin@moe.edu.sg</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <br>
