@@ -202,7 +202,7 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td rowspan="14">3</td>
+    <td rowspan="15">3</td>
     <td>AYH</td>
     <td>Muhammad Aliff Asraf </td>
     <td>muhammad_aliff_asraf@moe.edu.sg</td>
@@ -217,7 +217,7 @@ third_nav_title: Our Staff
     <td>tong_hwee_kwan_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">B</td>
+    <td rowspan="3">B</td>
     <td>Kalaivani Balrasan</td>
     <td>kalaivani_balrasan@moe.edu.sg</td>
   </tr>
@@ -225,6 +225,10 @@ third_nav_title: Our Staff
     <td>Tan Tien Lung</td>
     <td>tan_tien_lung@moe.edu.sg</td>
   </tr>
+  <tr>
+		<td>Lee Chai Cheng, Veena</td>
+    <td>lee_chai_ching_veena@moe.edu.sg</td>
+		</tr>
   <tr>
     <td rowspan="2">C</td>
     <td>Ng Beng Hong, Eythan </td>
@@ -261,11 +265,11 @@ third_nav_title: Our Staff
     <td>Anisah Bte Abdul Khalid</td>
     <td>anisah_abdul_khalid@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Kong Song Yin</td>
+  <tr><td>Kong Song Yin</td>
     <td>kong_song_yin@moe.edu.sg</td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 <br>
@@ -384,8 +388,6 @@ third_nav_title: Our Staff
     <td>goh_lee_yen_pauline@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Lee Chai Ching, Veena</td>
-    <td>lee_chai_ching_veena@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="3">C</td>
