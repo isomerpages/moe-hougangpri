@@ -8,4 +8,5 @@ description: ""
 </a>
 		<br><a href="https://file.go.gov.sg/hgpheartbeatissue03.pdf" target="_blank" rel="noopener">HGP Heartbeat Issue 03 (Semester One 2023)
 </a>
-</p>
+	<br><a href="https://go.gov.sg/hgp-heartbeat-4" target="_blank" rel="noopener">HGP Heartbeat Issue 04 (Semester Two 2023)
+</a></p>
