@@ -5,7 +5,7 @@ description: ""
 third_nav_title: HGP Vendors
 variant: markdown
 ---
-Please refer to the book list for 2024 below.
+Please refer to the link below for the 2024 book list.
 
 [Primary 1 Booklist for 2024](/files/p1%20booklist%20for%202024.pdf)
 
