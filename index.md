@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
+        - title: "2024 P1 "
+          description: Important Information
+          url: ""
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
@@ -18,7 +21,4 @@ sections:
         - title: HGP Heartbeat
           description: eNewsletter
           url: /hgp-heartbeat-enewsletter
-        - title: "2024 P1 Parents "
-          description: ""
-          url: ""
 ---
