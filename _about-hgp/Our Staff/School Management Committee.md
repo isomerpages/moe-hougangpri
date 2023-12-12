@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-hgp/our-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <h4><strong>School Management Committee</strong></h4>
 <table width="0">
@@ -45,7 +46,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="301">Head Of Department (CCE)</td>
-<td width="312"></td>
+<td width="312">Seow Kaifeng, Reuben</td>
 </tr>
 <tr>
 <td width="301">Head Of Department (ICT &amp; Innovation)</td>
@@ -61,26 +62,25 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="301">Year Head (P1 &amp; P2)</td>
-<td width="312">Vathsala Balakrishnan (Covering)</td>
+<td width="312">Vathsala Balakrishnan</td>
 </tr>
 <tr>
-<td width="301">Year Head (P3 &amp; P6)</td>
+<td width="301">Year Head (P3 &amp; P4)</td>
 <td width="312">Goh Hui Leng</td>
 </tr>
 <tr>
-<td width="301">Year Head (P4 &amp; P5)</td>
+<td width="301">Year Head (P5 &amp; P6)</td>
 <td width="312">Ong Yin Chiun, Susan</td>
 </tr>
 <tr>
-<td width="301">Assistant Year Head (P1)</td>
-<td width="312">Sabariah Bte Kassim (Covering)</td>
-</tr>
-<tr>
-<td width="301">Assistant Year Head (P3)</td>
-<td width="312">Muhd Aliff Asraf</td>
+
 </tr>
 <tr>
 <td width="301">Assistant Year Head (P4)</td>
+<td width="312">Muhd Aliff Asraf</td>
+</tr>
+<tr>
+<td width="301">Assistant Year Head (P5)</td>
 <td width="312">Ng Hong Wah, Desmond</td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ third_nav_title: Our Staff
 <td width="312">Toh Zhi Hao Joel Nathaniel</td>
 </tr>
 <tr>
-<td width="301">Subject Head (English)</td>
+<td width="301">Level Head (English)</td>
 <td width="312">Zarinah Binte Ali</td>
 </tr>
 <tr>
