@@ -3,6 +3,7 @@ title: Teacher Leaders
 permalink: /about-hgp/our-staff/teacher-leaders/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <table width="0">
 <tbody>
@@ -23,7 +24,7 @@ third_nav_title: Our Staff
 <td width="272">Lim Pei Wen</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (Lower Primary Learners)</td>
+<td width="301">Senior Teacher (English Language)</td>
 <td width="272">Ung Siew Kwang, Mary</td>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ third_nav_title: Our Staff
 <td width="272">Lee Wee San</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (PE)</td>
+<td width="301">Senior Teacher (PE, CCA &amp; OE)</td>
 <td width="272">Seah Kai Ren, Harold</td>
 </tr>
 <tr>
