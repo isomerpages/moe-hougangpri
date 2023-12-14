@@ -3,6 +3,7 @@ title: School Canteen
 permalink: /hgp-partners/hgp-vendors/sch-canteen/
 description: ""
 third_nav_title: HGP Vendors
+variant: markdown
 ---
 In support of HPB’s strategy to cultivate healthy eating habits in children, our school has implemented the Healthy Meals in Schools Programme (HMSP) since 11 July 2016.
 
@@ -10,7 +11,7 @@ The programme aims to achieve the following objectives:
 
 Increase awareness of healthy nutrition Increase consumption of fruit, vegetables and whole-grains Reduce intake of high fat, salt and sugar Under this programme, stallholders will be selling set meal that consists of the four food groups, ie. rice/noodles, meat, vegetable and fruit. The set meal will come in small or big portion that ranges from $1.30 to $2.00. The Canteen Menu can be found below.
 
-[Canteen Menu 2023](/files/canteen%20menu%202023_aa_7jul23.pdf)
+[Canteen Menu 2024](/files/Canteen_Stalls_Menu_2024_14Dec23.pdf)
 
 
 #### School Canteen Advertisement
