@@ -2,6 +2,7 @@
 title: Vision, Mission & Motto
 permalink: /about-hgp/vision-mission-n-motto/
 description: ""
+variant: markdown
 ---
 <h4><strong>School Vision</strong></h4>
 <p>Future-Ready Thinkers with a Heart for Others</p>
@@ -12,4 +13,4 @@ description: ""
 <h4><strong>School Philosophy</strong></h4>
 <p>Bringing out the Best in Every Child, Together</p>
 <h4><strong>School Values</strong></h4>
-<p>Care, Integrity, Resilience, Responsibility</p>
+<p>Care, Integrity, Respect, Resilience, Responsibility</p>
