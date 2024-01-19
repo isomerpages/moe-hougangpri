@@ -1,4 +1,5 @@
 collections:
   mk-hougang:
     output: true
-    order: []
+    order:
+      - MK@Hougang.md
