@@ -60,3 +60,8 @@ links:
         url: /permalink
   - title: Contact Us
     url: https://www.hougangpri.moe.edu.sg/contact-us/
+  - title: MK @ Hougang
+    url: /mkhougang/
+    sublinks:
+      - title: About MK@Hougang
+        url: /mkhougang/
