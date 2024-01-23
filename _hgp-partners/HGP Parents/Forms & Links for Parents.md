@@ -3,6 +3,7 @@ title: Forms & Links for Parents
 permalink: /hgp-partners/resources-for-parents/
 description: ""
 third_nav_title: HGP Parents
+variant: markdown
 ---
 ### Forms & Links
 
@@ -18,4 +19,4 @@ third_nav_title: HGP Parents
 
 [Leave of Absence Application Form](https://form.gov.sg/64bdd91114532f0012895704)
 
-eFinancial Assistance Scheme (eFAS) Application Form (Coming soon!)
+[eFinancial Assistance Scheme (eFAS) Application Form](https://form.gov.sg/64e2f8f73f582600139f54ac)
