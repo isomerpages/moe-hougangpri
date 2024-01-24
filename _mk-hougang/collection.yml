@@ -2,5 +2,5 @@ collections:
   mk-hougang:
     output: true
     order:
-      - MOE Kindergarten Registration.md
       - MK@Hougang.md
+      - MOE Kindergarten Registration.md
