@@ -1,0 +1,17 @@
+collections:
+  about-hgp:
+    output: true
+    order:
+      - About HGP.md
+      - Principal's Message.md
+      - Vision, Mission & Motto.md
+      - Our Identity.md
+      - Our Staff/.keep
+      - Our Staff/School Management Committee.md
+      - Our Staff/Teacher Leaders.md
+      - Our Staff/Form Teachers.md
+      - Our Staff/Allied Educators.md
+      - HGP Calendar.md
+      - School Safety Info.md
+      - Media Resource Library.md
+      - Compliments & Feedback.md

@@ -1,0 +1,6 @@
+collections:
+  mk-hougang:
+    output: true
+    order:
+      - MK@Hougang.md
+      - MOE Kindergarten Registration.md

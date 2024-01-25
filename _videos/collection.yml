@@ -1,0 +1,6 @@
+collections:
+  videos:
+    output: true
+    order:
+      - Videos.md
+      - Video 1.md

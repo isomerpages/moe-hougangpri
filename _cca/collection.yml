@@ -1,0 +1,31 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA in HGP.md
+      - CCA Schedule.md
+      - Arts/.keep
+      - Arts/Angklung.md
+      - Arts/Art Club.md
+      - Arts/Ballet.md
+      - Arts/Brass Band.md
+      - Arts/Chinese Dance.md
+      - Arts/Drama Club.md
+      - Arts/Guzheng.md
+      - Arts/Indian Dance.md
+      - Arts/Malay Dance.md
+      - Clubs/ECO Green Club.md
+      - Clubs/.keep
+      - Clubs/Infocomm Club.md
+      - Clubs/Media Resource Library.md
+      - Clubs/Photography Club.md
+      - Sports/.keep
+      - Sports/Sports Main.md
+      - Sports/FAST.md
+      - Sports/Football.md
+      - Sports/Hockey.md
+      - Sports/Sport Climbing.md
+      - Sports/Volleyball.md
+      - Sports/Wushu.md
+      - Uniformed Group/.keep
+      - Uniformed Group/Scouts.md

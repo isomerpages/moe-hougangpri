@@ -1,0 +1,69 @@
+logo: /images/HGPS_crest_bgremoved.png
+links:
+  - title: About HGP
+    url: /about-hgp
+    sublinks:
+      - title: Principal's Message
+        url: /about-hgp/principals-message
+      - title: Vision, Mission & Motto
+        url: /about-hgp/vision-mission-n-motto
+      - title: Our Identity
+        url: /about-hgp/our-identity
+      - title: Our Staff
+        url: /about-hgp/our-staff
+      - title: School Safety Info
+        url: /about-hgp/school-safety-info
+      - title: Media Resource Library
+        url: /about-hgp/media-resource-library
+      - title: Compliments & Feedback
+        url: https://www.hougangpri.moe.edu.sg/contact-us/compliments-feedback/
+      - title: HGP Calendar
+        url: /about-hgp/hgpcalendar
+  - title: HGP Experience
+    url: /hgp-experience/total-curriculum
+    sublinks:
+      - title: Total Curriculum
+        url: /hgp-experience/total-curriculum
+      - title: Applied Learning Programme
+        url: /hgp-experience/alp-applied-learning-programme
+      - title: Learning for Life Programme
+        url: /hgp-experience/llp-learning-for-life-programme
+      - title: Innovative Projects
+        url: /hgp-experience/innovative-projects/coding-at-hgp
+      - title: Home-Based Learning
+        url: /hgp-experience/home-based-learning-hbl
+  - title: HGP Partners
+    url: https://www.hougangpri.moe.edu.sg/hgp-partners/hgp-parents/main/
+    sublinks:
+      - title: HGP Parents
+        url: /hgp-partners/hgp-parents/main/
+      - title: HGP SAC
+        url: /hgp-partners/hgp-sac
+      - title: HGP Student Alumni
+        url: /hgp-partners/hgp-student-alumni
+      - title: HGP Vendors
+        url: /about-hgp/hgp-vendors-main/
+      - title: Student Care Centre
+        url: /hgp-partners/student-care-centre/
+  - title: CCA
+    url: /hgp-experience/total-curriculum/ccas/
+    sublinks:
+      - title: CCA Schedule
+        url: /hgp-experience/total-curriculum/ccas/
+      - title: Sports
+        url: /cca/Sports/Sports-Main/
+      - title: Clubs
+        url: /permalink
+      - title: Uniformed Group
+        url: /permalink
+      - title: Arts
+        url: /permalink
+  - title: Contact Us
+    url: https://www.hougangpri.moe.edu.sg/contact-us/
+  - title: MK @ Hougang
+    url: /mkhougang/
+    sublinks:
+      - title: About MK@Hougang
+        url: /mkhougang/
+      - title: MOE Kindergarten Registration
+        url: /mk-hougang/mkregistration/
