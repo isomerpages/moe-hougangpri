@@ -15,6 +15,6 @@ Blk 307D Anchorvale Road)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <p><strong>Carpark</strong>: HDB Blk 308 or Blk 310 Anchorvale Road (Parents
 taking taxis or private hires are advised to alight at the nearest HDB
 Carparks)</p>
-<p>Sign up for the Open House via <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse</a>
+<p><strong>Sign up for the Open House via</strong>  <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse</a>
 </p>
 <p>We look forward to seeing you!</p>
