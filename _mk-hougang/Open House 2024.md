@@ -17,7 +17,6 @@ taking taxis or private hires are advised to alight at the nearest HDB
 Carparks)</p>
 <p><strong>Sign up for the Open House via</strong>  <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse</a>
 </p>
-<p>Please view the <a href="/files/MKOH_2024_HGP_26Jan2024_reduced.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides </a>for
+<p>Please view the <a href="/files/MKOH_2024_HGP_26Jan2024_reduced.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides</a> for
 our 2024 Open House.</p>
 <p>We look forward to seeing you!</p>
-<p></p>
