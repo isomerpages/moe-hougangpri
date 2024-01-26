@@ -4,4 +4,27 @@ permalink: /mkhougang/
 variant: tiptap
 description: ""
 ---
-<h2>About MK@Hougang</h2><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MK_logo.png"></div><p></p><p>MOE Kindergarten @ Hougang will begin operations in January 2025. Sited at Hougang Primary School, it will offer Kindergarten 1 and Kindergarten 2 programmes to Singapore Citizens and Permanent Residents. MK@Hougang will also have a Kindergarten Care (KCare) service that offers after school care enrolled MK children.</p><p>We warmly welcome you and your child to sign up for the <strong>2024 MOE Kindergarten Open House</strong>, to find out why MK is the quality preschool choice and how we ignite joy of learning in our children.</p><h4>Open House 2024</h4><p>As MK@Hougang premises are not yet ready, our Open House this year will be held at Anchor Green Primary School. Please refer to the details below.</p><p><strong>Date</strong>: 3 February 2024 (Saturday)</p><p><strong>Time</strong>:&nbsp;8.30am to 12.30pm (last walk-in at 12.15pm)</p><p><strong>Venue</strong>: Anchor Green Primary School (MK@Anchor Green)</p><p><strong>Address</strong>: Please enter the school via Gate 5 (beside HDB Blk 307D Anchorvale Road)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><strong>Carpark</strong>: HDB Blk 308 or Blk 310 Anchorvale Road (Parents taking taxis or private hires are advised to alight at the nearest HDB Carparks)</p><p>Sign up for the Open House via <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse</a></p><p>We look forward to seeing you!</p><p></p><p>For more information on MOE Kindergartens please visit the website at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten</u></a>.</p><p></p><p></p>
+<h2>About MK@Hougang</h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MK_logo.png">
+</div>
+<p></p>
+<p>MOE Kindergarten @ Hougang will begin operations in January 2025. Sited
+at Hougang Primary School, it will offer Kindergarten 1 and Kindergarten
+2 programmes to Singapore Citizens and Permanent Residents. MK@Hougang
+will also have a Kindergarten Care (KCare) service that offers after school
+care enrolled MK children.</p>
+<p>We warmly welcome you and your child to sign up for the <strong>2024 MOE Kindergarten Open House</strong>,
+to find out why MK is the quality preschool choice and how we ignite joy
+of learning in our children.</p>
+<p>MK@Hougang will provide an additional 30 minutes of MTL programme and
+our operating hours will be different from other MKs. There will also be
+no KCare service in the morning.</p>
+<p>In 2025, MK@Hougang will only admit K1 students.</p>
+<p>For more information on MOE Kindergartens please visit the website at
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten</u>
+</a>.</p>
+<p></p>
+<p></p>
