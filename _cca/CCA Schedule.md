@@ -200,10 +200,10 @@ variant: tiptap
 <p>P2 to P6 (All Members)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3pm</p>
+<p>3.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6pm</p>
+<p>6.00pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Chia Choong Kit Jameson (Mr)</p>
@@ -225,10 +225,10 @@ variant: tiptap
 <p>P2 to P6 (Competitive Members only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm</p>
+<p>2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5pm</p>
+<p>5.00pm</p>
 </td>
 </tr>
 <tr>
