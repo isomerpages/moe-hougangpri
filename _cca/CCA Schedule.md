@@ -211,10 +211,10 @@ variant: tiptap
 <p>Lee Chai Ching Veena (Ms)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>Indoor Rockwall</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>Olympic Gallery corridor along OAE store</p>
 </td>
 </tr>
 <tr>
