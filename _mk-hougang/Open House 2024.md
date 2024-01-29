@@ -20,3 +20,7 @@ Carparks)</p>
 <p>Please view the <a href="/files/MKOH_2024_HGP_26Jan2024_reduced.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides</a> for
 our 2024 Open House.</p>
 <p>We look forward to seeing you!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/open_house_poster.png">
+</div>
+<p></p>
