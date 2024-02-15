@@ -6,10 +6,6 @@ description: ""
 ---
 <p><strong><u>2024 MOE Kindergarten@Hougang Registration Exercise</u></strong>
 </p>
-<p></p>
-<p><strong>Online Registration for MK Sibling Priority Admission (Priority Order 2)</strong>
-</p>
-<p></p>
 <p>For Singapore Citizen (SC) and Permanent Resident (PR) children born between
 2 January 2020 and 1 January 2021 (both dates inclusive), parents will
 need to submit your application online during the 2024 MK registration
