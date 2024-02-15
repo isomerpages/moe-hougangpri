@@ -11,8 +11,9 @@ description: ""
 </p>
 <p></p>
 <p>For Singapore Citizen (SC) and Permanent Resident (PR) children born between
-2 January 2020 and 1 January 2021 (both dates inclusive), you will need
-to submit your application online during the 2024 MK registration period.</p>
+2 January 2020 and 1 January 2021 (both dates inclusive), parents will
+need to submit your application online during the 2024 MK registration
+period.</p>
 <p></p>
 <p><strong><u>MK Registration Period</u></strong>
 </p>
@@ -22,7 +23,7 @@ to submit your application online during the 2024 MK registration period.</p>
 process:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a>
 </p><a class="isomer-image-wrapper" href="www.moe.gov.sg/mk-howtoregister"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/mkregistration_qr.png"></a>
-<p>Note: Singpass login is required. Visit <a href="http://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> if you have issues
+<p>Note: SingPass login is required. Visit <a href="http://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> if you have issues
 with your Singpass account.</p>
 <p>You will be notified of the Open Admissions (OA) registration outcome
 by Monday, 15 April 2024 via e-mail. If you do not receive the outcome
