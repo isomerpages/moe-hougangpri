@@ -10,29 +10,26 @@ description: ""
 <p><strong>Online Registration for MK Sibling Priority Admission (Priority Order 2)</strong>
 </p>
 <p></p>
-<p>Dear Parents</p>
-<p>Singapore Citizen (SC) and Permanent Resident (PR) children born between
-    2 January 2020 and 1 January 2021 (both dates inclusive), who have elder
-    siblings currently studying in P1 - P6 in Hougang Primary School, are eligible
-    for sibling priority (Priority Order 2) admission to 2025 K1. If you intend
-    to register your child under sibling priority admission, you will need
-    to submit your application online during the 2024 MK registration period.</p>
+<p>For Singapore Citizen (SC) and Permanent Resident (PR) children born between
+2 January 2020 and 1 January 2021 (both dates inclusive), parents will
+need to submit your application online during the 2024 MK registration
+period.</p>
 <p></p>
 <p><strong><u>MK Registration Period</u></strong>
 </p>
 <p><strong>From 9am on Friday, 16 February 2024 to 4pm on Tuesday, 20 February 2024.</strong>
 </p>
 <p>Scan the QR Code or click on the link below to start the registration
-    process:</p>
+process:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a>
 </p><a class="isomer-image-wrapper" href="www.moe.gov.sg/mk-howtoregister"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/mkregistration_qr.png"></a>
-<p>Note: Singpass login is required. Visit <a href="http://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> if you have issues
-    with your Singpass account.</p>
+<p>Note: SingPass login is required. Visit <a href="http://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> if you have issues
+with your Singpass account.</p>
 <p>You will be notified of the Open Admissions (OA) registration outcome
-    by Monday, 15 April 2024 via e-mail. If you do not receive the outcome
-    e-mail, you should check the junk e-mail folder. Otherwise, you can contact
-    MOE Kindergarten (MK) @Hougang at 64897445 directly.</p>
+by Monday, 15 April 2024 via e-mail. If you do not receive the outcome
+e-mail, you should check the junk e-mail folder. Otherwise, you can contact
+MOE Kindergarten (MK) @Hougang at 64897445 directly.</p>
 <p>If you need assistance for your child's application, you can refer to
-    the OA online registration guide (<a href="http://www.moe.gov.sg/mk-howtoregister" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a>),
-    or contact your preferred MK directly (<a href="http://www.moe.gov.sg/schoolfinder-mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder-mk</a>).
-    For more information on MK matters, you can visit the MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>).</p>
+the OA online registration guide (<a href="http://www.moe.gov.sg/mk-howtoregister" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a>),
+or contact your preferred MK directly (<a href="http://www.moe.gov.sg/schoolfinder-mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder-mk</a>).
+For more information on MK matters, you can visit the MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>).</p>
