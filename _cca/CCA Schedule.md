@@ -451,7 +451,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Environment Club</p>
+<p>Eco Green Club</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Thursday</p>
@@ -460,10 +460,10 @@ variant: tiptap
 <p>P3</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>2.00 p.m.</p>
+<p>2.15 p.m.</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3.30 p.m.</p>
+<p>4.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Hong Wah Desmond (Mr)</p>
@@ -821,10 +821,10 @@ variant: tiptap
 <p>P3-P6</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>2.15 p.m.&nbsp;</p>
+<p>2,00 p.m.&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>4.45 p.m.&nbsp;</p>
+<p>4.30 p.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yeo Chip Kheong (Mr)</p>
