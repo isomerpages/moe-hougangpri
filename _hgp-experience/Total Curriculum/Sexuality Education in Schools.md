@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h2>Hougang Primary School</h2>
 <h5><strong>MOE Sexuality Education in Schools</strong></h5>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
