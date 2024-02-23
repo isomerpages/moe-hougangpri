@@ -182,7 +182,7 @@ and how to seek help for themselves and their friends.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,38 +216,18 @@ and learn to behave maturely towards each other.</p>
 <p>Term 2</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know?* (60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to know what pornography is and
-how it can affect themselves and others. Students will learn the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’. This lesson is conducted separately for boys and girls
-in different classrooms, so that the students will feel more comfortable
-during the discussions.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>Please Note: For 2023, the Primary 5 lesson “Did You Know?” will also
-be conducted for the Primary 6 cohort.</p>
 <h4><strong>Information for Parents</strong></h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be distributed to parents at the start of the year and is
-also downloadable <a href="https://go.gov.sg/sed-optout-2023" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by 30/03/2023.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6489
-7445 or <a href="mailto:hougang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a> for
+This form will be communicated &nbsp;to parents at the start of the year
+and is also downloadable <a href="/files/SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed opt-out form
+is to be submitted by 17/03/2024.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at the
+school at 6489 7445 or <a rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a> &nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
