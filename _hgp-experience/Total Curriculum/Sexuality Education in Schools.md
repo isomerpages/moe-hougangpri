@@ -228,6 +228,5 @@ This form will be communicated &nbsp;to parents at the start of the year
 and is also downloadable <a href="/files/SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed opt-out form
 is to be submitted by 17/03/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at the
-school at 6489 7445 or <a rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a> &nbsp;for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+school at 6489 7445 or <a href="hougang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a> &nbsp;for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
