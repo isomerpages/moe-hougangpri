@@ -285,7 +285,7 @@ variant: tiptap
 <p>2.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.15 p.m.</p>
+<p>4.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tang Yuen Peng Angela (Mdm)</p>
