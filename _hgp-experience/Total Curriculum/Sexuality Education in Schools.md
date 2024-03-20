@@ -121,7 +121,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 4 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -198,7 +198,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -226,7 +226,7 @@ programmes by MOE-approved external providers.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
 and is also downloadable <a href="/files/SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form is to
-be submitted by 17/03/2024.</p>
+be submitted by 5/4/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at the
 school at 6489 7445 or <a href="hougang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a> &nbsp;for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
