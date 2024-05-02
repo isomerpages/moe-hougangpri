@@ -39,7 +39,8 @@ to register under Phase 2B during the P1 registration exercise.</p>
 </li>
 </ol>
 <p>PVs who wish to terminate their involvement while they are in the scheme,
-have to submit a withdrawal form to the officers in charge at hamsiah_ahmad@moe.edu.sg</p>
+have to submit a withdrawal form to the officer in charge at <a href="hamsiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamsiah_ahmad@moe.edu.sg</a>
+</p>
 <p>For a child who is a Singapore Citizen, parents must provide a copy of
 the following:</p>
 <ul data-tight="true" class="tight">
