@@ -6,8 +6,8 @@ third_nav_title: HGP Parents
 variant: tiptap
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
-<p>Parent Volunteer Registration for&nbsp;<strong>2026 Primary 1</strong>&nbsp;admission
-will be opened from&nbsp;<strong>1 May 2023 to 30 April 2024.</strong>
+<p>Parent Volunteer Registration for&nbsp;<strong>2027 Primary 1</strong>&nbsp;admission
+will be opened from&nbsp;<strong>1 May 2024 to 30 April 2025.</strong>
 </p>
 <p><strong>TERMS AND CONDITIONS</strong>
 </p>
@@ -39,7 +39,8 @@ to register under Phase 2B during the P1 registration exercise.</p>
 </li>
 </ol>
 <p>PVs who wish to terminate their involvement while they are in the scheme,
-have to submit a withdrawal form to the officers in charge at hamsiah_ahmad@moe.edu.sg</p>
+have to submit a withdrawal form to the officer in charge at <a href="hamsiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamsiah_ahmad@moe.edu.sg</a>
+</p>
 <p>For a child who is a Singapore Citizen, parents must provide a copy of
 the following:</p>
 <ul data-tight="true" class="tight">
@@ -82,7 +83,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2019</strong>
+<p><strong>2020</strong>
 </p>
 </td>
 </tr>
@@ -92,7 +93,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUL 2025</p>
+<p>JUL 2026</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +102,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAN 2026</p>
+<p>JAN 2027</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +111,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 MAY 2023 - 30 APRIL 2024</p>
+<p>1 MAY 2024 - 30 APRIL 2025</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +120,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MAY TO JUNE 2024</p>
+<p>MAY TO JUNE 2025</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +129,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULY 2024 onwards</p>
+<p>JULY 2025 onwards</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +138,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 31 MAY 2025</p>
+<p>by 31 MAY 2026</p>
 </td>
 </tr>
 </tbody>
@@ -145,6 +146,6 @@ Permanent Residents.</p>
 <p>Note: Selection is NOT on a first come-first-served basis.</p>
 <p>*Click <strong><a href="https://form.gov.sg/5d5b7b8b1d6c350019ea6eb2" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 download the Parent Volunteer Registration Form**</p>
-<p>For any queries, you may email Mdm Hamsiah at&nbsp;<a href="mailto:hamsiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamsiah_ahmad@moe.edu.sg</a>&nbsp;or
-Ms Ivy Yee at&nbsp;<a href="mailto:yee_chuei_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_chuei_fong@moe.edu.sg</a>
+<p>For any queries, you may email Mdm Hamsiah Ahmad at&nbsp;<a href="mailto:hamsiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamsiah_ahmad@moe.edu.sg</a>&nbsp;or
+Mr Miguel Li at <a href="mendonca_li_nuno_miguel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mendonca_li_nuno_miguel@moe.edu.sg.</a>
 </p>
