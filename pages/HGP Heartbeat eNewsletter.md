@@ -9,5 +9,7 @@ variant: tiptap
 <br><a href="https://file.go.gov.sg/hgpheartbeatissue03.pdf" rel="noopener" target="_blank">HGP Heartbeat Issue 03 (Semester One 2023) </a>
 <br><a href="https://go.gov.sg/hgp-heartbeat-4" rel="noopener" target="_blank">HGP Heartbeat Issue 04 (Semester Two 2023)</a>
 </p>
+<p><a href="/files/issue05_Final_nameUpdate_reduced.pdf" rel="noopener noreferrer nofollow" target="_blank">HGP Heartbeat Issue 05 (Semester 1 2024)</a>
+</p>
 <p></p>
 <p></p>
