@@ -43,7 +43,7 @@ below for more details.</p>
 <p>Food Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All cuisines are welcomed</p>
@@ -54,7 +54,7 @@ below for more details.</p>
 <p>Food Stall (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All cuisines are welcomed</p>
