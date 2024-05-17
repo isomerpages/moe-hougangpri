@@ -15,7 +15,7 @@ this programme, stallholders will be selling set meal that consists of
 the four food groups, ie. rice/noodles, meat, vegetable and fruit. The
 set meal will come in small or big portion that ranges from $1.30 to $2.00.
 The Canteen Menu can be found below.</p>
-<p><a href="/files/Canteen_Stalls_Menu_2024_15May2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Menu 2024</a>
+<p><a href="/files/Canteen_Stalls_Menu_2024_15May2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Menu 2024</a>
 </p>
 <h4>School Canteen Advertisement</h4>
 <p>The school is looking for canteen stall holders. Please refer to the table
@@ -43,7 +43,7 @@ below for more details.</p>
 <p>Food Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All cuisines are welcomed</p>
@@ -54,7 +54,7 @@ below for more details.</p>
 <p>Food Stall (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All cuisines are welcomed</p>
