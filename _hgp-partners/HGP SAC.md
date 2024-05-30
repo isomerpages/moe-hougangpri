@@ -57,9 +57,9 @@ and parents of existing students.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr De Vaz Ian Marc Rosairo</p>
-<p>Dr Jasmin Teo
-<br>Mr Phang Wai Man
-<br>Mr Pan Yongchuan</p>
+<p>Dr Jasmin Teo</p>
+<p>Mr Phang Wai Man</p>
+<p>Mr Pan Yongchuan</p>
 </td>
 </tr>
 </tbody>
