@@ -2,8 +2,8 @@ collections:
   mk-hougang:
     output: true
     order:
-      - KCare @ Hougang.md
       - MK@Hougang.md
       - Open House 2024.md
       - MOE Kindergarten Registration.md
       - Student Admission.md
+      - KCare @ Hougang.md
