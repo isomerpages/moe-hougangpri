@@ -11,7 +11,7 @@ description: ""
 need to submit your application online during the 2024 MK registration
 period.</p>
 <p></p>
-<p><strong><u>MK Registration Period (CLOSED)</u></strong>
+<p><strong><u>MK Registration Period (CLOSED for 2025 intake)</u></strong>
 </p>
 <p><strong>From 9am on Friday, 16 February 2024 to 4pm on Tuesday, 20 February 2024.</strong>
 </p>
