@@ -26,5 +26,9 @@ no KCare service in the morning.</p>
 <p>For more information on MOE Kindergartens please visit the website at
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten</u> 
 </a>.</p>
+<p>MOE Kindergarten (MK) provides quality and affordable preschool education
+to Singapore Citizens and Permanent Residents aged 5 and 6. Learn about
+our curriculum, learning environment and whether it’s right for your child
+at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>.</p>
 <p></p>
 <p></p>
