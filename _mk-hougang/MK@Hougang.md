@@ -16,9 +16,6 @@ at Hougang Primary School, it will offer Kindergarten 1 and Kindergarten
 2 programmes to Singapore Citizens and Permanent Residents. MK@Hougang
 will also have a Kindergarten Care (KCare) service that offers after school
 care enrolled MK children.</p>
-<p>We warmly welcome you and your child to sign up for the <strong>2024 MOE Kindergarten Open House</strong>,
-to find out why MK is the quality preschool choice and how we ignite joy
-of learning in our children.</p>
 <p>MK@Hougang will provide an additional 30 minutes of MTL programme and
 our operating hours will be different from other MKs. There will also be
 no KCare service in the morning.</p>
