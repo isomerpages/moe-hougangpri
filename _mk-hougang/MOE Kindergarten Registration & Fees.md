@@ -11,7 +11,7 @@ description: ""
 need to submit your application online during the 2024 MK registration
 period.</p>
 <p></p>
-<p><strong><u>MK Registration Period</u></strong>
+<p><strong><u>MK Registration Period (CLOSED)</u></strong>
 </p>
 <p><strong>From 9am on Friday, 16 February 2024 to 4pm on Tuesday, 20 February 2024.</strong>
 </p>
@@ -29,3 +29,18 @@ MOE Kindergarten (MK) @Hougang at 64897445 directly.</p>
 the OA online registration guide (<a href="http://www.moe.gov.sg/mk-howtoregister" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a>),
 or contact your preferred MK directly (<a href="http://www.moe.gov.sg/schoolfinder-mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder-mk</a>).
 For more information on MK matters, you can visit the MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>).</p>
+<p></p>
+<p><strong>To register with MK@Bendemeer please fill in our waitlist form:</strong>
+</p>
+<p>(Link for waitlist)</p>
+<p>You will be contacted once there is suitable vacancy for your child.</p>
+<p><strong>Monthly fees for MK</strong>
+</p>
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten/fees</u></a>&nbsp;</p>
+<p><strong>MK Financial Assistance</strong>
+</p>
+<p>If your child is a Singapore Citizen, they may qualify for financial assistance
+under the&nbsp;<a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>Kindergarten Fee Assistance Scheme (KiFAS)</u></a>.
+KiFAS is provided by the Early Childhood Development Agency (ECDA) and
+applies only to MK school fees.</p>
+<p></p>
