@@ -30,5 +30,8 @@ no KCare service in the morning.</p>
 to Singapore Citizens and Permanent Residents aged 5 and 6. Learn about
 our curriculum, learning environment and whether it’s right for your child
 at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>.</p>
+<p>For further enquiries on MK@Hougang, you may reach us at <a href="tel:+6564897445" rel="noopener noreferrer nofollow" target="_blank"><u>6489 7445</u></a> or
+<a href="hougang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a>
+</p>
 <p></p>
 <p></p>
