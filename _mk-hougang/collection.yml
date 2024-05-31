@@ -2,8 +2,8 @@ collections:
   mk-hougang:
     output: true
     order:
-      - Contact MK@Hougang.md
       - MK@Hougang.md
       - MOE Kindergarten Registration & Fees.md
       - KCare @ Hougang.md
       - Open House 2024.md
+      - Contact MK@Hougang.md
