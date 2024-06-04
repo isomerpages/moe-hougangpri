@@ -4,8 +4,10 @@ permalink: /mk-hougang/mkregistration/
 variant: tiptap
 description: ""
 ---
-<p><strong>2025 MOE Kindergarten@Hougang Intake</strong>
-</p>
+<h4><strong>2025 MOE Kindergarten@Hougang Intake</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://www.westspringpri.moe.edu.sg/images/Starlight.jpg">
+</div>
 <p>For parents who would like to enrol their child in MK@Hougang (child is
 Singapore Citizen (SC) or Permanent Resident (PR) born between 2 January
 2020 and 1 January 2021 (both dates inclusive)), you are required to fill
