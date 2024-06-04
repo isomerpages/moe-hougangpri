@@ -23,12 +23,14 @@ no KCare service in the morning.</p>
 <p>For more information on MOE Kindergartens please visit the website at
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten</u> 
 </a>.</p>
+<p></p>
+<h2>Our Curriculum</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://www.westspringpri.moe.edu.sg/images/MK/2023%20Tangrams.png">
+</div>
 <p>MOE Kindergarten (MK) provides quality and affordable preschool education
 to Singapore Citizens and Permanent Residents aged 5 and 6. Learn about
 our curriculum, learning environment and whether it’s right for your child
 at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>.</p>
-<p>For further enquiries on MK@Hougang, you may reach us at <a href="tel:+6564897445" rel="noopener noreferrer nofollow" target="_blank"><u>6489 7445</u></a> or
-<a href="hougang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a>
-</p>
 <p></p>
 <p></p>
