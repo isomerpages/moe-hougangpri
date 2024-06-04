@@ -4,7 +4,7 @@ permalink: /open-house-2024/
 variant: tiptap
 description: ""
 ---
-<h1>Open House 2024</h1>
+<h1><strong>🏫 </strong>Open House 2024</h1>
 <p></p>
 <p>As MK@Hougang premises are not yet ready, our Open House this year was
 held at Anchor Green Primary School on 3 February 2024.</p>
