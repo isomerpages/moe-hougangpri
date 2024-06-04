@@ -10,7 +10,7 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: e-Open House 2024
-          description: HGP's virtual open house!
+          description: Coming soon!
           url: ""
         - title: Links
           description: For teachers, students/parents
