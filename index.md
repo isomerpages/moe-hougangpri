@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
+        - title: e-Open House 2024
+          description: HGP's virtual open house!
+          url: ""
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
