@@ -10,7 +10,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MK_logo.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://www.westspringpri.moe.edu.sg/images/MK/2023%20Reading.png">
+</div>
 <p>MOE Kindergarten @ Hougang will begin operations in January 2025. Sited
 at Hougang Primary School, it will offer Kindergarten 1 and Kindergarten
 2 programmes to Singapore Citizens and Permanent Residents. MK@Hougang
