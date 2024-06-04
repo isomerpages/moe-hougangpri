@@ -10,14 +10,9 @@ description: ""
 </div>
 <p>If you have questions about MK@Hougang, you may reach us through email
 or phone.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Email: </strong><a href="mailto:mk_hougang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_hougang@moe.edu.sg</a>
+<p></p>
+<p><strong>📧 Email: </strong><a href="mailto:mk_hougang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_hougang@moe.edu.sg</a>
 </p>
-</li>
-<li>
-<p><strong>Tel: </strong>6489 7445</p>
-</li>
-</ul>
+<p><strong>☎️ Tel: </strong>6489 7445</p>
 <p></p>
 <p></p>
