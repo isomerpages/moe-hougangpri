@@ -21,7 +21,7 @@ care enrolled MK children.</p>
 <p>MK@Hougang will provide an additional 30 minutes of MTL programme and
 our operating hours will be different from other MKs. There will also be
 no KCare service in the morning.</p>
-<p>In 2025, MK@Hougang will only admit K1 students.</p>
+<p>In <strong>2025</strong>, MK@Hougang will only admit <strong>K1 students</strong>.</p>
 <p>For more information on MOE Kindergartens please visit the website at
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten</u> 
 </a>.</p>
