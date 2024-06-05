@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h4><strong>English Department</strong></h4>
+<h3><strong>English Department</strong></h3>
 <h4><strong>Vision</strong>: A Confident and Proficient User of the English Language</h4>
 <h4><strong>Mission</strong>: To develop every HGPian to be self-directed learners who are able to listen, speak, read and write effectively.</h4>
 <h4>Key Features</h4>
@@ -15,11 +15,23 @@ Curriculum. Stellar stands for Strategies for English Language Learning
 and Reading. The main aim of the STELLAR Programme is to strengthen students’
 English Language and reading skills through the use of developmentally
 appropriate strategies such as the following:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Shared Book Approach</p>
+</li>
+<li>
 <p>Modified Language Experience Approach</p>
+</li>
+<li>
 <p>Sustained Silent Reading</p>
+</li>
+<li>
 <p>Supported Reading</p>
+</li>
+<li>
 <p>Writing Process Cycle</p>
+</li>
+</ul>
 <h4>2) Read@HGP</h4>
 <p>Another key feature of the English Department is the Read@HGP initiative
 with its aim to nurture every child to become lifelong readers who are
