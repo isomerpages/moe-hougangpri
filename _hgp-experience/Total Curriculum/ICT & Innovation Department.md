@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
+<h2>Information Communication Technology (ICT) &amp; Innovation</h2>
 <p>The ICT and Innovation Department is composed of staff from various departments
 supporting the school’s ICT needs from teaching and learning with ICT to
 Cyber Wellness.</p>
-<p><strong>Mission</strong>&nbsp;: To develop each child to be a responsible
-cyber citizen and creative thinker</p>
+<h4><strong>Mission</strong>&nbsp;: To develop each child to be a responsible cyber citizen and creative thinker</h4>
 <p>In alignment with MOE ICT Masterplan 4, we aim to:</p>
 <p>(1) Innovatively blend ICT usage into curriculum, pedagogy and assessment
 to provide holistic development of HGPians.
