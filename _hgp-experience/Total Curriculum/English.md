@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h3><strong>English Department</strong></h3>
+<h2><strong>English</strong></h2>
 <h4><strong>Vision</strong>: A Confident and Proficient User of the English Language</h4>
 <h4><strong>Mission</strong>: To develop every HGPian to be self-directed learners who are able to listen, speak, read and write effectively.</h4>
 <h4>Key Features</h4>
