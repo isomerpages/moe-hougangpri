@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h2>Science Department</h2>
+<h2>Science</h2>
 <p>The school’s science curriculum adheres closely to the Primary Science
 Syllabus which is a foundation for scientific studies at higher levels.</p>
 <p>This syllabus is based on the Science Curriculum Framework which emphasizes
