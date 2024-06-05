@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h3><strong>Mathematics Department</strong></h3>
+<h2><strong>Mathematics</strong></h2>
 <h4><strong>Vision<br></strong>Mathematics be made enjoyable and applicable in life</h4>
 <h4><strong>Mission<br></strong>Every child to be an active independent learner of Mathematics and problem solving</h4>
 <p><strong>Programmes</strong>
