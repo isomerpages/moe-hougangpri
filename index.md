@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: 2024 P1
-          description: Important Information
-          url: /p12024/
+        - title: e-Open House 2024
+          description: Coming soon!
+          url: ""
         - title: Links
           description: For teachers, students/parents
           url: /internet-links

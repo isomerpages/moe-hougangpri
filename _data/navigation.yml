@@ -53,11 +53,11 @@ links:
       - title: Sports
         url: /cca/Sports/Sports-Main/
       - title: Clubs
-        url: /permalink
+        url: /cca/clubs/ecogreenclub/
       - title: Uniformed Group
-        url: /permalink
+        url: /hgp-experience/total-curriculum/ccas/scouts/
       - title: Arts
-        url: /permalink
+        url: /hgp-experience/total-curriculum/ccas/angklung/
   - title: Contact Us
     url: https://www.hougangpri.moe.edu.sg/contact-us/
   - title: MK @ Hougang
@@ -65,7 +65,11 @@ links:
     sublinks:
       - title: About MK@Hougang
         url: /mkhougang/
+      - title: Student Registration & Fees
+        url: /mk-hougang/mkregistration/
+      - title: KCare @ Hougang
+        url: /kcare-hougang/
       - title: Open House 2024
-        url: /mk-hougang/mk-openhouse-2024/
-      - title: Student Admission
-        url: /mk-hougang/student-admission/
+        url: /open-house-2024/
+      - title: Contact Us
+        url: /contact-mk-hougang/
