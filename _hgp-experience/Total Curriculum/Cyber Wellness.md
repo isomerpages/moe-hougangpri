@@ -34,27 +34,18 @@ are roped in to help out at the recess booths.</p>
 <p>To help children navigate cyberspace safely, parents too play an important
 role in instilling CW values. Do check out the links below for practical
 tips and useful information on all CW-related issues.</p>
-<p>ICT Connection’s Cyber Wellness for Parents
-<br><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents" rel="noopener noreferrer nofollow" target="_blank">https://ictconnection.moe.edu.sg/cyber-wellness/for-parents</a>
-</p>
-<p>Media Literacy Council
-<br><a href="https://www.betterinternet.sg/Resources" rel="noopener noreferrer nofollow" target="_blank">https://www.betterinternet.sg/Resources</a>
-</p>
+<p></p>
 <p>S.U.R.E Campaign by National Library
 <br><a href="http://www.nlb.gov.sg/sure/" rel="noopener noreferrer nofollow" target="_blank">http://www.nlb.gov.sg/sure/</a>
 </p>
 <p>Personal Data Protection Commission
 <br><a href="https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act" rel="noopener noreferrer nofollow" target="_blank">https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act</a>
 <br>
-<br>Parenting in the Digital Age
-<br><a href="files/Parenting%20Tips%20for%20Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting Tips for Website.pdf</a>
 </p>
 <p>Parents can set a good example at home in the use of technology and play
 an active role in guiding their child to navigate cyberspace safely.
 <br>To complement the cyber wellness curriculum in schools, here are the steps
-for PARENTing in the digital age:
-<br><a href="https://www.schoolbag.sg/story/understanding-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.sg/story/understanding-cyber-wellness</a>&nbsp;(Click
-on the link the article.)</p>
+for PARENTing in the digital age:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cw9.png">
 </div>
