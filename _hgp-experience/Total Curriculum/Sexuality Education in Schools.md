@@ -76,7 +76,13 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Hougang Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -104,7 +110,10 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p>The Changes in Me (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -161,7 +170,13 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
