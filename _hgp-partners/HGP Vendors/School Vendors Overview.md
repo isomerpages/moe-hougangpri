@@ -6,7 +6,16 @@ third_nav_title: HGP Vendors
 variant: tiptap
 ---
 <h1>School Vendors</h1>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

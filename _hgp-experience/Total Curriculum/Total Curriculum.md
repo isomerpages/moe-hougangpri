@@ -6,12 +6,6 @@ third_nav_title: Total Curriculum
 variant: tiptap
 ---
 <h4><strong>HGP Teaching and Learning Framework</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HGP_TL_Framework_cropped.jpg">
-</div>
-<p>At the core is the Future of Learning that is envisioned at HGP, underpinned
-by Hope, Growth and Purpose.</p>
 <p>We<em> </em>hope<em> </em>to design and enact a learner-centred curriculum
 that provides our students with hope and confidence for the future, regardless
 of their starting point in life.</p>

@@ -101,7 +101,4 @@ reasoning to carry out plan</p>
 <p>Extend method to other problems</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/math5.jpg">
-</div>
 <p></p>
