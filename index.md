@@ -10,8 +10,8 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: e-Open House 2024
-          description: Coming soon!
-          url: ""
+          description: ""
+          url: /eopen-house-2024-banner/
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
