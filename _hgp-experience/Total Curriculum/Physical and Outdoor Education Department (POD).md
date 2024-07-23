@@ -92,65 +92,164 @@ and Responsibility)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dance</p>
+</li>
+<li>
 <p>Games and Sports</p>
+</li>
+<li>
 <p>Gymnastics</p>
+</li>
+<li>
 <p>Outdoor Education</p>
+</li>
+<li>
 <p>PHS</p>
+</li>
+<li>
 <p>PAL</p>
+</li>
+<li>
 <p>OE LLP</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dance</p>
+</li>
+<li>
 <p>Games and Sports</p>
+</li>
+<li>
 <p>Gymnastics</p>
+</li>
+<li>
 <p>Outdoor Education</p>
+</li>
+<li>
 <p>PHS</p>
+</li>
+<li>
 <p>PAL</p>
+</li>
+<li>
 <p>OE LLP</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dance</p>
+</li>
+<li>
 <p>Games and Sports</p>
+</li>
+<li>
 <p>Gymnastics</p>
+</li>
+<li>
 <p>Outdoor Education</p>
+</li>
+<li>
 <p>PHS</p>
+</li>
+<li>
 <p>Athletics</p>
+</li>
+<li>
 <p>Swimming</p>
+</li>
+<li>
 <p>OE LLP</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dance</p>
+</li>
+<li>
 <p>Games and Sports</p>
+</li>
+<li>
 <p>Gymnastics</p>
+</li>
+<li>
 <p>Outdoor Education</p>
+</li>
+<li>
 <p>PHS</p>
+</li>
+<li>
 <p>Athletics</p>
+</li>
+<li>
 <p>OE LLP</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dance</p>
+</li>
+<li>
 <p>Games and Sports</p>
+</li>
+<li>
 <p>Gymnastics</p>
+</li>
+<li>
 <p>Outdoor Education</p>
+</li>
+<li>
 <p>PHS</p>
+</li>
+<li>
 <p>Athletics</p>
+</li>
+<li>
 <p>OE LLP</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dance</p>
+</li>
+<li>
 <p>Games and Sports</p>
+</li>
+<li>
 <p>Gymnastics</p>
+</li>
+<li>
 <p>Outdoor Education</p>
+</li>
+<li>
 <p>PHS</p>
+</li>
+<li>
 <p>Athletics</p>
+</li>
+<li>
 <p>OE LLP</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*PHF – Physical Health and Fitness&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PAL –
-Programme for Active Learning&nbsp;&nbsp;&nbsp;&nbsp; OE – Outdoor Education</p>
+<p>*<strong>PHS</strong> – Physical Health and Safety / <strong>PAL</strong> –
+Programme for Active Learning / <strong>OE LLP</strong> – Outdoor Education
+Learning for Life Programme</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
