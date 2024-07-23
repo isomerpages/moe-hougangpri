@@ -13,7 +13,7 @@ variant: tiptap
 Values and Develop Character for a Dynamic World.</p>
 <p><strong>Philosophy</strong>
 <br>Championing Health, Outdoor and Physical Education (CHOPE)</p>
-<p>Check out our social media sites!</p>
+<p>Check out our social media sites! (Tap on the images)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,30 +23,31 @@ Values and Develop Character for a Dynamic World.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/POD.HGP"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg"></a>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/pod_hgp/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2_ig.png"></a>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Holistic Development of Students</p>
-<p><strong>Physical<br></strong>Nurture the&nbsp;<strong>Joy of Learning</strong>&nbsp;to
-motivate the&nbsp;students intrinsically and drive them forward to explore
-and discover their interests and passions.&nbsp;Provide opportunities for
-all students to&nbsp;develop an&nbsp;<strong>Entrepreneurial Dare and capacity to persevere</strong>&nbsp;so
+<h4><strong>Holistic Development of Students</strong></h4>
+<p><strong>Physical and Cognitive</strong>
+</p>
+<p>Nurture the <strong>Joy of Learning</strong> to motivate the students intrinsically
+and drive them forward to explore and discover their interests and passions.</p>
+<p>Provide opportunities for all students to develop an&nbsp;<strong>Entrepreneurial Dare and capacity to persevere</strong>&nbsp;so
 that they will apply what they learn, act on their passions, and pursue
-them&nbsp;(Resilience)</p>
-<p><strong>Social/Moral<br></strong>Inculcate a sense of responsibility,
-care for others, tolerance and understanding through authentic teambuilding
-and leadership platforms (Care and Responsibility)</p>
-<p><strong>Character Education<br></strong>Explicit teaching of values followed
-by facilitation and deep reflection (Integrity)</p>
+them (Resilience)</p>
+<p><strong>Social and Emotional</strong>
+</p>
+<p>Inculcate a sense of responsibility, care for others, tolerance and understanding
+through authentic teambuilding and leadership platforms (Care, Respect
+and Responsibility)</p>
+<p><strong>Moral and Character Education</strong>
+</p>
+<p>Explicit teaching of values followed by facilitation and deep reflection
+(Integrity)</p>
 <p>
 <br>
 </p>
