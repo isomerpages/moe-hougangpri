@@ -1,5 +1,5 @@
 ---
-title: MT Languages
+title: Mother Tongue Languages
 permalink: /hgp-experience/total-curriculum/mt-languages/
 description: ""
 third_nav_title: Total Curriculum
@@ -8,35 +8,33 @@ variant: tiptap
 <h2>Mother Tongue Languages</h2>
 <h4><strong>Vision: </strong>Our students are proficient in the Mother Tongue Language; have a love for their cultural heritage; and are rooted in moral values</h4>
 <h4><strong>Mission: </strong>To develop our students to be proficient and confident in their command of the Mother Tongue Language; to inculcate in them a love and passion for their own native culture; and to transmit and instil moral values in our young.</h4>
-<p>Through the delivery of the MOE and school based curriculum, as well as
+<p>Through the delivery of the MOE and school-based curriculum, as well as
 the provision of school-wide programmes, we hope that our students will
 be able to</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>communicate confidently and effectively using the Mother Tongue Language</p>
+<p>Appreciate the Mother Tongue Language (MTL)</p>
 </li>
 <li>
-<p>appreciate different cultures and exhibit sound values</p>
+<p>Have confidence to learn and use the MTL for life</p>
 </li>
 <li>
-<p>use information and communication technology to learn MTL in a fun and
-purposeful manner</p>
+<p>Develop 21<sup>st</sup> Century Competencies such as intra and cross-cultural
+skills,&nbsp;communication skills,&nbsp;critical and inventive thinking</p>
 </li>
 </ul>
 <p><strong>Key Departmental Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mother Tongue Languages (MTL) Fortnight</p>
+<p>MTL Fortnight, Language &amp; Cultural Camp</p>
 </li>
 <li>
-<p>Cultural Performance Exposure Scheme (CPES)</p>
+<p>Cultural Performance Exposure Scheme (CPES) for CL, Cultural Performance
+Exposure Fund (CPEF) for ML</p>
 </li>
 <li>
 <p>Inter-class Literary &amp; Talent Competition</p>
-</li>
-<li>
-<p>Enrichment Programmes on Speech &amp; Drama</p>
 </li>
 <li>
 <p>Reading Programme</p>
@@ -51,7 +49,7 @@ purposeful manner</p>
 <p>Overseas Immersion Programme</p>
 </li>
 <li>
-<p>School based resouce package on oral and writing skills</p>
+<p>School-based resources on oral and composition writing</p>
 </li>
 </ul>
 <p></p>

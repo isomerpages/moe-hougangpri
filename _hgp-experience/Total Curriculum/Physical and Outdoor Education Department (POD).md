@@ -5,28 +5,49 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h2>Physical and Outdoor Education (POD)</h2>
-<h4><strong>Vision<br></strong>Physically-Educated Thinkers of Character&nbsp;</h4>
-<h4><strong>Mission<br></strong>Every HGPian to be Equipped with Knowledge and Skills in PE and OE, Exhibit Values and Develop Character for a Dynamic World.</h4>
-<h4><strong>Philosophy<br></strong>Championing Health, Outdoor and Physical Education (CHOPE)</h4>
+<h3>Physical and Outdoor Education (POD)</h3>
+<p><strong>Vision</strong>
+<br>Physically-Educated Thinkers of Character&nbsp;</p>
+<p><strong>Mission</strong>
+<br>Every HGPian to be Equipped with Knowledge and Skills in PE and OE, Exhibit
+Values and Develop Character for a Dynamic World.</p>
+<p><strong>Philosophy</strong>
+<br>Championing Health, Outdoor and Physical Education (CHOPE)</p>
+<p>Check out our social media sites! (Tap on the images)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/POD.HGP"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/pod_hgp/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2_ig.png"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Holistic Development of Students</strong></h4>
-<p><strong>Physical<br></strong>Nurture the&nbsp;<strong>Joy of Learning</strong>&nbsp;to
-motivate the&nbsp;students intrinsically and drive them forward to explore
-and discover their interests and passions.&nbsp;Provide opportunities for
-all students to&nbsp;develop an&nbsp;<strong>Entrepreneurial Dare and capacity to persevere</strong>&nbsp;so
-that they will apply what they learn, act on their passions, and pursue
-them&nbsp;(Resilience)</p>
-<p><strong>Social/Moral<br></strong>Inculcate a sense of responsibility,
-care for others, tolerance and understanding through authentic teambuilding
-and leadership platforms (Care and Responsibility)</p>
-<p><strong>Character Education<br></strong>Explicit teaching of values followed
-by facilitation and deep reflection (Integrity)</p>
-<p>
-<br>
+<p><strong>Physical and Cognitive</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe3.png">
-</div>
+<p>Nurture the <strong>Joy of Learning</strong> to motivate the students intrinsically
+and drive them forward to explore and discover their interests and passions.</p>
+<p>Provide opportunities for all students to develop an&nbsp;<strong>Entrepreneurial Dare and capacity to persevere</strong>&nbsp;so
+that they will apply what they learn, act on their passions, and pursue
+them (Resilience)</p>
+<p><strong>Social and Emotional</strong>
+</p>
+<p>Inculcate a sense of responsibility, care for others, tolerance and understanding
+through authentic teambuilding and leadership platforms (Care, Respect
+and Responsibility)</p>
+<p><strong>Moral and Character Education</strong>
+</p>
+<p>Explicit teaching of values followed by facilitation and deep reflection
+(Integrity)</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -75,55 +96,55 @@ by facilitation and deep reflection (Integrity)</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>PAL</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>PAL</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
 <p>Swimming</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 </tr>
 </tbody>
