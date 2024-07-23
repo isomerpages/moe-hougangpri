@@ -5,40 +5,31 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h4><strong>Character and Citizenship Education (CCE) Department</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/cce1.jpg">
-</div>
-<h4><strong>To achieve the above desired outcomes, Hougang Primary School adopts</strong></h4>
-<h4>HEART&nbsp;(HGPians&nbsp;Emphathise,&nbsp;Act &amp;&nbsp;Reach out&nbsp;Together) Initiatives</h4>
-<h4><strong>Intergenerational Learning Programme (ILP)</strong></h4>
-<p>Hougang Primary School is intensifying its efforts to reach out to the
-elderly in the community as part of our Values In Action (VIA) programme.
-In ILP, Primary 4 to 6 students will have the opportunity to interact and
-engage&nbsp;with the elderly in the Senior Activity Centres. Through this
-programme, our students can develop a sense of empathy, compassion and
-respect towards our senior citizens.</p>
-<h4><strong>Values in Action (VIA)</strong></h4>
-<p>Through our VIA programme, our students will have the opportunity to interact
-with students with Special Educational Needs (SEN), which in the process,
-can develop&nbsp;students to&nbsp;be more understanding, accepting of the
-differences and be more inclusive towards others.</p>
-<h4><strong>National Education (NE) Programme</strong></h4>
-<p><em>NE Commemorative Days</em>&nbsp;and&nbsp;<em>Learning Journeys</em>&nbsp;seek
-to develop Civic Literacy, Global Awareness and Cross cultural Skills (CGC)
-in our students so that they can be aware of national and global issues
-and play a part to improve the community and nation whilst displaying socio-cultural
-and religious sensitivity and awareness.</p>
-<h4><strong>Artifacts Display</strong></h4>
-<p>There are a total of 8 artifacts which have been selected for display
-on Hougang Primary School Heritage Wall. Click on the link below to read
-up more about these artifacts.
-<br>
-<br><a href="/files/HPS_Artifacts_compressed%20(1)%20(1).pdf" rel="noopener" target="_blank">Artifacts Display</a>
-<br>
+<p><strong>Philosophy of Character and Citizenship Education</strong>
 </p>
-<h4><strong>‘Use My Hands’ Campaign</strong></h4>
-<p>This campaign seeks to instill in our students a sense of responsibility
-in their daily actions by keeping the classroom clean.</p>
-<h4></h4>
+<p>Character and Citizenship Education (CCE) is integral to the holistic
+development of our students, equipping them with the competencies to thrive
+in a future transformed by technology, to achieve the Desired Outcomes
+of Education (DOEs). CCE at Hougang Primary School takes a student-centric
+and integrated approach to meet our students’ learning needs, developing
+them in values, character, social-emotional well-being and citizenship
+dispositions in a coherent way.</p>
+<p>We believe that every child can live out his or her potential and lead
+a fulfilling life. To achieve this, we aim to help our students discover
+their character strengths and interests, and provide them with the opportunities
+to impact others positively through their contributions to the community.</p>
+<p>Hougang Primary School’s CCE curriculum provides students with rich learning
+platforms and opportunities to equip them with the knowledge, skills and
+values to help them understand themselves better and to build positive
+relationships with others. Equipped with the knowledge and skills, our
+students will be able to contribute to the school and community through
+intentionally designed learning experiences.</p>
+<p>We strongly believe that the enactment of CCE should be done through partnership
+with families and the community and therefore work with our stakeholders
+in this.</p>
+<p><strong>Enactment of CCE @ HGP</strong>
+</p>
+<p>To achieve our School’s Vision, Mission and Goals, the design and implementation
+of the CCE curriculum is guided by the CCE Curriculum Frame (Fig. 1).</p>
+<p></p>
 <p></p>
