@@ -48,12 +48,6 @@ and Responsibility)</p>
 </p>
 <p>Explicit teaching of values followed by facilitation and deep reflection
 (Integrity)</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe3.png">
-</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -102,55 +96,55 @@ and Responsibility)</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>PAL</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>PAL</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
 <p>Swimming</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 <p>Games and Sports</p>
 <p>Gymnastics</p>
 <p>Outdoor Education</p>
-<p>PHF</p>
+<p>PHS</p>
 <p>Athletics</p>
-<p>OE</p>
+<p>OE LLP</p>
 </td>
 </tr>
 </tbody>
