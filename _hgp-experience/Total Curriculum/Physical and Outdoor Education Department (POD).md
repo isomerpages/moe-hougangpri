@@ -5,11 +5,37 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h2>Physical and Outdoor Education (POD)</h2>
-<h4><strong>Vision<br></strong>Physically-Educated Thinkers of Character&nbsp;</h4>
-<h4><strong>Mission<br></strong>Every HGPian to be Equipped with Knowledge and Skills in PE and OE, Exhibit Values and Develop Character for a Dynamic World.</h4>
-<h4><strong>Philosophy<br></strong>Championing Health, Outdoor and Physical Education (CHOPE)</h4>
-<h4><strong>Holistic Development of Students</strong></h4>
+<h3>Physical and Outdoor Education (POD)</h3>
+<p><strong>Vision</strong>
+<br>Physically-Educated Thinkers of Character&nbsp;</p>
+<p><strong>Mission</strong>
+<br>Every HGPian to be Equipped with Knowledge and Skills in PE and OE, Exhibit
+Values and Develop Character for a Dynamic World.</p>
+<p><strong>Philosophy</strong>
+<br>Championing Health, Outdoor and Physical Education (CHOPE)</p>
+<p>Check out our social media sites!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/POD.HGP"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/pod_hgp/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2_ig.png"></a>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Holistic Development of Students</p>
 <p><strong>Physical<br></strong>Nurture the&nbsp;<strong>Joy of Learning</strong>&nbsp;to
 motivate the&nbsp;students intrinsically and drive them forward to explore
 and discover their interests and passions.&nbsp;Provide opportunities for
