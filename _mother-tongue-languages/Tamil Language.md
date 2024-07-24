@@ -62,6 +62,7 @@ so as to understand the text in its entirety, and to grasp the literal
 meaning of the text. The text is carefully selected by teachers, and it
 involves summary writing, a process that enables students to acquire reading
 skills, vocabulary, and grammatical knowledge.</p>
+<p></p>
 <p><strong><u>சொற்போர் (Debate)</u></strong>
 </p>
 <p>2019-ஆம் ஆண்டில், தேசிய அளவில் நடந்தேறிய விவாதப் போட்டியில் (சொற்போர்)
@@ -83,6 +84,10 @@ as early as a year before the actual competition. Skills acquired in this
 whole learning process help our students go a long way in empathizing with
 people, building their confidence, and expanding their understanding of
 the world around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/debate1.jpg">
+</div>
 <p><strong><u>தீபாவளி (Deepavali)</u></strong>
 </p>
 <p>இந்துக்கள் கொண்டாடும் மிகப் பெரிய கொண்டாட்டமே தீபாவளி என்னும் வகையில்
@@ -104,6 +109,7 @@ performance by our very own teachers and students not only offer our school
 a stunning spectacle, but also provides our students with a platform to
 showcase their skills. What better way to spread the festive cheer than
 to take part in the performance!</p>
+<p></p>
 <p><strong><u>குழும/தேசிய பகிர்வுகள் (Zonal/ National Presentations)</u></strong>
 </p>
 <p>தமிழ்மொழிப் பாடங்களைக் கற்றல் குறிக்கோள் அடிப்படையில் எடுத்துச் செல்வதில்
