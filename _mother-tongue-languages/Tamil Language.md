@@ -15,6 +15,18 @@ variant: tiptap
 எங்கள் பள்ளியின் தத்துவச் சிந்தை – ஒன்றுசேர்ந்து மாணவர்களின் திறனை வெளிக்கொணர்தல்
 – எனும் நோக்கில், மாணவர்களிடையே தமிழார்வத்தைத் தூண்ட, தமிழ்த்துறை புத்துணர்ச்சியூட்டும்
 நடவடிக்கைகளை நடத்தி வருகிறது.</p>
+<p>Hougang Primary’s Tamil Language group comprises four dedicated, determined
+and dynamic Tamil teachers who have our students at the heart of education
+and believe that students should be provided with powerful and meaningful
+learning experiences that will aid in their holistic development. &nbsp;With
+a robust and rigorous curriculum at the forefront, our Tamil teachers champion
+the character development of our students through engaging them in student-centric
+lessons and a myriad of programmes, inculcating in them values and a sense
+of purpose in life. In line with our school philosophy- Bringing out the
+Best in Every Child, Together- the Tamil Language Group has been assuming
+interesting and invigorating initiatives to cultivate and sustain in students
+the interest of learning Tamil Language, and uncovering their fullest potential.
+Some of the key initiatives are as follows:</p>
 <p><strong><u>வாசிப்பு செயல்முறைத்திட்டம் (Reading Programme)</u></strong>
 </p>
 <p>தொடக்கநிலை ஒன்று முதல் நான்கு வரையிலுள்ள மாணவர்களுக்கு அகன்ற வாசிப்பு
@@ -33,6 +45,23 @@ variant: tiptap
 தேர்ந்தெடுக்கப்பட்ட பனுவல்களைப் பயன்படுத்தி மாணவர்கள் தாங்கள் படித்தவற்றைச்
 சுருக்கி வரைவர். இதன்மூலம் மாணவர்களின் வாசிப்புத் திறனும், சொல்வளமும்,
 இலக்கண அறிவும் மேம்படுகின்றன.</p>
+<p>Extensive reading programme is carried out for our lower primary and middle
+primary students. The aim of conducting the extensive reading programme
+is to encourage students to read for pleasure, and to develop reading speed
+and fluency. The programme consists of effective use of the Small Readers
+and teacher-designed supplemental Reading Journals to be used alongside
+Small Readers. Middle primary students are tasked with selecting their
+reading materials themselves. They read and share their Reading Reflections
+in class via various presentation modes in a bid to promote the books they
+have read. Supplementary reading materials such as short stories, and articles
+from magazines and newspapers are also provided for students to read beyond
+the classroom. &nbsp;</p>
+<p>Intensive reading programme is carried out for our upper primary students.
+This is an approach wherein students read the text carefully and deeply
+so as to understand the text in its entirety, and to grasp the literal
+meaning of the text. The text is carefully selected by teachers, and it
+involves summary writing, a process that enables students to acquire reading
+skills, vocabulary, and grammatical knowledge.</p>
 <p><strong><u>சொற்போர் (Debate)</u></strong>
 </p>
 <p>2019-ஆம் ஆண்டில், தேசிய அளவில் நடந்தேறிய விவாதப் போட்டியில் (சொற்போர்)
@@ -43,8 +72,17 @@ variant: tiptap
 போட்டி நடைபெறுவதற்கு ஒரு வருட காலத்திற்கு முன்பே விவாதத் திறனை வளர்த்துக்கொள்ளும்
 பயிற்சிகளில் ஈடுபடுகின்றனர். இவற்றின் மூலம் மற்றவர்களின் உணர்வுகளை உணர்ந்து
 செயல்படுவது, தன்னம்பிக்கையை வளர்த்துக்கொள்வது, உலக நடப்புகளைப் பற்றிய புரிதலை
-மேம்படுத்திக்கொள்வது போன்றவற்றை மாணவர்களிடையே வளர்க்க நாங்கள் விழைகிறோம்.
-&nbsp;</p>
+மேம்படுத்திக்கொள்வது போன்றவற்றை மாணவர்களிடையே வளர்க்க நாங்கள் விழைகிறோம்.</p>
+<p>After the monumental winning of Hougang Primary’s Tamil students in the
+National Tamil Debate Competition in 2019 where they were awarded the Champion
+Trophy, the Tamil teachers have carried on the spirit of teaching and learning
+critical thinking and analysis, and public speaking and argumentation skills
+amongst students via a variety of approaches. Students undergo a rigorous
+selection process to be selected for the debate team, and start their preparation
+as early as a year before the actual competition. Skills acquired in this
+whole learning process help our students go a long way in empathizing with
+people, building their confidence, and expanding their understanding of
+the world around them.</p>
 <p><strong><u>தீபாவளி (Deepavali)</u></strong>
 </p>
 <p>இந்துக்கள் கொண்டாடும் மிகப் பெரிய கொண்டாட்டமே தீபாவளி என்னும் வகையில்
@@ -56,6 +94,16 @@ variant: tiptap
 மாணவர்களும் ஆசிரியர்களும் ஒன்றிணைந்து கண்களுக்கு விருந்தளிக்கும் வகையில்
 படைப்புகளைத் தயாரிக்கிறோம். மாணவர்களின் திறன்களை வெளிக்காட்ட இது ஒரு சிறந்த
 தளமாக அமைகிறது.</p>
+<p>Deepavali is the biggest celebration in the Hindu calendar, and our teachers
+and students leave no stone unturned in preparing for a dazzling celebration
+that offers a glimpse into our rich cultural heritage. Aimed at involving
+our teachers and students from diverse ethnicities, we plan for an array
+of classroom and recess activities, where they get an opportunity to learn
+more about our culture and traditions. An assembly programme with stage
+performance by our very own teachers and students not only offer our school
+a stunning spectacle, but also provides our students with a platform to
+showcase their skills. What better way to spread the festive cheer than
+to take part in the performance!</p>
 <p><strong><u>குழும/தேசிய பகிர்வுகள் (Zonal/ National Presentations)</u></strong>
 </p>
 <p>தமிழ்மொழிப் பாடங்களைக் கற்றல் குறிக்கோள் அடிப்படையில் எடுத்துச் செல்வதில்
@@ -73,4 +121,20 @@ variant: tiptap
 இவ்வகையில் நம் கற்பித்தல் முறைகள் வளர்ச்சி கண்டுள்ளன.</p>
 <p>இதுபோன்ற பல நடவடிக்கைகளில் நாங்கள் எங்கள் மாணவர்களையும் எங்களையும் ஈடுபடுத்திக்கொள்வதன்மூலம்,
 எங்கள் மாணவர்கள் தமிழ்மொழியிலும் நமது கலாச்சாரப் பண்பாடுகளிலும் ஆர்வம்
-பெற்று திகழ்கின்றனர். &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+பெற்று திகழ்கின்றனர்.</p>
+<p></p>
+<p>The Tamil teachers are passionate about our students and are purposeful
+in what we teach and how we teach. We understand that the quality of instruction
+is correlational to students’ successful learning. As such, we pursue continuous
+improvement through collaborative learning and sharing. Over the years,
+we have sought to enhance our professional practice by implementing lesson
+studies anchored by educational theories and models in our classrooms.
+We have also shared best practices at the zonal and national level in a
+bid to nurture a learning culture amongst the larger teaching fraternity.
+‘Using Differentiated Instruction in Composition Writing”, ‘Using Short
+Stories to Promote Thinking Skills’, and ‘Leveraging Technology to Enhance
+Learners’ Conversational Skills’ are some of the studies we have engaged
+in and shared to strengthen our instruction.</p>
+<p><em>“If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart.” -Nelson Mandela</em>
+</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
