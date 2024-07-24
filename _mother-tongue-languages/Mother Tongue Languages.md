@@ -1,7 +1,8 @@
 ---
-title: MT Languages
+title: Mother Tongue Languages
 permalink: /hgp-experience/total-curriculum/mt-languages/
 description: ""
+variant: tiptap
 ---
 <p><strong>Vision</strong><br>Our students are proficient in the Mother Tongue Language; have a love for their cultural heritage; and are rooted in moral values</p>
 <p><strong>Mission</strong><br>To develop our students to be proficient and confident in their command of the Mother Tongue Language; to inculcate in them a love and passion for their own native culture; and to transmit and instil moral values in our young.</p>
