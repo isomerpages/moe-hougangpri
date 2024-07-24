@@ -3,41 +3,80 @@ title: Teacher Leaders
 permalink: /about-hgp/our-staff/teacher-leaders/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-<table width="0">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;" width="301"><strong>Appointment</strong></td>
-<td style="text-align: left;" width="272"><strong>Name</strong></td>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td width="301">Lead Teacher (Science)</td>
-<td width="272">Soh Lee Yoong</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Lee Yoong</p>
+</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (Art)</td>
-<td width="272">Goh Lee Yen, Pauline</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Art)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Lee Yen, Pauline</p>
+</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (Chinese Language)</td>
-<td width="272">Lim Pei Wen</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Pei Wen</p>
+</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (English Language)</td>
-<td width="272">Ung Siew Kwang, Mary</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ung Siew Kwang, Mary</p>
+</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (Mathematics)</td>
-<td width="272">Lee Wee San</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Wee San</p>
+</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (PE, CCA &amp; OE)</td>
-<td width="272">Seah Kai Ren, Harold</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (PE, CCA &amp; OE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Kai Ren, Harold</p>
+</td>
 </tr>
 <tr>
-<td width="301">Senior Teacher (Special Educational Needs)</td>
-<td width="272">Tan Guan Chin, Alvin</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Special Educational Needs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Guan Chin, Alvin</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
