@@ -2,155 +2,75 @@
 title: Tamil Language
 permalink: /hgp-experience/total-curriculum/mt-languages/tamil-language/
 description: ""
+variant: tiptap
 ---
-<p><strong><em><u>Introduction<br /></u></em></strong>The Tamil Department was formed in the year 2001, when the school started functioning at its new ground. In the first year, the Tamil pupils cohort consisted of just 21 Tamil pupils in Primary 1, and the department was led by 1 Tamil teacher. Over the years, we have grown from strength to strength. Today, we are heartened to have 115 Tamil pupils and</p>
-<p>3 dedicated Tamil teachers in Hougang Primary.</p>
-<p><strong><em><u>Objectives of the department<br /></u></em></strong>The Tamil Department of Hougang Primary School aims at developing in our students the passion and appreciation of learning Tamil language, culture and arts, by enhancing the teaching and learning of Tamil Language and providing quality Tamil education.&nbsp;In line with our school philosophy- Bringing out the Best in Every Child, Together- the Tamil Department has been assuming interesting and engaging initiatives to cultivate and sustain in students the interest of learning Tamil Language, and uncovering their potential. This is done via a variety of programmes.</p>
-<p><strong><em><u>Our Key Programmes &amp; Projects</u></em></strong></p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="110">Primary</td>
-<td style="text-align: center;" width="84">1</td>
-<td style="text-align: center;" width="76">2</td>
-<td style="text-align: center;" width="88">3</td>
-<td style="text-align: center;" width="79">4</td>
-<td style="text-align: center;" width="86">5</td>
-<td style="text-align: center;" width="78">6</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="110">Reading</td>
-<td style="text-align: center;" colspan="2" width="160">Buddy Reading programme</td>
-<td style="text-align: center;" colspan="2" width="167">Guided Reading Programme</td>
-<td style="text-align: center;" colspan="2" width="164">Extensive Reading Programme</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="110">Writing</td>
-<td style="text-align: center;" colspan="2" width="160">Penmanship</td>
-<td style="text-align: center;" colspan="2" width="167">Biweekly Book Reviews</td>
-<td style="text-align: center;" colspan="2" width="164">Weekly Book Reviews</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="110">Oracy</td>
-<td style="text-align: center;" colspan="2" width="160">Show and Tell</td>
-<td style="text-align: center;" colspan="2" width="167">Mini Debates</td>
-<td style="text-align: center;" colspan="2" width="164">E- Video Conversation, Group Presentations</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="110">Enrichment</td>
-<td style="text-align: center;" colspan="6" width="491">MTL Fortnight Activities</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="110">Intervention</td>
-<td style="text-align: center;" colspan="2" width="160">Individual Coaching</td>
-<td style="text-align: center;" colspan="4" width="331">Remedial Programme/ Consultation Sessions</td>
-</tr>
-</tbody>
-</table>
-<p>Apart from the key programmes, the Tamil department has adopted several other initiatives to nurture and develop curiosity amongst our students. The initiatives are as follows:</p>
-<ul>
-<li>Tamil Literary competitions are held annually for all levels during the MT fortnight activities.</li>
-<li>Language competitions are organised by cluster for all P1-6 pupils.</li>
-<li>Students are encouraged and trained to participate in external competitions.&nbsp;</li>
-<li>Book fairs and library activities are held periodically to cultivate good reading habit.</li>
-<li>Deepavali celebrations, exhibitions and recess activities are organised yearly.&nbsp;</li>
-<li>IT lessons are conducted fortnightly to introduce Tamil typing to the pupils.</li>
-</ul>
-<p><strong><em><u>Achievements at External Competitions (2021)<br /></u></em></strong></p>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="134"><strong>Name</strong></td>
-<td style="text-align: center;" width="57"><strong>Class</strong></td>
-<td style="text-align: center;" width="118"><strong>Name of Competition</strong></td>
-<td style="text-align: center;" width="128"><strong>Prize won</strong></td>
-<td style="text-align: center;" width="294"><strong>Organizers</strong></td>
-</tr>
-<tr>
-<td width="134">Praharshitha</td>
-<td width="57">1D</td>
-<td width="118">Story Telling</td>
-<td width="128">2nd</td>
-<td width="294">Paya Lebar &ndash; Aljunied Indian Activity Executive Committee</td>
-</tr>
-<tr>
-<td width="134">Praharshitha</td>
-<td width="57">1D</td>
-<td width="118">Fancy Dress</td>
-<td width="128">1st</td>
-<td width="294">Teck Ghee Community Club IAEC</td>
-</tr>
-<tr>
-<td width="134">Praharshitha</td>
-<td width="57">1D</td>
-<td width="118">Singing Competition</td>
-<td width="128">Con</td>
-<td width="294">Muthamizh Vizha</td>
-</tr>
-<tr>
-<td width="134">Raghave Tamilavel</td>
-<td width="57">2D</td>
-<td width="118">Singing</td>
-<td width="128">1st</td>
-<td width="294">Paya Lebar &ndash; Aljunied Indian Activity Executive Committee</td>
-</tr>
-<tr>
-<td width="134">Lakshanya Ramesh</td>
-<td width="57">2D</td>
-<td width="118">Character Portrayal</td>
-<td width="128">3rd</td>
-<td width="294">Paya Lebar &ndash; Aljunied Indian Activity Executive Committee</td>
-</tr>
-<tr>
-<td width="134">Harshini Premkumar</td>
-<td width="57">3C</td>
-<td width="118">Story Telling</td>
-<td width="128">5th</td>
-<td width="294">Teck Ghee Community Club IAEC</td>
-</tr>
-<tr>
-<td width="134">Anguraj Narain Karthik</td>
-<td width="57">4F</td>
-<td width="118">Story Telling</td>
-<td width="128">5th</td>
-<td width="294">Teck Ghee Community Club IAEC</td>
-</tr>
-<tr>
-<td width="134">Pravarthika Madhusudhanan</td>
-<td width="57">4F</td>
-<td width="118">Story Telling</td>
-<td width="128">1st</td>
-<td width="294">Thomson CC</td>
-</tr>
-<tr>
-<td width="134">Pravarthika Madhusudhanan</td>
-<td width="57">4F</td>
-<td width="118">Story Telling</td>
-<td width="128">Encouragement</td>
-<td width="294">Muthamizh Vizha</td>
-</tr>
-<tr>
-<td width="134">Varshini Senthilnathan</td>
-<td width="57">4C</td>
-<td width="118">Story Telling</td>
-<td width="128">Consolation</td>
-<td width="294">Muthamizh Vizha</td>
-</tr>
-<tr>
-<td width="134">S Santosh</td>
-<td width="57">5D</td>
-<td width="118">Creative Story Writing</td>
-<td width="128">Consolation</td>
-<td width="294">Teck Ghee Community Club IAEC</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em><u>Achievements at Cluster and National Competitions</u></em></strong></p>
-<p>National Tamil Debate 2019 - Champions<br />National Drama Competition 2017- 2nd&nbsp;runner up<br />National Tamil Debate 2017 - Quarter Finalists<br />International Tamil Debate 2016 &ndash; Finalist<br />International Tamil Debate 2015 &ndash; Finalist<br />National Tamil Debate 2015 - Quarter Finalists<br />N3 Cluster Champions &ndash; 2014, 2015 &amp; 2016<br />NIE Drama Competition 2013 &ndash; 2nd Place<br />Raffles Drama Competition 2012- 1st Place<br />National Tamil Debate 2011 - Semi Finalists<br />National Tamil Debate 2009 - Semi Finalists<br />National Oratorical Competition&nbsp;2004/2005- 2nd Place<br />Rangoli Competition 2004 - 3rd Place<br />National Tamil Drama 2003 - Champion</p>
-<p style="text-align: center;"><strong>Debate Competition</strong></p>
-<p style="text-align: center;">Our students clinched top honours for the school as they were awarded the champion trophy in the&nbsp;National&nbsp;Tamil&nbsp;Debate&nbsp;Competition&nbsp;2019. They demonstrated a high level of resilience and put in months of hard work in their preparation for the competition. During the competition, our students were eloquent in their delivery and were composed in facing their strong opponents. Ashwin Kumar also won the best speaker award and was selected to represent Singapore in the International Tamil Forum.</p>
-<img src="/images/tam1.jpg">
-<p style="text-align: center;"><strong>Mother Tongue Fortnight</strong></p>
-<img src="/images/tam2.jpg">
-<p style="text-align: center;"><strong>Deepavali Celebrations</strong></p>
-<img src="/images/tam3.jpg">
+<p><strong>தமிழ்மொழித் துறை (Tamil Language Group)</strong>
+</p>
+<p>ஹவ்காங் தொடக்கப்பள்ளியில் கடின உழைப்பும் தன்முனைப்பும் கொண்ட நான்கு திறன்மிக்க
+தமிழாசிரியர்கள் இருக்கிறோம். மாணவர்கள் கல்வியின் உள்ளகம் என்பதை மனத்தில்கொண்டு
+நாங்கள் மாணவர்களுக்கு ஆற்றல்மிக்க, அர்த்தமுள்ள கற்றல் அனுபவங்களை உருவாக்கிக்
+கொடுப்பதை தலையாயப் பணியாகக் கருதுகிறோம். வலுவான பாடத்திட்டத்தை முதன்மையாகக்
+கருதி, மாணவர்களை மையமாகக் கொண்டு, பல பாடங்களும் நிகழ்ச்சிகளும் நடத்தப்பட்டு
+வருகின்றன. இவை மாணவர்களின் பண்புநல வளர்ச்சியிலும் பெரும் பங்காற்றுகின்றன.
+எங்கள் பள்ளியின் தத்துவச் சிந்தை – ஒன்றுசேர்ந்து மாணவர்களின் திறனை வெளிக்கொணர்தல்
+– எனும் நோக்கில், மாணவர்களிடையே தமிழார்வத்தைத் தூண்ட, தமிழ்த்துறை புத்துணர்ச்சியூட்டும்
+நடவடிக்கைகளை நடத்தி வருகிறது.</p>
+<p><strong><u>வாசிப்பு செயல்முறைத்திட்டம் (Reading Programme)</u></strong>
+</p>
+<p>தொடக்கநிலை ஒன்று முதல் நான்கு வரையிலுள்ள மாணவர்களுக்கு அகன்ற வாசிப்பு
+நடத்தப்படுகிறது. மாணவர்கள் மகிழ்வூட்டும் வாசித்தலை மேற்கொள்ளவும், சீராக,
+சரளமாக வாசிக்கவும் இத்திட்டம் அமல்படுத்தப்பட்டுள்ளது. சிறுவர் கதைநூலையும்,
+அதையொட்டிய மாணவ நடவடிக்கை தொகுப்பையும்கொண்டு நாம் மாணவர்களிடையே வாசிப்புப்
+பழக்கத்தை ஊக்குவிக்கிறோம். தொடக்கிநிலை மூன்று, நான்கு மாணவர்கள் சுயமாகத்
+தங்களுக்கு விருப்பமான வாசிப்பு வளங்களைத் தேர்வுசெய்து, வெவ்வேறு படைத்தல்
+முறைகளைக்கொண்டு, தாங்கள் படித்தவற்றை வகுப்பில் பகிர்வர். ஆசிரியர்களால்
+தேர்வு செய்யப்பட்ட செய்தித்தாள் துணுக்குகள், சஞ்சிகைகளில் இடம்பெறும் சிறுகதைகள்
+போன்ற துணைவளங்கள் மாணவர்களுக்கு வழங்கப்படுகின்றன. இது வகுப்பறைக்கு அப்பாற்பட்ட
+கற்றலை ஊக்குவிக்கிறது.</p>
+<p>தொடக்கநிலை ஐந்து, ஆறு மாணவர்களுக்கு ஆழ்நிலை வாசிப்பு நடத்தப்படுகிறது.
+பனுவலை ஆழமாகவும், கவனமாகவும் வாசித்து, அதில் மறைமுகமாகப் பொதிந்திருக்கும்
+கருத்துகளைக் கண்டறிவதே இச்செயல்முறைத்திட்டத்தின் நோக்கமாகும். ஆசிரியர்களால்
+தேர்ந்தெடுக்கப்பட்ட பனுவல்களைப் பயன்படுத்தி மாணவர்கள் தாங்கள் படித்தவற்றைச்
+சுருக்கி வரைவர். இதன்மூலம் மாணவர்களின் வாசிப்புத் திறனும், சொல்வளமும்,
+இலக்கண அறிவும் மேம்படுகின்றன.</p>
+<p><strong><u>சொற்போர் (Debate)</u></strong>
+</p>
+<p>2019-ஆம் ஆண்டில், தேசிய அளவில் நடந்தேறிய விவாதப் போட்டியில் (சொற்போர்)
+ஹவ்காங் தொடக்கப்பள்ளி மாணவர்கள் மாபெறும் வெற்றியைத் தழுவினர். அதைத் தொடர்ந்து,
+திறனாய்வுச் சிந்தனை, பொதுப் பேச்சுத் திறன், விவாதத் திறன் போன்றவற்றை மாணவர்களிடையே
+வளர்க்க நாங்கள் முற்படுகிறோம். கடுமையான தேர்வுமுறையைக்கொண்டு, நாங்கள் தகுதியான
+மாணவர்களைத் தேர்ந்தெடுத்து, சொற்போர் குழுவை உருவாக்குகிறோம். மாணவர்கள்
+போட்டி நடைபெறுவதற்கு ஒரு வருட காலத்திற்கு முன்பே விவாதத் திறனை வளர்த்துக்கொள்ளும்
+பயிற்சிகளில் ஈடுபடுகின்றனர். இவற்றின் மூலம் மற்றவர்களின் உணர்வுகளை உணர்ந்து
+செயல்படுவது, தன்னம்பிக்கையை வளர்த்துக்கொள்வது, உலக நடப்புகளைப் பற்றிய புரிதலை
+மேம்படுத்திக்கொள்வது போன்றவற்றை மாணவர்களிடையே வளர்க்க நாங்கள் விழைகிறோம்.
+&nbsp;</p>
+<p><strong><u>தீபாவளி (Deepavali)</u></strong>
+</p>
+<p>இந்துக்கள் கொண்டாடும் மிகப் பெரிய கொண்டாட்டமே தீபாவளி என்னும் வகையில்
+ஆசிரியர்களும் மாணவர்களும் இணைந்து நம் இந்தியப் பண்பாட்டு மரபுடைமையை வெளிக்கொணரும்
+விதத்தில் ஒவ்வோர் ஆண்டும் பிரம்மாண்டமான கொண்டாட்டத்திற்கு ஏற்பாடு செய்கிறோம்.
+வெவ்வேறு இன, கலாச்சாரங்களைச் சேர்ந்த மாணவர்களும் ஆசிரியர்களும் பங்கெடுக்கும்
+வண்ணம் நாங்கள் பற்பல வகுப்பு நடவடிக்கைகளையும் இடைவேளை நடவடிக்கைகளையும்
+நடத்தி வருகிறோம். பொது ஒன்றுகூடல் வேளையில், தீபாவளி நிகழ்ச்சிக்காக நம்
+மாணவர்களும் ஆசிரியர்களும் ஒன்றிணைந்து கண்களுக்கு விருந்தளிக்கும் வகையில்
+படைப்புகளைத் தயாரிக்கிறோம். மாணவர்களின் திறன்களை வெளிக்காட்ட இது ஒரு சிறந்த
+தளமாக அமைகிறது.</p>
+<p><strong><u>குழும/தேசிய பகிர்வுகள் (Zonal/ National Presentations)</u></strong>
+</p>
+<p>தமிழ்மொழிப் பாடங்களைக் கற்றல் குறிக்கோள் அடிப்படையில் எடுத்துச் செல்வதில்
+நாம் அதிக நாட்டம் காட்டுகிறோம். தரமான கற்பித்தல், மாணவர்கள் சிறந்த கற்றல்
+நிலையை அடைய வழிவகுக்கிறது என்பதில் எங்களுக்கு அதீத நம்பிக்கை உள்ளது. எனவே,
+நாங்கள் கற்பித்தல் முறைகளில் எங்களைத் தொடர்ந்து மேம்படுத்திக்கொள்ள கூடிக்கற்றலிலும்
+பகிர்வுகளிலும் எங்களை ஈடுபடுத்திக்கொள்கிறோம். கடந்த சில ஆண்டுகளாக, நாங்கள்
+தொழில்முறைசார்ந்த வழக்கங்களை செம்மைப்படுத்தும் நோக்கில், கற்றல் கோட்பாடுகளையொட்டிய
+பாடங்களை வகுப்பில் அறிமுகப்படுத்தி வருகிறோம். இப்பாடங்களை நாங்கள் வடக்குக்
+குழும நிலையிலும் தேசிய அளவிலும், ஆசிரியர்களிடையே கற்றல் ஆர்வத்தை வளர்க்கும்
+வண்ணம் பகிர்ந்துகொள்கிறோம். ‘வேறுபடுத்தப்பட்ட கற்பித்தல் முறையைப் பயன்படுத்தி
+கட்டுரைப் பாடம் நடத்துதல்’, ‘சிறுகதைகளின் வாயிலாகச் சிந்தனை திறன்களை மேம்படுத்துதல்’,
+‘தொழில்நுட்பத்தைக்கொண்டு மாணவர்களின் உரையாடல் திறனை மேம்படுத்துதல்’ போன்ற
+தலைப்புகளில் நாங்கள் ஆய்வுகளை மேற்கொண்டு, பாடங்களை நடத்தி, அவற்றைப் பகிர்ந்திருக்கிறோம்.
+இவ்வகையில் நம் கற்பித்தல் முறைகள் வளர்ச்சி கண்டுள்ளன.</p>
+<p>இதுபோன்ற பல நடவடிக்கைகளில் நாங்கள் எங்கள் மாணவர்களையும் எங்களையும் ஈடுபடுத்திக்கொள்வதன்மூலம்,
+எங்கள் மாணவர்கள் தமிழ்மொழியிலும் நமது கலாச்சாரப் பண்பாடுகளிலும் ஆர்வம்
+பெற்று திகழ்கின்றனர். &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
