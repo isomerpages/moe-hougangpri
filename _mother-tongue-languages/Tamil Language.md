@@ -109,7 +109,21 @@ performance by our very own teachers and students not only offer our school
 a stunning spectacle, but also provides our students with a platform to
 showcase their skills. What better way to spread the festive cheer than
 to take part in the performance!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/991bc073_84f3_4f52_b5ac_9a4b23127fca.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/33e6c4b8_8142_43f0_b3c6_d54f36624ea1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7ceb2fb7_656c_4637_85e6_443e9bc969fe.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d9404756_27cd_4f11_a51c_5114a55f6a05.jpg">
+</div>
 <p><strong><u>குழும/தேசிய பகிர்வுகள் (Zonal/ National Presentations)</u></strong>
 </p>
 <p>தமிழ்மொழிப் பாடங்களைக் கற்றல் குறிக்கோள் அடிப்படையில் எடுத்துச் செல்வதில்
@@ -143,4 +157,5 @@ Learners’ Conversational Skills’ are some of the studies we have engaged
 in and shared to strengthen our instruction.</p>
 <p><em>“If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart.” -Nelson Mandela</em>
 </p>
-<p>&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
