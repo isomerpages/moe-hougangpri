@@ -1,5 +1,5 @@
 collections:
-  mt-languages:
+  mother-tongue-languages:
     output: true
     order:
       - MT Languages.md
