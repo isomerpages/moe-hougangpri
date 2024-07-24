@@ -30,6 +30,9 @@ in this.</p>
 <p><strong>Enactment of CCE @ HGP</strong>
 </p>
 <p>To achieve our School’s Vision, Mission and Goals, the design and implementation
-of the CCE curriculum is guided by the CCE Curriculum Frame (Fig. 1).</p>
+of the CCE curriculum is guided by the CCE Curriculum Frame (Fig. 1 below).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
 <p></p>
