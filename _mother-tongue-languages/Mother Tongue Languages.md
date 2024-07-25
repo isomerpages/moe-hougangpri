@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Mother Tongue Languages</h2>
-<p></p>
-<p></p>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_25_at_11_57_14.jpg">
 </div>
