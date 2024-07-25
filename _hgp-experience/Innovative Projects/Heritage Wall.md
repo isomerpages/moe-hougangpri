@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Innovative Projects
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4494.jpg">
+</div>
+<p></p>
 <p>The Hougang Primary School Heritage Wall was officially launched on 18
 November 2020 by Ms Low Yoke Kiew, Zonal Director, Schools North. The unveiling
 of the wall coincided with the 20th Anniversary of Hougang Primary School.</p>
