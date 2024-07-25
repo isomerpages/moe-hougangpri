@@ -4,6 +4,10 @@ permalink: /about-hgp/vision-mission-n-motto/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4493.jpg">
+</div>
 <h4><strong>School Vision</strong></h4>
 <p>Future-Ready Thinkers with a Heart for Others</p>
 <h4><strong>School Mission</strong></h4>
