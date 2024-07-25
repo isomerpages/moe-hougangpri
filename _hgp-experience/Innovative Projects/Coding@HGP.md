@@ -231,7 +231,4 @@ is always consistent, which is important when teaching through repetition.
 A robot’s friendly demeanour and patience will encourage learners with
 special needs to step out of their shell and gives them the courage to
 interact with their environment.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rOS84GSU5ME"></iframe>
-</div>
 <p></p>
