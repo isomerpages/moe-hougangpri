@@ -5,20 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>School Profile</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/abou.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20220629_115825.jpg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p><a href="https://tubear.co/3d-model/hougang-primary-school/fullscreen/" rel="noopener noreferrer nofollow" target="_blank">HGP Virtual Tour</a>
-</p>
+<h4><a href="https://tubear.co/3d-model/hougang-primary-school/fullscreen/" rel="noopener noreferrer nofollow" target="_blank">HGP Virtual Tour</a></h4>
+<p></p>
 <p>Hougang Primary School (HGP) celebrated its 20<sup>th</sup>&nbsp;Anniversary
 in 2020. Founded in 2000 with an enrolment of around 600 students and a
 modest staff size of 20, the school has grown from strength to strength
@@ -34,29 +26,30 @@ typically filled up by Phase 2C, with balloting required in the latter
 phase. To a large extent, HGP’s relative popularity among prospective parents
 stems from its following niche areas that have also given the school a
 distinctive identity and brand:</p>
-<p><u>a. Outdoor Adventure Education (OAE)<br></u>As the school’s Learning
-for Life Programme (LLP), OAE provides HGP-ians with authentic, hands-on
-and physical learning experiences aimed at instilling values and developing
-character. Through a structured and progressive OAE curriculum that entails
-orienteering, camp craft, bouldering, abseiling and caving, HGP-ians are
-given the opportunity to embrace challenges and overcome obstacles, both
-confidently and competently. Furthermore, as many of the learning experiences
-involve students working collaboratively with their peers, OAE also serves
-as an important lever to facilitate social mixing, promoting a culture
-of inclusivity within the school community.</p>
-<p><u>b. Science Education<br></u>The school's Applied Learning Programme
-(ALP) in Science Education aims to cultivate a spirit of inquiry in HGP-ians,
-by allowing them to explore and experience the impact of Science on the
-real world. Anchored on environmental education, the ALP drives the school’s
-efforts and achievements in the areas of bio-diversity and eco-sustainability.
-With its campus immersed in rich flora and fauna, HGP was designated by
-NParks as a Centre for Biodiversity for Schools in the North East. In Feb
-2020, we also received the BCA Green Mark Goldplus certificate, recognising
-the school as a green building and affirming its efforts in reducing energy
-consumption through the pervasive use of energy-efficient technology. In
-Oct 2021, the school achieved the Diamond Award, Platinum Banding and “Outstanding
-Environmentally Friendly, Biodiversity Community Garden” Ribbon under the
-Community in Bloom Programme organized by NParks Singapore.</p>
+<p><strong><u>a. Outdoor Adventure Education (OAE)</u></strong><u><br></u>As
+the school’s Learning for Life Programme (LLP), OAE provides HGP-ians with
+authentic, hands-on and physical learning experiences aimed at instilling
+values and developing character. Through a structured and progressive OAE
+curriculum that entails orienteering, camp craft, bouldering, abseiling
+and caving, HGP-ians are given the opportunity to embrace challenges and
+overcome obstacles, both confidently and competently. Furthermore, as many
+of the learning experiences involve students working collaboratively with
+their peers, OAE also serves as an important lever to facilitate social
+mixing, promoting a culture of inclusivity within the school community.</p>
+<p><strong><u>b. Science Education</u></strong><u><br></u>The school's Applied
+Learning Programme (ALP) in Science Education aims to cultivate a spirit
+of inquiry in HGP-ians, by allowing them to explore and experience the
+impact of Science on the real world. Anchored on environmental education,
+the ALP drives the school’s efforts and achievements in the areas of bio-diversity
+and eco-sustainability. With its campus immersed in rich flora and fauna,
+HGP was designated by NParks as a Centre for Biodiversity for Schools in
+the North East. In Feb 2020, we also received the BCA Green Mark Goldplus
+certificate, recognising the school as a green building and affirming its
+efforts in reducing energy consumption through the pervasive use of energy-efficient
+technology. In Oct 2021, the school achieved the Diamond Award, Platinum
+Banding and “Outstanding Environmentally Friendly, Biodiversity Community
+Garden” Ribbon under the Community in Bloom Programme organized by NParks
+Singapore.</p>
 <p><strong>School Hours</strong>
 </p>
 <table style="minWidth: 150px">
