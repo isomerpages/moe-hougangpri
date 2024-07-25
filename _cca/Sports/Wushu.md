@@ -15,13 +15,7 @@ own performance for an event in relation to the rest of the group members
 and aspires to be an active contributor who is innovative, exercises initiative
 and strives for excellence in all the four school values - Care, Integrity,
 Respect, Resilience and Responsibility.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/wu1.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="iframe-wrapper">
-<iframe height="489" width="871" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/32qZPVrN3_Q"></iframe>
-</div>
 <p></p>
