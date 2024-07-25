@@ -10,7 +10,7 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>To provide deliberate and purposeful opportunities for students to display
-the school’s valuesof<strong>&nbsp;Care, Integrity, Resilience, Respect and Responsibility</strong>
+the school’s values of<strong>&nbsp;Care, Integrity, Resilience, Respect and Responsibility</strong>
 </p>
 </li>
 <li>
