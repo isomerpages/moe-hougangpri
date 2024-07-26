@@ -10,7 +10,7 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: e-Open House 2024
-          description: ""
+          description: Come visit us here!
           url: /eopen-house-2024-banner/
         - title: Links
           description: For teachers, students/parents
@@ -21,4 +21,8 @@ sections:
         - title: HGP Heartbeat
           description: eNewsletter
           url: /hgp-heartbeat-enewsletter
+      variant: center
+      size: sm
+      alignment: right
+      backgroundColor: gray
 ---
