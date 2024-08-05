@@ -109,9 +109,16 @@ yang sentiasa memberi bimbingan, sokongan dan tunjuk ajar kepada mereka.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/Picture4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/Picture5.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/Picture6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/Picture7.jpg">
 </div>
 <p><strong>Kegiatan Pembelajaran</strong>
 </p>
