@@ -4,8 +4,7 @@ permalink: /hgp-experience/total-curriculum/mt-languages/malay-language/
 description: ""
 variant: tiptap
 ---
-<p><strong>Bahasa Melayu</strong>
-</p>
+<h3><strong>Bahasa Melayu</strong></h3>
 <p><strong>Visi Bahasa Melayu</strong>
 <br>Arif Budiman – insan berilmu pengetahuan yang berbakti kepada masyarakat.</p>
 <p><strong>Objektif</strong>
