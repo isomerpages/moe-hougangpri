@@ -72,8 +72,14 @@ belajar sepanjang hayat.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tahun ini, Sarah Hannah dan Md Shukri telah dilantik sebagai Rakan Bahasa. Sebagai Rakan Bahasa, mereka dikehendaki untuk berkongsi dengan rakan-rakan lain bahan-bahan bacaan yang telah mereka baca seperti keratan akhbar&nbsp; dan cerpen. Mereka juga dikehendaki menulis sajak.&nbsp; Mereka amat bertuah kerana diberi peluang untuk mengambil bahagian dalam peraduan video. Setelah berjaya melaksanakan semua tugasan ini, barulah mereka diberikan lencana oleh pihak MLLPC dan NHB bagi mengiktiraf usaha mereka untuk memartabatkan Bahasa Melayu.</strong>
-</p>
+<p>Tahun ini, Sarah Hannah dan Md Shukri telah dilantik sebagai Rakan Bahasa.
+Sebagai Rakan Bahasa, mereka dikehendaki untuk berkongsi dengan rakan-rakan
+lain bahan-bahan bacaan yang telah mereka baca seperti keratan akhbar&nbsp;
+dan cerpen. Mereka juga dikehendaki menulis sajak.&nbsp; Mereka amat bertuah
+kerana diberi peluang untuk mengambil bahagian dalam peraduan video. Setelah
+berjaya melaksanakan semua tugasan ini, barulah mereka diberikan lencana
+oleh pihak MLLPC dan NHB bagi mengiktiraf usaha mereka untuk memartabatkan
+Bahasa Melayu.</p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +95,11 @@ telah berjaya ke peringkat akhir bagi pertandingan Cepat Tepat. Pertandingan
 yang dianjurkan oleh MLLPC dengan Kerjasama MediaCorp itu telah diserta
 oleh lebih daripada 80 buah sekolah. Muhammad (6D), Aleesya Nadya (6E),
 Muhammad Danish (6D) and Muhammad Syafiq (6C), telah mengharumkan nama
-sekolah dengan mendapat tempat keempat.</p>
+sekolah dengan mendapat tempat keempat dalam pertandingan tersebut. Sepanjang
+empat bulan, mereka membuat persiapan dan melalui proses penggambaran di
+samping tuntutan pembelajaran yang lain. Perjalanan ini tidaklah mudah,
+namun, usaha tersebut amat berbaloi. &nbsp;Syabas kepada mereka dan guru-guru
+yang sentiasa memberi bimbingan, sokongan dan tunjuk ajar kepada mereka.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/malayPicture3.jpg">
@@ -97,6 +107,11 @@ sekolah dengan mendapat tempat keempat.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/Picture4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Department/Picture6.jpg">
 </div>
 <p><strong>Kegiatan Pembelajaran</strong>
 </p>
