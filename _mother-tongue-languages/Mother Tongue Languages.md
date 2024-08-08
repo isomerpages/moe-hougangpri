@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Mother Tongue Languages</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_25_at_11_57_14.jpg">
+</div>
 <h4><strong>Vision: </strong>Our students are proficient in the Mother Tongue Language; have a love for their cultural heritage; and are rooted in moral values</h4>
 <h4><strong>Mission: </strong>To develop our students to be proficient and confident in their command of the Mother Tongue Language; to inculcate in them a love and passion for their own native culture; and to transmit and instil moral values in our young.</h4>
 <p>Through the delivery of the MOE and school-based curriculum, as well as
