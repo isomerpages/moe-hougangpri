@@ -247,10 +247,10 @@ variant: tiptap
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Tuesday / Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - P6</p>
+<p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m.</p>
@@ -258,8 +258,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3.30 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Chen Si Xuan, Serene (Mdm)</p>
+<td rowspan="2" colspan="1">
+<p>Mdm Serene Chen, Mdm Angela Tang &amp; Mr Eythan Ng</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Lower ISH</p>
@@ -270,19 +270,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Tuesday and/or Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - P6</p>
+<p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tang Yuen Peng Angela (Mdm)</p>
 </td>
 </tr>
 <tr>
