@@ -5,7 +5,18 @@ description: ""
 variant: tiptap
 ---
 <h4>CCA Schedule 2024</h4>
-<table>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
@@ -40,7 +51,7 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="19" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>Sports</strong>
 </p>
 </td>
@@ -232,14 +243,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Tuesday / Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3</p>
+<p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m.</p>
@@ -247,48 +258,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3.30 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Chen Si Xuan, Serene (Mdm)</p>
+<td rowspan="2" colspan="1">
+<p>Mdm Serene Chen, Mdm Angela Tang &amp; Mr Eythan Ng</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Lower ISH</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Lower ISH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Tuesday and/or Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 and P6</p>
+<p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Beng Hong, Eythan (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 &amp; P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.30 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tang Yuen Peng Angela (Mdm)</p>
 </td>
 </tr>
 <tr>
