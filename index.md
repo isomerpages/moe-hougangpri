@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: e-Open House 2024
-          description: Come visit us here!
-          url: /eopen-house-2024-banner/
         - title: Links
           description: For teachers, students/parents
           url: /internet-links
