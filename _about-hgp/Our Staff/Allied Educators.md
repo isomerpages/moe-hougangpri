@@ -57,15 +57,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="zaleha_abdul_manaf@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zaleha Binte Abdul Manaf</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -90,14 +81,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T &amp; L</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teaching &amp; Learning</p>
 </td>
 </tr>
 </tbody>
