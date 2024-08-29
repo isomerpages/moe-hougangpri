@@ -31,22 +31,23 @@ in this.</p>
 </p>
 <p>To achieve our School’s Vision, Mission and Goals, the design and implementation
 of the CCE curriculum is guided by the CCE Curriculum Frame (Fig. 1 below).</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/Picture9.png">
 </div>
 <p>Through the CCE(FTGP) and CCE(MTL) curriculum, our teachers use age-appropriate
 pedagogies to facilitate students’ learning experiences to develop their
 social-emotional skills, which are anchored on values and citizenship dispositions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_Lesson_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/CCE_Lesson_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_Lesson_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/CCE_Lesson_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_Lesson_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/CCE_Lesson_3.jpg">
 </div>
 <p>Beyond the classroom, our students are given opportunities to participate
 in Key Student Development Experiences (e.g. National Education events
@@ -54,26 +55,27 @@ and Cohort Learning Journeys, Values-in-Action and CCA) to help them make
 connections between the skills, values and competencies learnt in the classroom.</p>
 <h4><u>National Education and Cohort LJs</u></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/NE_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/NE_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/LJ_1.jpg">
 </div>
 <h4><u>Values-in-Action</u></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/VIA_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/VIA_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE department/VIA_3.jpg">
 </div>
 <p></p>
