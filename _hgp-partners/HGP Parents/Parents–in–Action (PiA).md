@@ -3,55 +3,110 @@ title: Parents–in–Action (PiA)
 permalink: /hgp-partners/parents-in-action-pia/
 description: ""
 third_nav_title: HGP Parents
+variant: tiptap
 ---
-<img style="width: 40%;" src="/images/pia1.jpg" />
-<p>The PiA is the parents support group for Hougang Primary School where parents from all walks of lives come together and get actively involved in our children&rsquo;s education journey.</p>
-<p>We welcome parents, grandparents and caregivers to join us. Click on the&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBd2nghhQLoNLZb5mID6rTA9yQvUKwbchTDC_ag-nkBT6qGg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0">link&nbsp;</a>to the membership form and join us today!</p>
-<img style="width: 40%;" src="/images/pia2.png" />
-<p style="text-align: center;"><strong><u>PiA EXCO 2022/2023</u></strong>&nbsp;</p>
-<table style="margin-left: auto; margin-right: auto;" width="501">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/pia1.jpg">
+</div>
+<p>The PiA is the parents support group for Hougang Primary School where
+parents from all walks of lives come together and get actively involved
+in our children’s education journey.</p>
+<p>We welcome parents, grandparents and caregivers to join us. Click on the&nbsp;
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBd2nghhQLoNLZb5mID6rTA9yQvUKwbchTDC_ag-nkBT6qGg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0" rel="noopener noreferrer nofollow" target="_blank">link&nbsp;</a>to the membership form and join us today!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR_Code.png">
+</div>
+<p></p>
+<p><strong><u>PiA EXCO 2024/2025</u></strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="229">DESIGNATION</td>
-<td width="272">NAME</td>
+<td rowspan="1" colspan="1">
+<p>DESIGNATION</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAME</p>
+</td>
 </tr>
 <tr>
-<td width="229">Chairperson</td>
-<td width="272">Ms Hsu Fan Han</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hsu Fan Han</p>
+</td>
 </tr>
 <tr>
-<td width="229">Vice-Chairperson</td>
-<td width="272">Ms Rasathi Rasiah</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Balkish Abdullah</p>
+</td>
 </tr>
 <tr>
-<td width="229">Secretary</td>
-<td width="272">Ms Rhinayatul Fitriah</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Heah</p>
+</td>
 </tr>
 <tr>
-<td width="229">Assistant Secretary</td>
-<td width="272">Ms Canny Pang</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nithiya Thigaraja</p>
+</td>
 </tr>
 <tr>
-<td width="229">EXCO member</td>
-<td width="272">Ms Balkish Abdullah</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Soon Heng</p>
+</td>
 </tr>
 <tr>
-<td width="229">EXCO member</td>
-<td width="272">Ms Deepa Chintakindi</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Dawn Tan Pei Yi</p>
+</td>
 </tr>
 <tr>
-<td width="229">EXCO member</td>
-<td width="272">Ms Hannah Heah</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Angeline Soh</p>
+</td>
 </tr>
 <tr>
-<td width="229">EXCO member</td>
-<td width="272">Ms Nithiya Thigaraja</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Roslinah Binte Mohd Ali</p>
+</td>
 </tr>
 <tr>
-<td width="229">EXCO member</td>
-<td width="272">Mr Toh Soon Heng</td>
+<td rowspan="1" colspan="1">
+<p>EXCO member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Wong Ai Wa</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><a href="http://hgppia.blogspot.com/">Click here to catch a glimpse of some projects we have!</a></p>
-<p style="text-align: center;">For more information on PiA, please contact Mdm Hsu Fan Han at&nbsp;<a href="mailto:fanhanhsu@yahoo.com.sg">fanhanhsu@yahoo.com.sg</a>&nbsp;or Mrs Ho at&nbsp;<a href="mailto:lim_li_tiang@moe.edu.sg">lim_li_tiang@moe.edu.sg</a></p>
+<p>For more information on PiA, please contact Mdm Hsu Fan Han at&nbsp;
+<a href="mailto:fanhanhsu@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">fanhanhsu@yahoo.com.sg</a>
+</p>
