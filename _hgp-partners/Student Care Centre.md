@@ -4,4 +4,11 @@ permalink: /hgp-partners/student-care-centre/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Change of School-based Student Care Centre (SCC)</strong></h4><p>Commit Learning SchoolHouse will be serving in Hougang Primary School as our school-based SCC with effect from 1 January 2024.</p><p></p><p>Please stay tuned for more details soon!</p>
+<h4><strong>School-based Student Care Centre (SCC)</strong></h4>
+<h4>Commit Learning Schoolhouse</h4>
+<p>Contact Number: 89443989</p>
+<p>Email: <a href="mailto:admission_cls_hgps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_hgps@commitlearning.com.sg</a>
+</p>
+<p>e-Interest Link for P1 2025: <a href="https://form.jotform.com/242741616209455" rel="noopener noreferrer nofollow" target="_blank">https://form.jotform.com/242741616209455</a>
+</p>
+<p></p>
