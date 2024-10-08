@@ -1,0 +1,6 @@
+collections:
+  accolades:
+    output: true
+    order:
+      - Staff Awards.md
+      - MOE Special Awards.md
