@@ -28,11 +28,11 @@ Science Olympiad, earning Merit and Bronze medals respectively. Beyond
 academics, Georgia's character truly sets her apart. She holds a deep-seated
 belief that the ability to contribute positively is not just an option,
 but a responsibility. This conviction manifested in her willingness to
-assist struggling classmates, share notes, and stand up for those facing
-social challenges. Georgia's journey at Hougang Primary, marked by active
-learning, dedicated service as a Library Leader, and a genuine desire to
-positively influence others' lives, sets a sterling example for her peers.
-Now posted to Raffles Girls' School, Georgia carries with her the values
-and opportunities nurtured at Hougang Primary, poised to make an even greater
-impact in her future endeavours.</p>
+assist fellow classmates, share notes, and stand up for those facing social
+challenges. Georgia's journey at Hougang Primary, marked by active learning,
+dedicated service as a Library Leader, and a genuine desire to positively
+influence others' lives, sets a sterling example for her peers. Now posted
+to Raffles Girls' School, Georgia carries with her the values and opportunities
+nurtured at Hougang Primary, poised to make an even greater impact in her
+future endeavours.</p>
 <p></p>
