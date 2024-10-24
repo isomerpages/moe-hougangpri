@@ -35,4 +35,3 @@ influence others' lives, sets a sterling example for her peers. Now posted
 to Raffles Girls' School, Georgia carries with her the values and opportunities
 nurtured at Hougang Primary, poised to make an even greater impact in her
 future endeavours.</p>
-<p></p>
