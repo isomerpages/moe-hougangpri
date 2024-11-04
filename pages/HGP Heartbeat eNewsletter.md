@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><a href="/files/issue05_Final_nameUpdate_reduced.pdf" rel="noopener noreferrer nofollow" target="_blank">HGP Heartbeat Issue 05 (Semester One 2024)</a>
 </p>
-<p><a href="https://go.gov.sg/hgp-heartbeat-issue06" rel="noopener nofollow" target="_blank">HGP Hearbeat Issue 06 (Semester 2 2024)</a>
+<p><a href="https://go.gov.sg/hgp-heartbeat-issue06" rel="noopener nofollow" target="_blank">HGP Hearbeat Issue 06 (Semester Two 2024)</a>
 </p>
 <p></p>
 <p></p>
