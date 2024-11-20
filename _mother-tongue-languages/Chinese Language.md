@@ -72,25 +72,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture5.jpg">
 </div>
-<p><strong>节日庆祝活动Festive Celebration</strong>
+<p><strong>节日庆祝活动 Festive Celebration</strong>
 </p>
-<p>华人有八大节日，华文部门竭力介绍各大传统华人的节日来源与庆祝方式，让中华文化可继续薪火相传。（更多细节请见华文科面部 <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/</a>
+<p>华人有八大节日，华文部门竭力介绍各大传统华人的节日来源与庆祝方式，让中华文化可继续薪火相传。更多细节请见华文科面部 <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture6.jpg">
 </div>
 <p><strong>校本口试和写作技能资源School-Based Resources on Oral and Composition Writing</strong>
 </p>
 <p>教学有方，学习有道，华文部门教师运用思维可视化（Making thinking Visible）策略，精心打造了校本口试和写作技能资源，大大提高了学生的学习成效。</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture8.jpg">
 </div>
+<p></p>
 <p><strong>有关华文学习资源的信息 Useful Links for the Learning of Chinese Language</strong>
 </p>
 <p>知识网</p>
