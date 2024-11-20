@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_25_at_11_55_43.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/WhatsApp_Image_2024_07_25_at_11_55_43.jpg">
 </div>
 <p>后港小学母语部华文科小组致力于：</p>
 <p>*培养学生精通并自信地运用华文华语</p>
