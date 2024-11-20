@@ -108,10 +108,10 @@ variant: tiptap
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.cpcll.sg/audio-book</a>
 </p>
-<p>受新加坡考评局批准使用的词典列表Approved Dictionaries by SEAB</p>
+<p>受新加坡考评局批准使用的词典列表 Approved Dictionaries by SEAB</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/home/examinations/approved-dictionaries</a>
 </p>
-<p>新加坡和海外新闻Local and Overseas News</p>
+<p>新加坡和海外新闻 Local and Overseas News</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/so-young/news-in-class</a>
 </p>
 <p></p>
