@@ -12,14 +12,12 @@ variant: tiptap
 <p>*培养学生精通并自信地运用华文华语</p>
 <p>*灌输他们对华族文化的热爱和热情</p>
 <p>*传承和弘扬华族传统和道德价值观</p>
-<p>&nbsp;</p>
+<p></p>
 <p>通过实施教育部和校本课程，以及开展全校范围的活动，我们希望学生能够：</p>
 <p>* 了解和欣赏华文华语</p>
 <p>* 自信地学习和有效地使用华文华语，并终身受用</p>
 <p>* 培养 21 世纪的核心素养，例如跨文化交流能力、沟通技巧、批判性思维和创造</p>
 <p>&nbsp;&nbsp; 性思维</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>重点部门项目</strong>
 </p>
 <p>为了促进华文华语的学习，以达至“乐学善用”的目标，本校通过多元化的教学设计以及丰富的活动，激发孩子的学习兴趣。精彩活动如下：</p>
@@ -30,28 +28,21 @@ variant: tiptap
 <p>* 节日庆祝活动</p>
 <p>* 校本口试和写作技能资源</p>
 <p></p>
-<p><strong>母语双周和文化营MTL Fortnight, Language and Cultural Camp</strong>
+<p><strong>母语双周和文化营 MTL Fortnight, Language and Cultural Camp</strong>
 </p>
 <p>每年的母语双周期间，母语部门老师都通力合作，提供多元有趣的活动，丰富学生对母族文化的了解。为期两个星期的课堂文化活动（拨浪鼓、手工舞龙和油纸扇画制作等）、休息时间活动（绕口令、快板及语文游戏）和文化营，让学生在无压力、十分轻松的环境下，有机会深入接触母语，进一步认识自己的母语和文化。</p>
 <p>更多细节请见华文科面部 <a href="https://www.facebook.com/people/HGP-CL-Dept%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/" rel="noopener noreferrer nofollow" target="_blank">HGP CL Facebook</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture1.jpg">
 </div>
 <p><strong>文化演出观摩计划 Cultural Performance Exposure Scheme (CPES) for Chinese Language</strong>
 </p>
 <p>观看母语戏剧演出，让学生在剧院里获得独特而沉浸式的教育体验，提升他们对文学、表演艺术和人类情感的理解。本校组织的剧院学习之旅，让学生接触到多元的文化视角和历史背景，丰富他们的社会和文化意识。今年五年级的学生和二年级的学生在新加坡福建会馆文化学院观看了《嫦娥奔月》和《小小的扑满》的演出，并有机会与舞台上的演员互动。同学们都津津有味地观看着，感受着戏剧带来的魅力。</p>
-<p>（更多细节请见华文科面部<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/）</a>
+<p>更多细节请见华文科面部 <a href="https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/）" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/)</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
 <p><strong>班级和校际文艺与才艺比赛Inter-Class and Inter-School Literary &amp; Talent Competition</strong>
 </p>
 <p>不同的文艺与才艺比赛提供学生大显身手，施展创意与表演的平台。本校设计不同年级的校内比赛让学生在求学的过程中有着不同的人生体验。一、二年级的诗歌朗诵比赛，孩子们都卯足全力。三到六年级的明信片、路线图、成语接龙和校园留影制作比赛，学生也各展才华。校外比赛则提供学生拓展视野、累计经验和激发学习华文的兴趣。（更多细节请见华文科面部
