@@ -40,7 +40,7 @@ Exposure Fund (CPEF) for ML</p>
 <p>Inter-class Literary &amp; Talent Competition</p>
 </li>
 <li>
-<p>Reading Programme</p>
+<p>MTL SOAR (Reading Programme)</p>
 </li>
 <li>
 <p>Festive Celebrations</p>
