@@ -84,9 +84,8 @@ as early as a year before the actual competition. Skills acquired in this
 whole learning process help our students go a long way in empathizing with
 people, building their confidence, and expanding their understanding of
 the world around them.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/debate1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Department/debate1.jpg">
 </div>
 <p><strong><u>தீபாவளி (Deepavali)</u></strong>
 </p>
@@ -109,21 +108,19 @@ performance by our very own teachers and students not only offer our school
 a stunning spectacle, but also provides our students with a platform to
 showcase their skills. What better way to spread the festive cheer than
 to take part in the performance!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/991bc073_84f3_4f52_b5ac_9a4b23127fca.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Department/b098e1ee_885b_49f6_8b1a_e977467939ee.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/33e6c4b8_8142_43f0_b3c6_d54f36624ea1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Department/33e6c4b8_8142_43f0_b3c6_d54f36624ea1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7ceb2fb7_656c_4637_85e6_443e9bc969fe.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Department/d9404756_27cd_4f11_a51c_5114a55f6a05.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d9404756_27cd_4f11_a51c_5114a55f6a05.jpg">
-</div>
 <p><strong><u>குழும/தேசிய பகிர்வுகள் (Zonal/ National Presentations)</u></strong>
 </p>
 <p>தமிழ்மொழிப் பாடங்களைக் கற்றல் குறிக்கோள் அடிப்படையில் எடுத்துச் செல்வதில்
