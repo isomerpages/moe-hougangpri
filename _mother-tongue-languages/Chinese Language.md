@@ -43,29 +43,34 @@ variant: tiptap
 <p>更多细节请见华文科面部 <a href="https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/）" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/)</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/Picture9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture2.jpg">
+</div>
 <p><strong>班级和校际文艺与才艺比赛Inter-Class and Inter-School Literary &amp; Talent Competition</strong>
 </p>
 <p>不同的文艺与才艺比赛提供学生大显身手，施展创意与表演的平台。本校设计不同年级的校内比赛让学生在求学的过程中有着不同的人生体验。一、二年级的诗歌朗诵比赛，孩子们都卯足全力。三到六年级的明信片、路线图、成语接龙和校园留影制作比赛，学生也各展才华。校外比赛则提供学生拓展视野、累计经验和激发学习华文的兴趣。（更多细节请见华文科面部
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/）</a>
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture4.jpg">
 </div>
 <p><strong>阅读计划Reading Programme</strong>
 </p>
 <p>读书好、好读书、读好书，母语部励志让学生成为读书爱好者。华文部老师精心设计了校内阅读计划，让学生有机会接触不同文种的读物并阅读悦读。每个星期四和星期五升旗礼前，学生会进行母语晨读活动。华文老师也积极向学生推荐适合的阅读刊物，例如：《和书一起飞》、《星星岛》和ezhishi
-网电子书等，并适时在Classdojo发布国家图书馆与推广华文学习委员会所推广的读物。每名学生都有个人阅读记录表供记录，阅读量高的学生可获礼物以兹鼓励。休息时间，老师也会利用大电视展示优秀阅读报告作品和活动照并鼓励一、二年级学生参与家长导读活动
-<a rel="noopener noreferrer nofollow" target="_blank">。</a>
-</p>
-<p>（更多细节请见华文科面部<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/）</a>
+网电子书等，并适时在Classdojo发布国家图书馆与推广华文学习委员会所推广的读物。每名学生都有个人阅读记录表供记录，阅读量高的学生可获礼物以兹鼓励。休息时间，老师也会利用大电视展示优秀阅读报告作品和活动照并鼓励一、二年级学生参与家长导读活动</p>
+<p>更多细节请见华文科面部<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/people/HGP-CL-pt%E5%90%8E%E6%B8%AF%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E9%83%A8/100057371811684/</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Department/picture5.jpg">
 </div>
 <p><strong>节日庆祝活动Festive Celebration</strong>
 </p>
@@ -108,3 +113,4 @@ variant: tiptap
 <p>新加坡和海外新闻Local and Overseas News</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/so-young/news-in-class</a>
 </p>
+<p></p>
