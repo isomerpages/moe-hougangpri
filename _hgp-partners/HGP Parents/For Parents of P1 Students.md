@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: HGP Parents
 ---
-<p>Resources for parents of new Primary 1 students.</p>
+<h4>Resources for parents of new Primary 1 students</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>e-GIRO Application - <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees | MOE</a>
