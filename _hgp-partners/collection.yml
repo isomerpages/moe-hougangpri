@@ -2,7 +2,7 @@ collections:
   hgp-partners:
     output: true
     order:
-      - HGP Parents/For Parents of P1 2024.md
+      - HGP Parents/For Parents of P1 Students.md
       - HGP Parents/.keep
       - HGP Parents/HGP Parents.md
       - HGP Parents/Forms & Links for Parents.md

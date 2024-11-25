@@ -1,10 +1,11 @@
 ---
-title: For Parents of P1 2024
-permalink: /p12024/
+title: For Parents of P1 Students
+permalink: /parentsofp1/
 variant: tiptap
 description: ""
 third_nav_title: HGP Parents
 ---
+<h4>Resources for parents of new Primary 1 students</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>e-GIRO Application - <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees | MOE</a>
@@ -83,8 +84,8 @@ Inquiry: <a href="info@magdalene.com.sg" rel="noopener noreferrer nofollow" targ
 <p></p>
 </li>
 <li>
-<p>2023 P1 Orientation Virtual Webinar presentation material – Please check
-the Circular 134/2023/P1/HGP in PG Announcement</p>
+<p>2024 P1 Orientation (for P1 2025) Virtual Webinar presentation material
+– Parents will be informed when the materials are ready for download</p>
 </li>
 </ol>
 <p></p>
