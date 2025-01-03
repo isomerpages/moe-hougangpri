@@ -83,7 +83,7 @@ variant: tiptap
 <p>Head Of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Hui Leng (Covering)</p>
+<p>Tan Cheng Hiang</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>Head Of Department (PE (CCA &amp; OE))</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kassidy Bin Kamis</p>
+<p>Wong Keng (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P4)</p>
+<p>Assistant Year Head (P1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Adawiyah Bte Rosli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Muhd Aliff Asraf</p>
@@ -160,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5)</p>
+<p>Assistant Year Head (P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Hong Wah, Desmond</p>
