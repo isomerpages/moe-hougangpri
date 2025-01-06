@@ -7,7 +7,7 @@ variant: tiptap
 <h2>WOW (World of Wonders) @ HGP</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9271.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW HGP Photos/IMG_9273.jpg">
 </div>
 <p>
 <br><strong><u>MISSION &amp; OBJECTIVES</u></strong>
@@ -80,10 +80,10 @@ books.</p>
 <p>Visit us @ Level 3 to find out more!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9275.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW HGP Photos/IMG_9275.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9276.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW HGP Photos/IMG_9276.jpg">
 </div>
 <p></p>
