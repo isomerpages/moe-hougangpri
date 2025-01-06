@@ -33,9 +33,6 @@ and concern.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4495.jpg">
-</div>
 <h4><strong>School Song</strong></h4>
 <p>Here in Hougang Primary. We work and play together.
 <br>With perseverance and joy. In our hearts we will treasure.</p>
