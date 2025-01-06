@@ -319,7 +319,8 @@ variant: tiptap
 <p>A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Choi Hwee, <u>Gillian</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_pei_wen@moe.edu.sg</p>
@@ -327,7 +328,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Seah Kai Ren, <u>Harold</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lek_susan@moe.edu.sg</p>
@@ -338,7 +340,8 @@ variant: tiptap
 <p>B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Guan Chin, <u>Alvin</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>see_shi_yau@moe.edu.sg</p>
@@ -346,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>Kalaivani</u> Balrasan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shen_wenwen@moe.edu.sg</p>
@@ -357,7 +360,7 @@ variant: tiptap
 <p>C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Muhammad <u>Aliff</u> Asraf</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_choong_kit@moe.edu.sg</p>
@@ -365,7 +368,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gui <u>Sheau Li</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_woen_ting@moe.edu.sg</p>
@@ -376,7 +380,7 @@ variant: tiptap
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>Arlitaharianty</u> Sayrol</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pan_kai_wei@moe.edu.sg</p>
@@ -384,18 +388,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lek <u>Su San</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_keng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chia Choong Kit, <u>Jameson</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>seow_kaifeng_reuben@moe.edu.sg</p>
@@ -403,10 +409,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ratni <u>Suriyani</u> Bte Saib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_ee_san@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
