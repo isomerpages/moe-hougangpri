@@ -13,55 +13,9 @@ since 11 July 2016.</p>
 vegetables and whole-grains Reduce intake of high fat, salt and sugar Under
 this programme, stallholders will be selling set meal that consists of
 the four food groups, ie. rice/noodles, meat, vegetable and fruit. The
-set meal will come in small or big portion that ranges from $1.30 to $2.00.
-The Canteen Menu can be found below.</p>
-<p><a href="/files/Canteen_Stalls_Menu_2024_October_2024.pdf" rel="noopener nofollow" target="_blank">School Canteen Menu</a>
+Canteen Menu can be found below.</p>
+<p><a href="/files/Canteen_Stalls_Menu_aa_6_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Canteen Menu</a>
 </p>
-<p>School Canteen Advertisement</p>
-<p>The school is looking for canteen stall holders. Please refer to the table
-below for more details.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Food Stall (Halal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All cuisines are welcomed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Food Stall (Non-Halal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All cuisines are welcomed</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for

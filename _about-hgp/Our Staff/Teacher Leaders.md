@@ -31,6 +31,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lead Teacher (PE, CCA &amp; OE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Kai Ren, Harold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,10 +71,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (PE, CCA &amp; OE)</p>
+<p>Senior Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seah Kai Ren, Harold</p>
+<p>Gangadaran Khaanchennah</p>
 </td>
 </tr>
 <tr>

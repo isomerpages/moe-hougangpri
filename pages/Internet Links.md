@@ -32,6 +32,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HGP Student Development Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/sdhgp" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/sdhgp</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Google Workspace (Previously iCON)</strong>
 </p>
 </td>
