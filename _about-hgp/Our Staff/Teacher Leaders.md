@@ -71,6 +71,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher (Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gangadaran Khaanchennah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (Special Educational Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
