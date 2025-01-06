@@ -372,7 +372,7 @@ variant: tiptap
 <p>Ng Chong Lin, Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_chong_lin_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@ variant: tiptap
 <p>Chan Nai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chan_nai_mun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -394,7 +394,7 @@ variant: tiptap
 <p>Lim Pei Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_pei_wen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ variant: tiptap
 <p>Tan Mun Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_mun_sing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ variant: tiptap
 <p>Zarinah Bte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zarinah_ali_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@ variant: tiptap
 <p>Ng Beng Hong, Eythan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_beng_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -432,7 +432,7 @@ variant: tiptap
 <p>Goh Lee Yen, Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_lee_yen_pauline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ variant: tiptap
 <p>Sim Woen Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_woen_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -451,7 +451,7 @@ variant: tiptap
 <p>Pan Kai Wei, Ashley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pan_kai_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -459,7 +459,7 @@ variant: tiptap
 <p>Tan Tien Lung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_tien_lung@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -470,7 +470,7 @@ variant: tiptap
 <p>Nurhayati Bte Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurhayati_rosli@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -478,7 +478,7 @@ variant: tiptap
 <p>Seow Kaifeng, Reuben</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>seow_kaifeng_reuben@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -492,7 +492,7 @@ variant: tiptap
 <p>Hamsiah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hamsiah_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@ variant: tiptap
 <p>Lim Li Tiang, Lena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_li_tiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@ variant: tiptap
 <p>Ang Jing Xuan, Xavier</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_jing_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -519,7 +519,7 @@ variant: tiptap
 <p>Lim Hui Heng, Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_hui_heng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -527,7 +527,7 @@ variant: tiptap
 <p>Xu Pei Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>xu_peifen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -535,7 +535,7 @@ variant: tiptap
 <p>Lee Chai Ching, Veena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_chai_ching_veena@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -546,7 +546,7 @@ variant: tiptap
 <p>Koh Siew Fong Andrea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koh_siew_fong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -554,7 +554,7 @@ variant: tiptap
 <p>Fong Baoyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>fong_baoyu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
