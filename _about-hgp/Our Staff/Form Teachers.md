@@ -784,10 +784,9 @@ variant: tiptap
 <p>Tan Baona</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_baona@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Xu <u>Pei Fen</u>
-</p>
+<p></p>
