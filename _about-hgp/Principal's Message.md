@@ -4,4 +4,71 @@ permalink: /about-hgp/principals-message/
 description: ""
 variant: tiptap
 ---
-<p><em>“The best way to predict the future is to create it.” &nbsp;- Abraham Lincoln</em></p><p></p><p><strong>Creating a Future of Hope, Growth and Purpose</strong></p><p></p><p>Happy New Year to all! A very warm welcome to our new P1 students and parents. To all fellow HGPians, past and present, welcome home!</p><p></p><p>At HGP, we strive to develop our students into future-ready thinkers with a heart for others. The rapid changes around us have provided us with added impetus to equip our students with the mindset, skillset and toolset to not only overcome the challenges that will lay before them, but more importantly, create an exciting and empowering future built on the tenets of <strong>H</strong>ope, <strong>G</strong>rowth and <strong>P</strong>urpose, or <strong>HGP</strong> in short.</p><p>&nbsp;</p><p><strong>1. Future of Hope</strong></p><p></p><p>Over the years, our education system has evolved significantly to embrace all learners and recognise their diverse strengths. Today, there are multiple educational pathways catering to the different learning needs and interests of our students. At HGP, we provide all our children with a strong foundation so that they can better capitalise on the educational opportunities at the secondary and post-secondary levels. For students who may require more help in their formative years of schooling, we also offer a wide range of programmes to address their needs and enrich their schooling experience. Apart from comprehensive literacy and numeracy support at the different levels, our in-house after-school engagement and talent development programme for some P3 to P5 students, as well as the KidsRead programme in collaboration with Anderson Secondary School for a selected group of P1 and P2 children, are recent examples of how the school continues to help our students enjoy their learning and stay hopeful about the future.</p><p>&nbsp;</p><p><strong>2. Future of Growth</strong></p><p></p><p>To future-proof our students, it is imperative that they grow their learning beyond tests and examinations. Coupled with the changes in the PSLE scoring system, the removal of mid-year examinations for all levels has freed up more time and space for students to both deepen their understanding in the various subjects as well as broaden their horizons through CCAs, learning journeys, cohort camps, enrichment programmes in school, and many more. Many HGPians have done well in their respective CCAs, as shown in their achievements in the various competitions, including the national school games. Since the end of the pandemic, students in the performing arts CCAs have also had the opportunity to showcase their talents at both school and community events.</p><p></p><p>During their weekly Independent Learning Periods (a dedicated white-space in the timetable), HGPians have demonstrated their ability and willingness to learn new things outside the textbooks (and for some of them, mobile devices), such as drawing comics, writing calligraphy, and even speaking a new foreign language. The ability to stay curious and take ownership of their learning will enable them to not only confidently navigate a VUCA world, but also proactively chart a future of continuous growth for themselves.</p><p>&nbsp;</p><p><strong>3. Future of Purpose</strong></p><p></p><p>Ultimately, we want every HGPian to grow up leading a life of purpose and contributing to the community. This is encapsulated in our school vision, which espouses the importance for our students to have “a heart for others”. The new Character and Citizenship Education (CCE) curriculum encompasses a wide range of carefully curated learning experiences across domains such as cyberwellness, education and career guidance as well as mental health. Collectively, they seek to instill values in our students and build their socio-emotional competencies. Besides the CCE lessons, both our Applied Learning Programme (ALP) on Science and Learn for Life Programme (LLP) on Outdoor Education seek to build character in students by strengthening their sense of responsibility to the environment through different sustainability efforts. As a school, we look forward to making a greater impact on our community, with the upcoming expansion of our school to include an MOE Kindergarten in 2025. Aimed at providing families access to quality and affordable pre-school education, MK@Hougang will enable the school to go even more upstream in moulding the future of our nation.</p><p></p><div class="isomer-image-wrapper"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/syf_picture.png"></div><p>In 2023, the above artwork by our students was not only selected for the Singapore Youth Festival Art Exhibition, but also featured in the invitation card for the official opening of the event. Entitled <em>Small World Big Memories</em>, it captures the priceless childhood memories of our young. Together with my team of caring and committed colleagues, I endeavour to empower our HGPians to build on their beautiful memories in school to write a future filled with hope, growth and purpose for themselves and the people around them. On this note, wishing everyone a hopeful, growth-oriented and purposeful year ahead!</p><p></p><p>Jason Goh</p><p>Principal</p><p></p>
+<p>“Come whatever on the road ahead</p>
+<p>We did it before, and we’ll do it again.”</p>
+<p><em>– </em>From<em> The Road Ahead </em>(NDP 2021 Theme Song)</p>
+<p></p>
+<p><strong>We Did It Before, and We Will Do It Again!</strong>
+</p>
+<p>Happy new year to all! A warm welcome to our new P1 students and parents.
+To all our existing students, a very warm welcome back home. With the opening
+of our new MOE Kindergarten MK@Hougang, I am also delighted to welcome
+our K1 students and their parents to our newly expanded Hougang Primary
+(HGP) family!</p>
+<p>This year, we will be celebrating an important milestone, as HGP turns
+25 and welcomes the birth of its kindergarten! While we mark the school’s
+silver jubilee, i.e. HGP25, with pride and joy, it is important that we
+reflect on our journey thus far and reimagine the road ahead to bring the
+school forward.</p>
+<p></p>
+<p>Since its founding at the start of the millennium, the school has focused
+on holistic education and character development for our children. This
+has enabled HGP to build a strong school identity and remain a choice school
+in the northeastern region of Singapore. Today, HGPians enjoy a wide range
+of learning opportunities outside the classroom, such as learning journeys,
+school-based enrichment programmes and co-curricular activities (CCAs).
+Our well-established Applied Learning Programme in Science and Learn for
+Life Programme in Outdoor Education provide authentic, collaborative and
+hands-on learning experiences that not only expand our children’s knowledge
+beyond the textbook, but also deepen their values as well as strengthen
+their socio-emotional competencies. Collectively, these have translated
+to positive outcomes in terms of student engagement and performance, both
+academically and non-academically. Indeed, we are immensely proud that
+one of our students from the graduating cohort of 2023 received the prestigious
+Lee Kuan Yew Award for All-Round Excellence (Primary Section) last year
+for embodying our school motto for every child to Excel with Character.</p>
+<p></p>
+<p>In hindsight, the path taken by the school in the past 25 years has been
+tremendously purposeful and rewarding. With the ongoing shifts in the education
+landscape to better prepare students for an enigmatic and exciting future,
+the road ahead for the school is likely to be filled with new and innumerable
+possibilities for learning and growth, like when we first started our journey
+more than two decades ago. This prompted us to take bold steps to transform
+the learning spaces and experiences for our students, even as we stay committed
+to our fundamental beliefs in holistic education and character development.
+In 2024, we embarked on a reimagination and rebranding of the school library.
+Called World of Wonders @ HGP, the newly renovated library aims to wow
+the children in the future of learning, by piquing their curiosity and
+arousing their interest in reading. The recent roll-out of the Emerging
+21<sup>st</sup> Century Competencies (E21CC) framework and Ed Tech Masterplan
+initiative by MOE have also provided us with the impetus to redesign our
+students’ learning. In line with these national imperatives, the school
+will build on existing platforms and scale up innovative practices in the
+coming years to accelerate our students’ acquisition and application of
+the E21CC, as well as infuse technology-enabled learning experiences in
+the curriculum.</p>
+<p></p>
+<p>Last year, we engaged and empowered our staff, students, parents, alumni
+and School Advisory Committee in the conceptualisation and painting of
+a wall mural entitled “The Future of Singapore and Future of Learning”
+outside the staff room. Under the guidance of a local artist, everyone
+played a part to complete this meaningful and memorable masterpiece depicting
+the future that we imagine collectively. As the school embarks on the road
+ahead, we call on the continued support and partnership of all our stakeholders,
+in order to turn any adversity and challenges into renewed hope and opportunities,
+propelling us towards HGP50 and beyond. We did it before, and we will do
+it again!</p>
+<p>Happy 25<sup>th</sup> Birthday, HGP!</p>
+<p>Jason Goh</p>
+<p>Principal</p>
+<p>&nbsp;</p>
