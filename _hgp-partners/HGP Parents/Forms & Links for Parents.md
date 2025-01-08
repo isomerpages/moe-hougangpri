@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Letter for Student's Absence from School</strong> (we have moved
 to Parent's Gateway for the submission of letter for student's absence,
 please refer to the PG circular dated 30 Dec 2024 'Welcome Back To School
-2025' )</p>
+2025' for more details )</p>
 <p><a href="https://go.gov.sg/gpaproductsheet2023" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for Students Factsheet</a>
 </p>
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Claims Portal</a>
