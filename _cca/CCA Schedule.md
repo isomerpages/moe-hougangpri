@@ -4,7 +4,7 @@ permalink: /hgp-experience/total-curriculum/ccas/
 description: ""
 variant: tiptap
 ---
-<h4>CCA Schedule 2024</h4>
+<h4>CCA Schedule 2025</h4>
 <table style="minWidth: 225px">
 <colgroup>
 <col>
@@ -51,9 +51,8 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="18" colspan="1">
-<p><strong>Sports</strong>
-</p>
+<td rowspan="23" colspan="1">
+<p>Sports</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>F.A.S.T</p>
@@ -145,7 +144,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Football</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -165,15 +164,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Tan Hui Min, Celeste (Ms)</p>
 </td>
-<td rowspan="3" colspan="1">
-<p></p>
-<p></p>
+<td rowspan="4" colspan="1">
 <p>Parade Square
 <br>&amp; Field</p>
 </td>
-<td rowspan="3" colspan="1">
-<p></p>
-<p></p>
+<td rowspan="4" colspan="1">
 <p>Parade Square
 <br>&amp; Field</p>
 </td>
@@ -184,16 +179,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P3-P6&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2.15 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,85 +196,129 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Tan Mun Sing (Mr)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>Sport Climbing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 to P6 (All Members)</p>
+<p>Basic Training for all members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm</p>
+<p>3:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00pm</p>
+<p>6:00 pm</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Chia Choong Kit Jameson (Mr)</p>
-<p>Tan Guan Chin, Alvin (Mr)</p>
-<p>Lee Chai Ching Veena (Ms)</p>
+<td rowspan="1" colspan="1">
+<p>Chia Choong Kit Jameson (Mr)
+<br>
+</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Indoor Rockwall</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Olympic Gallery corridor along OAE store</p>
+<td rowspan="3" colspan="1">
+<p>Indoor Rockwall</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P2 to P6 (Competitive Members only)</p>
+<td rowspan="2" colspan="1">
+<p>Focused Training for selected members only (competitive)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2:00 pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.00pm</p>
+<p>Lee Chai Ching Veena (Ms)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Tan Guan Chin, Alvin (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
 <p>Hockey</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tuesday / Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30 p.m.</p>
+<td rowspan="2" colspan="1">
+<p>Tuesday</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mdm Serene Chen, Mdm Angela Tang &amp; Mr Eythan Ng</p>
+<p>P3&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Lower ISH</p>
+<p>2.30 p.m.
+<br>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Lower ISH</p>
+<p>3.30 p.m.
+<br>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Chen Si Xuan, Serene (Mdm)</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Lower ISH&nbsp;</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Lower ISH&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday and/or Thursday</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 - P6</p>
+<p>P4 and P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Beng Hong, Eythan (Mr)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2.15 p.m.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Yuen Peng Angela (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Adawiyah Bte Rosli (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +361,7 @@ variant: tiptap
 <p>4.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Keng (Mr)</p>
+<p>Tong Hwee Kwan (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -375,8 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="9" colspan="1">
-<p><strong>Clubs</strong>
-</p>
+<p>Clubs</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Infocomm Club</p>
@@ -432,7 +470,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Comp Lab 2&nbsp;</p>
+<p>MRL</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +480,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Eco Green Club</p>
+<p>Eco-Green Club</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Thursday</p>
@@ -504,8 +542,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>UG</strong>
-</p>
+<p>UG</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Scouts</p>
@@ -530,7 +567,7 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>Beside Cherish Room
-<br>Ideaz Room</p>
+<br>Ideaz Room Level 3</p>
 </td>
 </tr>
 <tr>
@@ -540,13 +577,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Mun Sing (Mr)</p>
+<p>Leong Jun Wei (Mr)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="28" colspan="1">
-<p><strong>Arts</strong>
-</p>
+<td rowspan="29" colspan="1">
+<p>Arts</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Chinese Dance</p>
@@ -564,7 +600,7 @@ variant: tiptap
 <p>5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tee Wen Chi (Mdm)</p>
+<p>&nbsp;Xu Pei Fen (Mdm)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>&nbsp;</p>
@@ -580,7 +616,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Pei Fen (Mdm)</p>
+<p>Tee Wen Chi (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -588,19 +624,22 @@ variant: tiptap
 <p>Malay Dance</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Thursday</p>
+<p>Tuesday
+<br>(until SYF)
+<br>
+<br>Thursday</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>P3-P6</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>2.15 p.m.</p>
+<p>2.00 p.m.</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>4.15 p.m.</p>
+<p>4.00 p.m</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurhayati Binte Rosli (Mdm)</p>
+<p>Lim Hui Heng , Ivy (Ms)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>&nbsp;</p>
@@ -611,7 +650,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Hui Heng , Ivy (Ms)</p>
+<p>Nurhayati Binte Rosli (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -624,8 +663,8 @@ variant: tiptap
 <p>Brass Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(until SYF)</p>
+<p>Tuesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (until
+SYF)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 - P6</p>
@@ -637,13 +676,14 @@ variant: tiptap
 <p>5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gillian Au(Mrs)</p>
+<p>Shen Wenwen (Mdm)&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Theatrette&nbsp;</p>
+<td rowspan="4" colspan="1">
+<p>Theatrette
+<br>(beside sch hall &amp; dance studio, level 2)</p>
 </td>
 </tr>
 <tr>
@@ -665,14 +705,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Shen Wenwen (Mdm)&nbsp;</p>
+<p>Ser Yun Sheng, Julian (Mr)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Indian Dance</p>
@@ -690,7 +726,7 @@ variant: tiptap
 <p>5.00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ellene Prashanti D/O T Yogarajah (Mrs)</p>
+<p>Gangadaran Khaanchennah (Mrs)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>&nbsp;</p>
@@ -701,7 +737,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gangadaran Khaanchennah (Mrs)</p>
+<p>Ellene Prashanti D/O T Yogarajah (Mrs)</p>
 </td>
 </tr>
 <tr>
@@ -715,7 +751,7 @@ variant: tiptap
 <p>4.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maris Stella Felix (Ms)</p>
+<p>Ung Siew Kwang, Mary (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -770,7 +806,11 @@ variant: tiptap
 <p>Guzheng Ensemble</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Tuesday and Thursday (Term 1)</p>
+<p>Tuesday and Thursday (before SYF 18/4)
+<br>
+<br>Thursday (after 18/4)
+<br>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>P3-P6</p>
@@ -782,18 +822,13 @@ variant: tiptap
 <p>4.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gui Sheau Li (Mdm)</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Music Room 1 &amp; 2</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Music Room 1 &amp; 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Han Huiling (Mdm)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Music Room 1 &amp; 2</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Music Room 1 &amp; 2</p>
 </td>
 </tr>
 <tr>
@@ -802,20 +837,25 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Andrea (Ms)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Angklung</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Monday Term 1</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>P3-P6</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>2,00 p.m.&nbsp;</p>
+<p>2.00 p.m.</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>4.30 p.m.&nbsp;</p>
+<p>4.30p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yeo Chip Kheong (Mr)</p>
@@ -879,34 +919,40 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Drama Club</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3-P6</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>2.00 p.m.</p>
+<td rowspan="3" colspan="1">
+<p>2.1 5 p.m.</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>3.30 p.m.</p>
+<td rowspan="3" colspan="1">
+<p>3.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sabariah Bte Kassim (Mdm)</p>
+<p>Larissa Ho (Ms)</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Teaching Lab</p>
+<td rowspan="3" colspan="1">
+<p>Teaching Lab
+<br>Level 4&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tong Hwee Kwan (Ms)</p>
+<p>Sabariah Bte Kassim (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maris Stella Felix (Ms)</p>
 </td>
 </tr>
 </tbody>
