@@ -2,8 +2,8 @@ collections:
   mk-hougang:
     output: true
     order:
-      - Team MK@Hougang.md
       - About MK@Hougang.md
+      - Team MK@Hougang.md
       - Student Registration & Fees.md
       - KCare @ Hougang.md
       - Open House 2024.md
