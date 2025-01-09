@@ -2,7 +2,7 @@ collections:
   mk-hougang:
     output: true
     order:
-      - MK@Hougang Staff.md
+      - Team MK@Hougang.md
       - About MK@Hougang.md
       - Student Registration & Fees.md
       - KCare @ Hougang.md
