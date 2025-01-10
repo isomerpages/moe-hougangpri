@@ -28,7 +28,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="15" colspan="1">
 <p>P1</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -69,7 +69,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +88,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Naina Moosa Anisa Begam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>naina_moosa_anisa_begam_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +112,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sabariah_kassim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maris Stella Felix</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>maris_stella_felix@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +142,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,6 +158,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_yuen_peng_angela@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Wee Cheng, Judith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_wee_cheng_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
