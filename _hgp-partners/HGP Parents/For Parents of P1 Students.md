@@ -81,11 +81,6 @@ Inquiry: <a href="info@magdalene.com.sg" rel="noopener noreferrer nofollow" targ
 </p>
 <p><em>Email a completed form to the bus service provider - </em><a href="sch2@btntan.com" rel="noopener noreferrer nofollow" target="_blank">sch2@btntan.com</a>
 </p>
-<p></p>
-</li>
-<li>
-<p>2024 P1 Orientation (for P1 2025) Virtual Webinar presentation material
-– Parents will be informed when the materials are ready for download</p>
 </li>
 </ol>
 <p></p>
