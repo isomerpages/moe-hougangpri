@@ -14,7 +14,7 @@ vegetables and whole-grains Reduce intake of high fat, salt and sugar Under
 this programme, stallholders will be selling set meal that consists of
 the four food groups, ie. rice/noodles, meat, vegetable and fruit. The
 Canteen Menu can be found below.</p>
-<p><a href="/files/Canteen_Stalls_Menu_aa_6_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Canteen Menu</a>
+<p><a href="/files/Canteen_Stalls_Menu_aa_15_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Canteen Menu</a>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
