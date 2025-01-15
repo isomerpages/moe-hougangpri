@@ -16,7 +16,7 @@ the four food groups, ie. rice/noodles, meat, vegetable and fruit. The
 Canteen Menu can be found below.</p>
 <p><a href="/files/Canteen_Stalls_Menu_aa_15_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Canteen Menu</a>
 </p>
-<p><strong>Application Procedure</strong>
+<p><strong>Canteen Vendor Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
