@@ -142,7 +142,7 @@ Ivy</p>
 <p><strong>Our PAL Programmes:<br></strong>Primary 1 and Primary 2 Visual
 Art
 <br>Primary 1 Dance and Primary 2 Drama</p>
-<p><strong>Our Talent Development (for selected students)<br></strong>Primary
-1 and Primary 2 Talent Pool</p>
-<p><strong>Our Showcase or Exhibition<br></strong>HGP One Minute of Fame
-(Term 3 Assembly programmeC</p>
+<p><strong>Our Talent Development (for selected students)<br></strong>Enrichment
+programme for Winners of Art Frenzy competition</p>
+<p><strong>Our Showcase or Exhibition<br></strong>HGP One Minute of Fame</p>
+<p>Termly Art Exhibition</p>
