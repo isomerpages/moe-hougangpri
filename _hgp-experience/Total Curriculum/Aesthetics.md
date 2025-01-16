@@ -76,10 +76,10 @@ Ivy</p>
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Air dry clay animal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singing</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,10 @@ Ivy</p>
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Batik painting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>pTrumpet/pCornet</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ Ivy</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Batik</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ukulele</p>
@@ -109,7 +109,7 @@ Ivy</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ukulele</p>
@@ -120,10 +120,10 @@ Ivy</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Ivy</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Manga Art</p>
+<p>Movie making using Capcut</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hip Hop</p>
@@ -142,7 +142,7 @@ Ivy</p>
 <p><strong>Our PAL Programmes:<br></strong>Primary 1 and Primary 2 Visual
 Art
 <br>Primary 1 Dance and Primary 2 Drama</p>
-<p><strong>Our Talent Development (for selected students)<br></strong>Primary
-1 and Primary 2 Talent Pool</p>
-<p><strong>Our Showcase or Exhibition<br></strong>HGP One Minute of Fame
-(Term 3 Assembly programme)</p>
+<p><strong>Our Talent Development (for selected students)<br></strong>Enrichment
+programme for Winners of Art Frenzy competition</p>
+<p><strong>Our Showcase or Exhibition<br></strong>HGP One Minute of Fame</p>
+<p>Termly Art Exhibition</p>

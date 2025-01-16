@@ -41,7 +41,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Hougang Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Hougang Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;Sexuality Education is delivered in a holistic manner through
 the school curriculum. The content for Sexuality Education is grouped into
@@ -73,7 +73,7 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Hougang Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Hougang Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
@@ -130,7 +130,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 4 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 4 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 4 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -213,7 +213,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 4 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 4 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -240,8 +240,8 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <a href="/files/SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form is to
-be submitted by 5/4/2024.</p>
+and is also downloadable <a href="/files/Opt_out_form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 14/3/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at the
 school at 6489 7445 or <a href="hougang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ps@moe.edu.sg</a> &nbsp;for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
