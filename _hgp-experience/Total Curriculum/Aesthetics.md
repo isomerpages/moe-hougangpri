@@ -131,7 +131,7 @@ Ivy</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Movie making using capcut</p>
+<p>Movie making using Capcut</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hip Hop</p>
@@ -145,4 +145,4 @@ Art
 <p><strong>Our Talent Development (for selected students)<br></strong>Primary
 1 and Primary 2 Talent Pool</p>
 <p><strong>Our Showcase or Exhibition<br></strong>HGP One Minute of Fame
-(Term 3 Assembly programme)</p>
+(Term 3 Assembly programmeC</p>
