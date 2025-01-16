@@ -76,10 +76,10 @@ Ivy</p>
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Air dry clay animal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singing</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,10 @@ Ivy</p>
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Batik painting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>pTrumpet/pCornet</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ Ivy</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Batik</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ukulele</p>
@@ -109,7 +109,7 @@ Ivy</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ukulele</p>
@@ -120,10 +120,10 @@ Ivy</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Ivy</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Manga Art</p>
+<p>Movie making using capcut</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hip Hop</p>
