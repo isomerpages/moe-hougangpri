@@ -73,7 +73,7 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Hougang Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Hougang Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
