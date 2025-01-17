@@ -13,10 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School Cockpit</p>
+<p><strong>School Cockpit</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://schoolcockpit.moe.gov.sg</u></a>
+<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
 </p>
 </th>
 </tr>
