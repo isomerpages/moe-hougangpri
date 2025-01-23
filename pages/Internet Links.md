@@ -13,10 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School Cockpit</p>
+<p><strong>School Cockpit</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://schoolcockpit.moe.gov.sg</u></a>
+<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
 </p>
 </th>
 </tr>
@@ -205,8 +206,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/645360756dc31e00120596cc" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/645360756dc31e00120596cc</a>
-</p>
+<p>We have moved to Parent's Gateway for the submission of letter for student's
+absence, please refer to the PG circular dated 30 Dec 2024 'Welcome Back
+To School 2025' for more details.</p>
 </td>
 </tr>
 </tbody>
