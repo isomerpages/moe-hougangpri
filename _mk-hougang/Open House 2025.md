@@ -6,7 +6,11 @@ description: ""
 ---
 <h1>Open House 2025</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="https://www.westspringpri.moe.edu.sg/images/school.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_22_at_16_17_14.jpg">
 </div>
 <p></p>
-<p>More details will be provided on this. Stay tuned!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Hougang/MKOH_2025_design_V4.jpg">
+</div>
+<p></p>
