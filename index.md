@@ -4,8 +4,7 @@ title: Hougang Primary School
 description: Official website of Hougang Primary School
 image: /images/logo.jpg
 permalink: /
-notification: Registration for 2025 MK@Hougang Open House is open. Visit the MK
-  page for more details!
+notification: ""
 sections:
   - hero:
       background: /images/banner.gif
