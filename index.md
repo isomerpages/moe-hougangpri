@@ -2,7 +2,7 @@
 layout: homepage
 title: Hougang Primary School
 description: Official website of Hougang Primary School
-image: /images/logo.jpg
+image: /images/HGP_Logo_PNG.png
 permalink: /
 notification: ""
 sections:
