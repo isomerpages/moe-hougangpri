@@ -172,6 +172,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Touch-typing Practice for Students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>NetSmartz Kids</strong>
 </p>
 </td>
