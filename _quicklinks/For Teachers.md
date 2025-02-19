@@ -12,138 +12,169 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Cockpit</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://schoolcockpit.moe.gov.sg</u></a>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>SC Mobile</strong>
-</p>
+<p>All Ears Form Builder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://scmobile.moe.edu.sg/login</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HGP Student Development Website</strong>
-</p>
+<p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://sites.google.com/moe.edu.sg/sdhgp</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Google Workspace (Previously iCON)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MIMS Portal</strong>
-</p>
+<p>Google Workspace (Previously iCON)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg/nidp/saml2/sso</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Student Learning Space (SLS)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/login</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>iEXAMS2</strong>
-</p>
+<p>HGP Student Development Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://iexams.seab.gov.sg/</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Resource Booking System</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://rbs.avero-tech.com/</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/sdhgp</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Parents Gateway</strong>
-</p>
+<p>HR &amp; Payroll Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pg.moe.edu.sg/</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>OPAL 2.0</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.opal2.moe.edu.sg/app/learner</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/#/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOE Intranet</strong>
-</p>
+<p>HR Online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://intranet.moe.gov.sg/</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HR &amp; Payroll Portal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/hrp/#/</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN Resource Portal</strong>
-</p>
+<p>iEXAMS2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIMS Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/saml2/sso</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Intranet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPAL 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.opal2.moe.edu.sg/app/learner</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resource Booking System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SC Mobile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://scmobile.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Cockpit (Admin &amp; Reports)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Cockpit (Result Entry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg/academic</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Resource Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSOE 2 Service Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://ssoe2.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>
 <br>
 </p>
