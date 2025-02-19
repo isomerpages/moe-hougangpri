@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Links
+        - title: Quicklinks
           description: For Students & Teachers
           url: /for-students/
         - title: HGP Virtual Tour
