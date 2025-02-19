@@ -4,7 +4,7 @@ permalink: /for-teachers/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Links for Teachers</strong></h4>
+<h4><strong>Quicklinks for Teachers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
