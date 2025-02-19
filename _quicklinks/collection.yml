@@ -2,5 +2,5 @@ collections:
   quicklinks:
     output: true
     order:
-      - For Teachers.md
       - Internet Links.md
+      - For Teachers.md
