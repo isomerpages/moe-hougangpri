@@ -13,41 +13,11 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SLS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Google Classroom</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Touch-typing Practice for Students</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NetSmartz Kids</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.netsmartzkids.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.netsmartzkids.org</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
 </td>
 </tr>
@@ -57,17 +27,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="member.koobits.com" rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Parents Gateway</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
 </p>
 </td>
 </tr>
@@ -80,6 +40,46 @@ description: ""
 <p>We have moved to Parent's Gateway for the submission of letter for student's
 absence, please refer to the PG circular dated 30 Dec 2024 'Welcome Back
 To School 2025' for more details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NetSmartz Kids</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.netsmartzkids.org</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parents Gateway</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SLS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Touch-typing Practice for Students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt</a>
+</p>
 </td>
 </tr>
 </tbody>
