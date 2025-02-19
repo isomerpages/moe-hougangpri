@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Links
-          description: For teachers, students/parents
-          url: /internet-links
+        - title: Quicklinks
+          description: For Students & Teachers
+          url: /for-students/
         - title: HGP Virtual Tour
           description: ""
           url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
