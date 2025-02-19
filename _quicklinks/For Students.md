@@ -4,7 +4,7 @@ permalink: /for-students/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Links for Students/Parents</strong></h4>
+<h4><strong>Quicklinks for Students</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -54,7 +54,7 @@ To School 2025' for more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Parents Gateway</strong>
+<p><strong>Parents Gateway (for Parents)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
