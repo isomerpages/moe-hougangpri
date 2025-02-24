@@ -29,7 +29,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="15" colspan="1">
-<p>P1</p>
+<p><strong>P1</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A</p>
@@ -170,7 +171,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="13" colspan="1">
-<p>P2</p>
+<p><strong>P2</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A</p>
@@ -295,7 +297,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="11" colspan="1">
-<p>P3</p>
+<p><strong>P3</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A</p>
@@ -401,7 +404,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="11" colspan="1">
-<p>P4</p>
+<p><strong>P4</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A</p>
@@ -507,7 +511,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="17" colspan="1">
-<p>P5</p>
+<p><strong>P5</strong>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>A</p>
@@ -664,7 +669,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="16" colspan="1">
-<p>P6</p>
+<p><strong>P6</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A</p>
