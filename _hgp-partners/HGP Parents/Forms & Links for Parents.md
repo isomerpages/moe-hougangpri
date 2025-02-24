@@ -20,5 +20,5 @@ please refer to the PG circular dated 30 Dec 2024 'Welcome Back To School
 </p>
 <p><a href="https://form.gov.sg/64bdd91114532f0012895704" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence Application Form</a>
 </p>
-<p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">eFinancial Assistance Scheme (eFAS) Application Form</a>
+<p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">eFinancial Assistance Scheme (eFAS) Application Form</a>
 </p>
