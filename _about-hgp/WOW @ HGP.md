@@ -77,7 +77,8 @@ books.</p>
 <p>P1 &amp; P2 Library Periods</p>
 </li>
 </ol>
-<p>Visit us @ Level 3 to find out more!</p>
+<p><strong>Visit us @ Level 3 to find out more!</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW HGP Photos/IMG_9275.jpg">
