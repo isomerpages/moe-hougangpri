@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Links
-          description: For Students & Teachers
-          url: /for-students/
+        - title: School Calendar
+          description: ""
+          url: https://www.hougangpri.moe.edu.sg/about-hgp/hgpcalendar/
         - title: HGP Virtual Tour
           description: ""
           url: https://tubear.co/3d-model/hougang-primary-school/fullscreen/
