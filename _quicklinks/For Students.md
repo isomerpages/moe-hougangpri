@@ -27,7 +27,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
+<p><a href="member.koobits.com" rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
 </p>
 </td>
 </tr>
