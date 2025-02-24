@@ -69,8 +69,9 @@ call 84534554</p>
 <p></p>
 </li>
 <li>
-<p>Online sale of school uniforms - <a href="https://www.magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg</a>&nbsp;&nbsp;
-Inquiry: <a href="info@magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@magdalene.com.sg</a>
+<p>Online sale of school uniforms - <a href="https://www.magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg</a>
+</p>
+<p>Inquiry: <a href="info@magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@magdalene.com.sg</a>
 </p>
 <p></p>
 </li>
