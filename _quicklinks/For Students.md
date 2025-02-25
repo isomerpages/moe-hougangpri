@@ -16,10 +16,10 @@ description: ""
 <p><strong>Google Classroom</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+<th rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,7 +27,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
+<p><strong><a href="member.koobits.com" rel="noopener nofollow" target="_blank">member.koobits.com</a></strong>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ To School 2025' for more details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.netsmartzkids.org</a>
+<p><strong><a href="http://www.netsmartzkids.org" rel="noopener nofollow" target="_blank">http://www.netsmartzkids.org</a></strong>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ To School 2025' for more details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+<p><strong><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/</a></strong>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ To School 2025' for more details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ To School 2025' for more details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt</a>
+<p><strong><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt" rel="noopener nofollow" target="_blank">https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt</a></strong>
 </p>
 </td>
 </tr>
