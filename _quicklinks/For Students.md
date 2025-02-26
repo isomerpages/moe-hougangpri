@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>eZhishi: Online Interactive Teaching &amp; Learning, Question Bank &amp; LMS (For CL students)</strong>
+<p><strong>eZhishi (For CL students)</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
