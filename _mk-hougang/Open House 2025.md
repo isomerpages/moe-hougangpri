@@ -8,9 +8,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_22_at_16_17_14.jpg">
 </div>
+<p>MK@Hougang Open House was held on 15 February 2025.</p>
+<p>Please view the presentation slides that were shared during the Open House
+below.</p>
+<p><a href="/files/MKOH_2025_MKHG.pdf" rel="noopener nofollow" target="_blank">MK@Hougang Open House 2025 Briefing Slides</a>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKOH_2025_design_V5_and_MK_Registration_QR_code.jpg">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_I_oEFSKCec?si=H6FGo4-VKfoJj7Dr"></iframe>
 </div>
+<p></p>
 <p></p>
 <p></p>
