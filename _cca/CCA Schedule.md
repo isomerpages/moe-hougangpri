@@ -58,7 +58,8 @@ variant: tiptap
 <tr></tr>
 <tr>
 <td rowspan="25" colspan="1">
-<p>Sports</p>
+<p><strong>Sports</strong>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>F.A.S.T</p>
@@ -441,7 +442,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="9" colspan="1">
-<p>Clubs</p>
+<p><strong>Clubs</strong>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Infocomm Club</p>
@@ -569,7 +571,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>UG</p>
+<p><strong>UG</strong>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Scouts</p>
@@ -609,7 +612,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="29" colspan="1">
-<p>Arts</p>
+<p><strong>Arts</strong>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Chinese Dance</p>
