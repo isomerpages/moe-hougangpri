@@ -13,6 +13,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>eZhishi (For CL students)</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://ezhishi.com/" rel="noopener nofollow" target="_blank">https://ezhishi.com/</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Google Classroom</strong>
 </p>
 </td>

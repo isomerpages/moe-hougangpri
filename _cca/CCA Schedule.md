@@ -5,10 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4>CCA Schedule 2025</h4>
-<table style="minWidth: 275px">
+<table style="minWidth: 225px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -22,52 +20,47 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<p>CCA</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day/s</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Level/s</p>
+<p><strong>Day/s</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>From</p>
+<p><strong>LEVEL/S</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>To</p>
+<p><strong>From</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Teachers IC</p>
+<p><strong>To</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Tuesday
-<br>Venue</p>
+<p><strong>Teachers IC</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Tuesday
-<br>WW</p>
+<p><strong>Tuesday <br>Venue</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Thursday
-<br>Venue</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Thursday
-<br>WW</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Monday
-<br>Venue</p>
+<p><strong>Thursday<br>Venue</strong>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="1" colspan="11">
+<td rowspan="25" colspan="1">
 <p><strong>Sports</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>F.A.S.T</p>
 </td>
@@ -84,23 +77,12 @@ variant: tiptap
 <p>4.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nasyrah Fitriawaty (Mdm)&nbsp;</p>
+<p>Tan Ser Yunn, Kevin (Mr)&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Hall</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -111,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Ser Yunn, Kevin (Mr)</p>
+<p>Nasyrah Fitriawaty (Mdm)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -137,18 +119,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Hall</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -206,20 +177,8 @@ variant: tiptap
 <br>&amp; Field</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Canteen&nbsp;</p>
-</td>
-<td rowspan="4" colspan="1">
 <p>Parade Square
 <br>&amp; Field</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Canteen&nbsp;</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +209,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Sport Climbing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,33 +229,19 @@ variant: tiptap
 <br>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Indoor Rockwall</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Olympic Gallery
-<br>corridor along OAE store</p>
-</td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Indoor Rockwall</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Olympic Gallery, corridor along OAE store
-<br>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Focused Training for selected members only (competitive)</p>
+<td rowspan="1" colspan="1">
+<p>Focused Training for Competitive Members</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30 pm</p>
@@ -309,78 +254,67 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Guan Chin, Alvin (Mr)
-<br>Happy Wong (Mrs) (To start Term 2)</p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Happy Wong (Mrs)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
 <p>Hockey</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Tuesday</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>P3&nbsp;</p>
+<td rowspan="3" colspan="1">
+<p>P3 - P6</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>2.30 p.m.
-<br>&nbsp;</p>
+<td rowspan="3" colspan="1">
+<p>2.30 p.m.</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>3.30 p.m.
+<td rowspan="3" colspan="1">
+<p>4.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Si Xuan, Serene (Mdm)
 <br>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Chen Si Xuan, Serene (Mdm)
-<br>Baona (To start Term 2)</p>
-</td>
 <td rowspan="5" colspan="1">
 <p>Lower ISH&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="5" colspan="1">
 <p>Lower ISH&nbsp;</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
-<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4, P5, P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.30 p.m.</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ng Beng Hong, Eythan (Mr)
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tang Yuen Peng Angela (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -397,12 +331,12 @@ variant: tiptap
 <p>4.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Yuen Peng Angela (Mdm)</p>
+<p>Nur Adawiyah Bte Rosli (Mdm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Adawiyah Bte Rosli (Mdm)</p>
+<p>Tan Baona (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -426,15 +360,6 @@ variant: tiptap
 </td>
 <td rowspan="6" colspan="1">
 <p>Upper ISH</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>Upper ISH</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>&nbsp;</p>
 </td>
 <td rowspan="6" colspan="1">
 <p>Upper ISH</p>
@@ -516,12 +441,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="11">
+<td rowspan="9" colspan="1">
 <p><strong>Clubs</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>Infocomm Club</p>
 </td>
@@ -532,7 +455,7 @@ variant: tiptap
 <p>P3-P6</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>2 p.m.</p>
+<p>2.00 p.m.</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>4:00 pm</p>
@@ -544,18 +467,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Comp Lab 3</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -587,17 +499,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
 <p>MRL</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -628,17 +530,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
 <p>Science Lab 1</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -669,17 +561,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
 <p>Comp Lab 1 / IDM</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -688,12 +570,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="11">
-<p><strong>Uniformed Group</strong>
+<td rowspan="3" colspan="1">
+<p><strong>UG</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>Scouts</p>
 </td>
@@ -710,10 +590,7 @@ variant: tiptap
 <p>3.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arlitaharianty Sayrol (Mdm)</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
+<p>Tan Tien Lung (Mr)&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>&nbsp;</p>
@@ -722,18 +599,10 @@ variant: tiptap
 <p>Beside Cherish Room
 <br>Ideaz Room Level 4</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Tien Lung (Mr)</p>
+<p>Arlitaharianty Sayrol (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -742,12 +611,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="11">
+<td rowspan="29" colspan="1">
 <p><strong>Arts</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>Chinese Dance</p>
 </td>
@@ -770,18 +637,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Pal Room 1</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -817,18 +673,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Pal Room 2</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -845,17 +690,17 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>Brass Band</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tuesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<td rowspan="4" colspan="1">
+<p>Thursday</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P4 - P6</p>
+<td rowspan="4" colspan="1">
+<p>P3, P4 - P6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m</p>
+<td rowspan="4" colspan="1">
+<p>2.00 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>5.00 p.m.</p>
+<td rowspan="4" colspan="1">
+<p>&nbsp;5.00 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shen Wenwen (Mdm)&nbsp;</p>
@@ -864,35 +709,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="4" colspan="1">
 <p>Theatrette
 <br>(beside sch hall &amp; dance studio, level 2)</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>P3, P4 - P6</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>2.00 p.m.</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;5.00 pm&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Chee Poh Lai (Mdm)</p>
 </td>
@@ -926,18 +747,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>SFE Room</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -987,18 +797,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Dance Room</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1016,24 +815,24 @@ variant: tiptap
 <p>Guzheng Ensemble</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Tuesday and Thursday (January)
+<p>
 <br>
-<br>Thursday (February)
+<br>Thursday
 <br>
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>P3-P6</p>
+<p>
+<br>
+<br>P3-P6</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>2.00 p.m.
-<br>
+<p>
 <br>
 <br>2.00 p.m.</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>4.30 p.m.
-<br>
+<p>
 <br>
 <br>5.00 p.m.</p>
 </td>
@@ -1044,18 +843,7 @@ variant: tiptap
 <p>Music Room 1 &amp; 2</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Music Room 1 &amp; 2</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1103,17 +891,6 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1139,7 +916,7 @@ variant: tiptap
 <p>2.15 p.m.</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>4.30 p.m.</p>
+<p>3.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Jing Xuan, Xavier (Mr)</p>
@@ -1148,19 +925,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="4" colspan="1">
 <p>Art Room 1 and 2</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1189,7 +954,7 @@ variant: tiptap
 <p>P3-P6</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>2.1 5 p.m.</p>
+<p>2.15 p.m.</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>3.45 p.m.</p>
@@ -1201,19 +966,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Teaching Lab
 <br>Level 4&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
