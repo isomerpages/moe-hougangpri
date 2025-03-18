@@ -13,4 +13,7 @@ or phone.</p>
 </p>
 <p><strong>☎️ Tel: </strong>62034087</p>
 <p></p>
-<p></p>
+<p>If you'd like to contact Hougang Primary School, please refer to the link
+below.</p>
+<p><a href="https://www.hougangpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact HGP</a>
+</p>
