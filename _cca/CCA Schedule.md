@@ -570,32 +570,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>UG</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Scouts</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>P3-P6</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2.00 p.m.</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>3.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Tien Lung (Mr)&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Beside Cherish Room
 <br>Ideaz Room Level 4</p>
 </td>
@@ -608,6 +608,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Leong Jun Wei (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharlene Koh</p>
 </td>
 </tr>
 <tr>
@@ -766,8 +771,7 @@ variant: tiptap
 <p>4.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ung Siew Kwang, Mary (Mdm)
-<br>Sharlene Koh (To start in Term 2)</p>
+<p>Ung Siew Kwang, Mary</p>
 </td>
 </tr>
 <tr>
