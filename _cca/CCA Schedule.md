@@ -612,7 +612,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharlene Koh</p>
+<p>Sharlene Koh (Mdm)</p>
 </td>
 </tr>
 <tr>
