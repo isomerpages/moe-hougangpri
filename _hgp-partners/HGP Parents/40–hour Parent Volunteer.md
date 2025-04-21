@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
 <p>Parent Volunteer Registration for&nbsp;<strong>2027 Primary 1</strong>&nbsp;admission
-will be opened from&nbsp;<strong>1 May 2024 to 30 April 2025.</strong>
+will be opened from&nbsp;<strong>1 May 2024 to 31 May 2025.</strong>
 </p>
 <p><strong>TERMS AND CONDITIONS</strong>
 </p>
@@ -75,7 +75,11 @@ the event of balloting, Singapore Citizens will be given priority over
 Permanent Residents.</p>
 <p><strong>Timeline</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
