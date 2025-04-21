@@ -115,7 +115,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 MAY 2024 - 30 APRIL 2025</p>
+<p>1 MAY 2024 - 31 MAY 2025</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MAY TO JUNE 2025</p>
+<p>JUNE 2025</p>
 </td>
 </tr>
 <tr>
