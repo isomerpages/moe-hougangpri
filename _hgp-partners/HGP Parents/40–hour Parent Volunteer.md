@@ -14,9 +14,9 @@ will be opened from&nbsp;<strong>1 May 2024 to 31 May 2025.</strong>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents may begin their registration two years prior to the Primary One
-Registration Exercise. Closing date for registration will be 30 April,
-one year before the year of the Registration Exercise. Late application
-will not be considered.</p>
+Registration Exercise. Closing date for registration will be 31 May, one
+year before the year of the Registration Exercise. Late application will
+not be considered.</p>
 </li>
 <li>
 <p>Selection is not on a first-come, first-served basis. The school reserves
