@@ -12,7 +12,7 @@ description: ""
 Singapore Citizen (SC) or Permanent Resident (PR) born between 2 January
 2020 and 1 January 2021 (both dates inclusive)), you are required to fill
 up the waitlist form below for consideration.</p>
-<p>Link to form: <a href="https://go.gov.sg/mkhgwaitlist" rel="noopener noreferrer nofollow" target="_blank">MK@ Hougang Waitlist Application Form</a>
+<p>Link to form: <a href="https://go.gov.sg/mkhg-waitlist" rel="noopener noreferrer nofollow" target="_blank">MK@ Hougang Waitlist Application Form</a>
 </p>
 <p>You will be contacted once there is suitable vacancy for your child.</p>
 <p><strong>Monthly fees for MK</strong>
