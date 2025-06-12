@@ -644,7 +644,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="15" colspan="1">
 <p><strong>P6</strong>
 </p>
 </td>
@@ -767,7 +767,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -783,14 +783,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zarina_sidik@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Baona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_baona_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
