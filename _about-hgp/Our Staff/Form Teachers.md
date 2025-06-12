@@ -494,7 +494,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="17" colspan="1">
+<td rowspan="16" colspan="1">
 <p><strong>P5</strong>
 </p>
 </td>
@@ -606,7 +606,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -614,14 +614,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_gek_kiang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Soh Lee Yoong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_lee_yoong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
