@@ -57,6 +57,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="toh_pei_en_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Toh Pei En</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
