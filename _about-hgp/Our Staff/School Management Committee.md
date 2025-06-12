@@ -230,14 +230,6 @@ variant: tiptap
 <p>Tan Mun Sing</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Keng</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
