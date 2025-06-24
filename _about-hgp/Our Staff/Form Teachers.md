@@ -170,7 +170,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="11" colspan="1">
 <p><strong>P2</strong>
 </p>
 </td>
@@ -193,17 +193,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>B</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Leong Jun Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_jun_wei@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Chee Poh Lai</p>
 </td>
@@ -269,7 +261,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,14 +277,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ung_siew_kwang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wong Kim Bee Happy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -510,7 +494,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="17" colspan="1">
+<td rowspan="16" colspan="1">
 <p><strong>P5</strong>
 </p>
 </td>
@@ -622,7 +606,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -630,14 +614,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_gek_kiang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Soh Lee Yoong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_lee_yoong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -668,7 +644,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="15" colspan="1">
 <p><strong>P6</strong>
 </p>
 </td>
@@ -791,7 +767,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -807,14 +783,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zarina_sidik@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Baona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_baona_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

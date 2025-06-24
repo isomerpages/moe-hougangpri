@@ -23,14 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soh Lee Yoong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher (PE, CCA &amp; OE)</p>
 </td>
 <td rowspan="1" colspan="1">

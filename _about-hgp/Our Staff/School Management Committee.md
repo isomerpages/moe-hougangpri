@@ -115,7 +115,7 @@ variant: tiptap
 <p>Head Of Department (PE (CCA &amp; OE))</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Keng (Covering)</p>
+<p>Wong Keng</p>
 </td>
 </tr>
 <tr>
@@ -228,14 +228,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Mun Sing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Keng</p>
 </td>
 </tr>
 </tbody>
