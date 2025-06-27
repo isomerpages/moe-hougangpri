@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
 <p>Parent Volunteer Registration for&nbsp;<strong>2027 Primary 1</strong>&nbsp;admission
-will be opened from&nbsp;<strong>1 May 2024 to 31 May 2025.</strong>
+will be opened from&nbsp;<strong>1 May 2025 to 31 May 2026.</strong>
 </p>
 <p><strong>TERMS AND CONDITIONS</strong>
 </p>
@@ -115,7 +115,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 MAY 2024 - 31 MAY 2025</p>
+<p>1 MAY 2025 - 31 MAY 2026</p>
 </td>
 </tr>
 <tr>
