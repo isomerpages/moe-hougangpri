@@ -2,7 +2,7 @@ collections:
   open-house-2025:
     output: true
     order:
-      - eOpen House 2024 Banner.md
+      - eOpen House 2025 Banner.md
       - Welcome to HGP!.md
       - Niche Programme.md
       - Virtual Tour Around HGP.md
