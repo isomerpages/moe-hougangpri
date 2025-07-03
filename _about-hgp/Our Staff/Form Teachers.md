@@ -170,7 +170,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="11" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>P2</strong>
 </p>
 </td>
@@ -193,7 +193,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,6 +201,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chee_poh_lai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Siok Kheng, Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_siok_kheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Jing Xuan, Xavier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_jing_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +239,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,6 +255,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_yuk_ching@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Fui Fui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_fui_fui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -494,11 +518,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>P5</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -514,14 +538,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_li_tiang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ang Jing Xuan, Xavier</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_jing_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +595,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -595,14 +611,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>shen_wenwen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Siok Kheng, Grace</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_siok_kheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
