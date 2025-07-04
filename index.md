@@ -20,7 +20,7 @@ sections:
           url: /hgp-heartbeat-enewsletter
         - title: e-OPEN HOUSE 2025
           description: Come visit us here!
-          url: ""
+          url: /eopen-house-2025-banner/
       variant: center
       size: sm
       alignment: right
