@@ -18,6 +18,9 @@ sections:
         - title: HGP Heartbeat
           description: eNewsletter
           url: /hgp-heartbeat-enewsletter
+        - title: e-OPEN HOUSE 2025
+          description: Come visit us here!
+          url: ""
       variant: center
       size: sm
       alignment: right
