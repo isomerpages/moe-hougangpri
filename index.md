@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
+        - title: e-OPEN HOUSE 2025
+          description: Come visit us here!
+          url: /eopen-house-2025-banner/
         - title: School Calendar
           description: ""
           url: https://www.hougangpri.moe.edu.sg/about-hgp/hgpcalendar/
@@ -18,9 +21,6 @@ sections:
         - title: HGP Heartbeat
           description: eNewsletter
           url: /hgp-heartbeat-enewsletter
-        - title: e-OPEN HOUSE 2025
-          description: Come visit us here!
-          url: /eopen-house-2025-banner/
       variant: center
       size: sm
       alignment: right
