@@ -4,11 +4,14 @@ title: Hougang Primary School
 description: Official website of Hougang Primary School
 image: /images/HGP_Logo_PNG.png
 permalink: /
-notification: ""
+notification: Our e-Open House 2025 page is up. Click the link below to visit us!
 sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
+        - title: e-OPEN HOUSE 2025
+          description: Come visit us here!
+          url: /eopen-house-2025-banner/
         - title: School Calendar
           description: ""
           url: https://www.hougangpri.moe.edu.sg/about-hgp/hgpcalendar/
