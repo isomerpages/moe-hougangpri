@@ -2,6 +2,7 @@ collections:
   mk-hougang:
     output: true
     order:
+      - 2025 Events.md
       - About MK@Hougang.md
       - Team MK@Hougang.md
       - Student Registration & Fees.md
