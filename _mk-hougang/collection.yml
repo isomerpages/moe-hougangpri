@@ -2,10 +2,10 @@ collections:
   mk-hougang:
     output: true
     order:
-      - 2025 Events.md
       - About MK@Hougang.md
       - Team MK@Hougang.md
       - Student Registration & Fees.md
+      - 2025 Events.md
       - KCare @ Hougang.md
       - Open House 2025.md
       - Contact Us.md
