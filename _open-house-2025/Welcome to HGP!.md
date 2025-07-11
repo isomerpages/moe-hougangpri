@@ -1,6 +1,6 @@
 ---
 title: Welcome to HGP!
-permalink: /open-house-2024/main/
+permalink: /open-house/main/
 description: ""
 variant: tiptap
 ---

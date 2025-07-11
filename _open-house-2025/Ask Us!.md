@@ -1,6 +1,6 @@
 ---
 title: Ask Us!
-permalink: /open-house-2023/ask-us/
+permalink: /open-house/ask-us/
 description: ""
 variant: tiptap
 ---

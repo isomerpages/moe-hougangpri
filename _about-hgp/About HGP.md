@@ -5,20 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>School Profile</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20220629_115825.jpg">
-</div>
 <h4><a href="https://tubear.co/3d-model/hougang-primary-school/fullscreen/" rel="noopener noreferrer nofollow" target="_blank">HGP Virtual Tour</a></h4>
-<p></p>
-<p>Hougang Primary School (HGP) celebrated its 20<sup>th</sup>&nbsp;Anniversary
-in 2020. Founded in 2000 with an enrolment of around 600 students and a
+<p>Hougang Primary School (HGP) celebrates its 25<sup>th</sup>&nbsp;Anniversary
+in 2025. Founded in 2000 with an enrolment of around 600 students and a
 modest staff size of 20, the school has grown from strength to strength
-to its present enrolment of 1305 and staff strength of 106 under the leadership
-of its former principals Mr Goh Ek Piang (2000 to 2007), Mrs Sabrina James
-(2007 to 2014) and Mdm Rashidah Bte Abdul Rasip (2014 to 2020). Mr Jason
-Goh currently serves as its fourth principal, taking over the school leadership
-on 1 Jan 2021.</p>
+under the leadership of its former principals Mr Goh Ek Piang (2000 to
+2007), Mrs Sabrina James (2007 to 2014) and Mdm Rashidah Bte Abdul Rasip
+(2014 to 2020). Mr Jason Goh currently serves as its fourth principal,
+taking over the school leadership on 1 Jan 2021.</p>
 <p>Over the years, HGP has remained a school of choice for parents, especially
 in the neighbouring estates of Hougang, Serangoon, Seng Kang and Ang Mo
 Kio. During the annual Primary 1 Registration Exercises, vacancies are

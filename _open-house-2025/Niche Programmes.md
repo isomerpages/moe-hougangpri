@@ -1,6 +1,6 @@
 ---
-title: Niche Programme
-permalink: /open-house-2023/niche/
+title: Niche Programmes
+permalink: /open-house/niche/
 description: ""
 variant: tiptap
 ---
