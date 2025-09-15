@@ -18,7 +18,7 @@ please refer to the PG circular dated 30 Dec 2024 'Welcome Back To School
 </p>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">eGIRO Application</a>
 </p>
-<p><a href="https://form.gov.sg/64bdd91114532f0012895704" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence Application Form</a>
+<p><a href="https://form.gov.sg/648c0dbeac88510011ceb17a" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence Application Form</a>
 </p>
 <p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">eFinancial Assistance Scheme (eFAS) Application Form</a>
 </p>
