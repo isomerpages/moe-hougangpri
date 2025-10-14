@@ -37,7 +37,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="member.koobits.com" rel="noopener nofollow" target="_blank">member.koobits.com</a></strong>
+<p><strong><a href="https://member.koobits.com/" rel="noopener nofollow" target="_blank">member.koobits.com</a></strong>
 </p>
 </td>
 </tr>
