@@ -47,9 +47,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>We have moved to Parent's Gateway for the submission of letter for student's
-absence, please refer to the PG circular dated 30 Dec 2024 'Welcome Back
-To School 2025' for more details.</p>
+<p>Please click <a href="https://go.gov.sg/hgp-pgxscm-userguide" rel="noopener nofollow" target="_blank">here</a>to
+refer to the user guide to submit the document for your child's absence
+through Parents Gateway</p>
 </td>
 </tr>
 <tr>
