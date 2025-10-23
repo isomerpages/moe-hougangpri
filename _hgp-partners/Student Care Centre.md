@@ -43,7 +43,7 @@ the opportunity to establish a partnership with you and the school to provide
 quality care and supervision for your child.</p>
 <p>If you are keen to enrol your child in our SCC, please register your interest
 via the link below.</p>
-<p>Registration of Interest: <a href="https://form.jotform.com/242741616209455" rel="noopener noreferrer nofollow" target="_blank">https://form.jotform.com/242741616209455</a>
+<p>Registration of Interest: <a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=61" rel="noopener nofollow" target="_blank">https://cls.cyberland.sg/scc/sccapplication.php?CentreID=61</a>
 </p>
 <p>Contact Number: 89443989</p>
 <p>Email: <a href="mailto:admission_cls_hgps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_hgps@commitlearning.com.sg</a>
