@@ -44,7 +44,9 @@ to your child’s enrolment - <a href="https://www.moe.gov.sg/primary/p1-registr
 <p></p>
 </li>
 <li>
-<p>School-based Student Care Centre Registration - <a href="admission_cls_hgps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_hgps@commitlearning.com.sg</a> or
+<p>School-based Student Care Centre Registration: <a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=61" rel="noopener nofollow" target="_blank">https://cls.cyberland.sg/scc/sccapplication.php?CentreID=61</a>
+</p>
+<p>Contact: <a href="admission_cls_hgps@commitlearning.com.sg" rel="noopener nofollow" target="_blank">admission_cls_hgps@commitlearning.com.sg</a> or
 call 84534554</p>
 <p></p>
 </li>
