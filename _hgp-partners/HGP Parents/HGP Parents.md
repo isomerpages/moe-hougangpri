@@ -3,6 +3,7 @@ title: HGP Parents
 permalink: /hgp-partners/hgp-parents/main/
 description: ""
 third_nav_title: HGP Parents
+variant: markdown
 ---
 [Forms & Links for Parents](https://www.hougangpri.moe.edu.sg/hgp-partners/resources-for-parents/)
 
