@@ -3,10 +3,10 @@ title: School Bus
 permalink: /hgp-partners/hgp-vendors/sch-bus/
 description: ""
 third_nav_title: HGP Vendors
+variant: tiptap
 ---
-#### School Bus Services
-
-
-[School Bus Operator and Bus Fare](/files/2024%20-%202025%20school%20bus%20operator%20and%20bus%20fare.pdf)
-
-[Request for School Bus Services](/files/request%20for%20school%20bus%20services%20(version%20june%202023).pdf)
+<h4>School Bus Services</h4>
+<p><a href="/files/2026___2027_School_Bus_Operator_and_Bus_Fare.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Operator and Bus Fare</a>
+</p>
+<p><a href="/files/Request_for_School_Bus_Services_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
