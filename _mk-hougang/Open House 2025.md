@@ -14,9 +14,5 @@ the Open House below.</p>
 <p><a href="/files/MKOH_2025_MKHG.pdf" rel="noopener nofollow" target="_blank">MK@Hougang Open House 2025 Briefing Slides</a>
 </p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_I_oEFSKCec?si=H6FGo4-VKfoJj7Dr"></iframe>
-</div>
-<p></p>
 <p></p>
 <p></p>

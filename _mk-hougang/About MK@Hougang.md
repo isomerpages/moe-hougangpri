@@ -34,5 +34,8 @@ no KCare service in the morning.</p>
 to Singapore Citizens and Permanent Residents aged 5 and 6. Learn about
 our curriculum, learning environment and whether it’s right for your child
 at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>.</p>
-<p></p>
+<p>Find out more about us at MK@Hougang!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zfSifpvM-QM?si=4Tkwqv6cWQZch0vJ"></iframe>
+</div>
 <p></p>
