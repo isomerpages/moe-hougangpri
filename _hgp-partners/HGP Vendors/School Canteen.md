@@ -16,6 +16,42 @@ the four food groups, ie. rice/noodles, meat, vegetable and fruit. The
 Canteen Menu can be found below.</p>
 <p><a href="/files/Canteen_Stalls_Menu_2025_aa_30_Jun_25.pdf" rel="noopener nofollow" target="_blank">Canteen Menu 2025</a>
 </p>
+<p></p>
+<h4>School Canteen Advertisement</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Snacks and Drinks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal/Non-Halal stalls are welcome</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Canteen Vendor Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for
