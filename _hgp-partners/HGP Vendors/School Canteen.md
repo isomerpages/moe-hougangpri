@@ -56,7 +56,7 @@ Canteen Menu can be found below.</p>
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
