@@ -50,6 +50,17 @@ Canteen Menu can be found below.</p>
 <p>Halal/Non-Halal stalls are welcome</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open to Proposal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal/Non-Halal stalls are welcome</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Canteen Vendor Application Procedure</strong>
