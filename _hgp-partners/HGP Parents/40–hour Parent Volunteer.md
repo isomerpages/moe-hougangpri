@@ -6,7 +6,7 @@ third_nav_title: HGP Parents
 variant: tiptap
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
-<p>Parent Volunteer Registration for&nbsp;<strong>2027 Primary 1</strong>&nbsp;admission
+<p>Parent Volunteer Registration for&nbsp;<strong>2028 Primary 1</strong>&nbsp;admission
 will be opened from&nbsp;<strong>1 May 2025 to 31 May 2026.</strong>
 </p>
 <p><strong>TERMS AND CONDITIONS</strong>
@@ -87,7 +87,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2020</strong>
+<p><strong>2021</strong>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUL 2026</p>
+<p>JUL 2027</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAN 2027</p>
+<p>JAN 2028</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUNE 2025</p>
+<p>JUNE 2026</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULY 2025 onwards</p>
+<p>JULY 2026 onwards</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 31 MAY 2026</p>
+<p>by 31 MAY 2027</p>
 </td>
 </tr>
 </tbody>
@@ -151,5 +151,5 @@ Permanent Residents.</p>
 <p>*Click <strong><a href="https://form.gov.sg/5d5b7b8b1d6c350019ea6eb2" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 download the Parent Volunteer Registration Form**</p>
 <p>For any queries, you may email Mdm Hamsiah Ahmad at&nbsp;<a href="mailto:hamsiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamsiah_ahmad@moe.edu.sg</a>&nbsp;or
-Mr Miguel Li at <a href="mendonca_li_nuno_miguel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mendonca_li_nuno_miguel@moe.edu.sg.</a>
+Mdm Nur Sri at <a href="nur_sri_saban@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_sri_saban@schools.gov.sg</a>
 </p>
