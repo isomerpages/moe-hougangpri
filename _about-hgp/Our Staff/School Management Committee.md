@@ -91,7 +91,7 @@ variant: tiptap
 <p>Head Of Department (Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Kian Keong</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -208,6 +208,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Li Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head (ICT &amp; Innovation)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,6 +244,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Chai Ching Veena</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Management)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Jing Xuan Xavier</p>
 </td>
 </tr>
 </tbody>
