@@ -75,7 +75,7 @@ variant: tiptap
 <p>Head Of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Meow Koon</p>
+<p>Ong Yin Chiun Susan (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>Head Of Department (Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fong Baoyu (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p>Year Head (P1, P2, P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vathsala Balakrishnan</p>
@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 &amp; P4)</p>
+<p>Year Head (P4, P5, P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Hui Leng</p>
@@ -144,15 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 &amp; P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Yin Chiun, Susan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1)</p>
+<p>Assistant Year Head (P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nur Adawiyah Bte Rosli</p>
@@ -168,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P6)</p>
+<p>Assistant Year Head (P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Hong Wah, Desmond</p>
@@ -180,14 +172,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chee Poh Lai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (Chinese)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fong Baoyu</p>
 </td>
 </tr>
 <tr>
