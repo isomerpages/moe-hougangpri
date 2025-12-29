@@ -69,7 +69,8 @@ variant: tiptap
 <p>Suzana Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="suzana_abdul_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">suzana_abdul_rahim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +81,8 @@ variant: tiptap
 <p>Sim Wee Cheng, Judith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sim_wee_cheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_wee_cheng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +90,8 @@ variant: tiptap
 <p>Sabariah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="sabariah_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">sabariah_ismail@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +102,8 @@ variant: tiptap
 <p>&nbsp;Chee Poh Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chee_poh_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_poh_lai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +111,8 @@ variant: tiptap
 <p>Kong Song Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kong_song_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_song_yin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +123,8 @@ variant: tiptap
 <p>Ho Jia Le, Larissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_jia_le_larissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jia_le_larissa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +132,8 @@ variant: tiptap
 <p>Khoo Ee Yan, Olivia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khoo_ee_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ee_yen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +144,8 @@ variant: tiptap
 <p>Leck Choo Jin, Alison</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:alison_leck_choo_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alison_leck_choo_jin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +153,8 @@ variant: tiptap
 <p>Renie Ashsyakirin Bte Adnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:renie_ashsyakirin_adnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">renie_ashsyakirin_adnan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +162,8 @@ variant: tiptap
 <p>Ung Siew Kwang, Mary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ung_siew_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ung_siew_kwang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +178,8 @@ variant: tiptap
 <p>Tan Hwee Chin, Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_hwee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_chin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +187,8 @@ variant: tiptap
 <p>Hazeenah Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hazeenah_bee_abdul_latip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazeenah_bee_abdul_latip@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +199,8 @@ variant: tiptap
 <p>Gui Sheau Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gui_sheau_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gui_sheau_li@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +208,8 @@ variant: tiptap
 <p>Zhang Zhaoling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_zhaoling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zhaoling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +220,8 @@ variant: tiptap
 <p>Tan Ser Yunn, Kevin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_ser_yunn_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ser_yunn_kevin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +229,8 @@ variant: tiptap
 <p>Nasyrah Fitriawaty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nasyrah_fitriawaty_ahmad_putri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nasyrah_fitriawaty_ahmad_putri@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +291,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="13" colspan="1">
 <p><strong>P3</strong>
 </p>
 </td>
@@ -371,11 +387,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pan Kai Wei, Ashley</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -383,7 +399,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Juhaizan Bin Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Pei Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -398,7 +422,7 @@ variant: tiptap
 <p>A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Beng Hong, Eythan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -406,26 +430,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Choi Hwee, Gillian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -433,10 +438,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
+<p>B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kalaivani Balrasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seow Kaifeng, Reuben</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Tien Lung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Muhammad Aliff Asraf</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -444,15 +476,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Tong Hwee Kwan, Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -463,7 +487,7 @@ variant: tiptap
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lek Su San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -471,7 +495,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zarina Bte Sidik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -482,7 +506,7 @@ variant: tiptap
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chia Choong Kit, Jameson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -490,14 +514,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tay Kim Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="13" colspan="1">
 <p><strong>P5</strong>
 </p>
 </td>
@@ -505,7 +529,7 @@ variant: tiptap
 <p>A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wong Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -513,18 +537,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zarinah Bte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Chye Hee, Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -532,15 +556,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ellene Prashanti D/O T Yogarajah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -551,7 +567,7 @@ variant: tiptap
 <p>C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toh Zhi Hao Joel Nathaniel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -559,7 +575,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yap Lin Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -567,18 +583,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chan Nai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Mun Sing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -586,18 +602,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Goh Lee Yen, Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Sahernizam Bin Limat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Guan Chin, Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -605,18 +629,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Hong Wah, Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -624,7 +637,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tee Wen Chi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -635,11 +648,11 @@ variant: tiptap
 <p><strong>P6</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hamsiah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -647,18 +660,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Seah Kai Ren, Harold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Lim Li Tiang, Lena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Hui Heng, Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -666,7 +687,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nurhayati Bte Rosli</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Chai Ching, Veena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -677,7 +706,7 @@ variant: tiptap
 <p>C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fong Baoyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -685,7 +714,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gangadaran Khaanchennah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -693,18 +722,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ratni Suriyani Bte Saib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Arlitaharianty Sayrol</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -712,26 +741,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ser Yun Sheng, Julian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chia Gek Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -739,15 +760,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Wee San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -758,7 +771,7 @@ variant: tiptap
 <p>F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chia Ee San, Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -766,7 +779,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tang Yuk Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
