@@ -14,7 +14,7 @@ vegetables and whole-grains Reduce intake of high fat, salt and sugar Under
 this programme, stallholders will be selling set meal that consists of
 the four food groups, ie. rice/noodles, meat, vegetable and fruit. The
 Canteen Menu can be found below.</p>
-<p><a href="/files/Canteen_Stalls_Menu_2026_as_of_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Canteen Menu 2026</a>
+<p><a href="/files/02__Canteen_Stalls_Menu_2025_as_of_23_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Canteen Menu 2026</a>
 </p>
 <p></p>
 <h4>School Canteen Advertisement</h4>
@@ -55,7 +55,7 @@ Canteen Menu can be found below.</p>
 <p>Open to Proposal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Mar 2026</p>
+<p>31 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal/Non-Halal stalls are welcome</p>

@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>School Profile</strong></h4>
 <h4><a href="https://tubear.co/3d-model/hougang-primary-school/fullscreen/" rel="noopener noreferrer nofollow" target="_blank">HGP Virtual Tour</a></h4>
-<p>Hougang Primary School (HGP) celebrates its 25<sup>th</sup>&nbsp;Anniversary
+<p>Hougang Primary School (HGP) celebrated its 25<sup>th</sup>&nbsp;Anniversary
 in 2025. Founded in 2000 with an enrolment of around 600 students and a
 modest staff size of 20, the school has grown from strength to strength
 under the leadership of its former principals Mr Goh Ek Piang (2000 to
