@@ -135,8 +135,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening Hours: Mon - Thurs: 8am - 5.30pm, Fri: 8am - 5pm</p>
-<p>Lunch break: 1-2pm</p>
+<p>Opening Hours: Mon - Thurs: 8am - 5.30pm, Fri: 8am - 5pm (Lunch break:
+1-2pm)</p>
 <p>Saturday: 10am - 2pm</p>
 <p>Closed on Sundays &amp; PHs</p>
 </td>
