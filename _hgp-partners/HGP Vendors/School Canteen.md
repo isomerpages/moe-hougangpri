@@ -26,6 +26,21 @@ Canteen Menu can be found below.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>We have closed the application for canteen vendors for Hougang Primary School.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Type of Stall</strong>
 </p>
@@ -41,24 +56,13 @@ Canteen Menu can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snacks and Drinks</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2026</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal/Non-Halal stalls are welcome</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Open to Proposal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 March 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Halal/Non-Halal stalls are welcome</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>

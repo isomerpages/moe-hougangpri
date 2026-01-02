@@ -141,6 +141,50 @@ description: ""
 <p>xiao_yue_a@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Amina Nadya Binte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>De-Souza Su-Anne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Say Xiangrui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
