@@ -108,10 +108,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening Hours: Mon - Thurs: 8am - 5.30pm, Fri: 8am - 5pm</p>
-<p>Lunch break: 1-2pm</p>
-<p>Saturday: 10am - 2pm</p>
-<p>Closed on Sundays &amp; PHs</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -130,16 +127,18 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Support Centre</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://jeepsing.zendesk.com/hc/en-sg</a>
+<p>Support Centre <a rel="noopener noreferrer nofollow" target="_blank">https://jeepsing.zendesk.com/hc/en-sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jeepsing.zendesk.com/hc/en-sg" rel="noopener noreferrer nofollow" target="_blank">https://jeepsing.zendesk.com/hc/en-sg</a>
+<p><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Opening Hours: Mon - Thurs: 8am - 5.30pm, Fri: 8am - 5pm</p>
+<p>Lunch break: 1-2pm</p>
+<p>Saturday: 10am - 2pm</p>
+<p>Closed on Sundays &amp; PHs</p>
 </td>
 </tr>
 <tr>
