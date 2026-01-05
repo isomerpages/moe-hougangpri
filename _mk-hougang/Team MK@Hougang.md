@@ -149,7 +149,7 @@ description: ""
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>amina_nadya_abdul_rahman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ description: ""
 <p>EL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>suanne_de_souza@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ description: ""
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>li_wei_A_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
