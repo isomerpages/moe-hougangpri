@@ -171,7 +171,7 @@ description: ""
 <p>CL Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>li_wei_A_1@moe.edu.sg</p>
+<p>li_wei_a_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
