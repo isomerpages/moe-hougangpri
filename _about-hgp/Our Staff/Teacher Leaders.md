@@ -55,14 +55,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ung Siew Kwang, Mary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
