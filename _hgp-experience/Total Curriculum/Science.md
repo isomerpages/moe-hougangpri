@@ -14,8 +14,9 @@ and attitudes. In addition, as and where the topics lend themselves, the
 technological applications, social implications and the value aspects of
 science are also considered. It also emphasizes the broad ranging fundamental
 concepts in the natural and physical world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/sci.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/sci_curriculum.jpg">
 </div>
 <p>The above framework encapsulates the thrust of science education in Singapore
 to prepare our students to be sufficiently adept as effective citizens,
