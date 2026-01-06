@@ -31,6 +31,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lead Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Meow Koon (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
