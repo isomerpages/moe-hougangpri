@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4>CCA Schedule 2026</h4>
-<table style="minWidth: 275px">
+<table style="minWidth: 250px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -23,10 +22,6 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>#</strong>
-</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><strong>CCA</strong>
@@ -72,9 +67,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>F.A.S.T</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -114,9 +106,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>2</p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Wushu</p>
 </td>
@@ -176,9 +165,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Football</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -230,9 +216,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="2" colspan="1">
 <p>Sport Climbing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,9 +262,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="4" colspan="1">
 <p>Hockey</p>
 </td>
@@ -332,9 +312,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
-<p>6</p>
-</td>
 <td rowspan="6" colspan="1">
 <p>Volleyball</p>
 </td>
@@ -442,9 +419,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Infocomm Club</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -480,9 +454,6 @@ variant: tiptap
 <tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="2" colspan="1">
 <p>Media Resource Library</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -517,9 +488,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="2" colspan="1">
 <p>Eco-Green Club</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -553,9 +521,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>4</p>
-</td>
 <td rowspan="2" colspan="1">
 <p>Photography Club</p>
 </td>
@@ -593,9 +558,6 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p><strong>UG</strong>
 </p>
-</td>
-<td rowspan="3" colspan="1">
-<p>1</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Scouts</p>
@@ -642,9 +604,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Chinese Dance</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -684,9 +643,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Malay Dance</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -725,9 +681,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>3</p>
-</td>
 <td rowspan="4" colspan="1">
 <p>Brass Band</p>
 </td>
@@ -769,9 +722,6 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>4</p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Indian Dance</p>
 </td>
@@ -817,9 +767,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="4" colspan="1">
 <p>Ballet</p>
 </td>
@@ -869,9 +816,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>6</p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Guzheng Ensemble</p>
 </td>
@@ -923,9 +867,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>Angklung</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -975,9 +916,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="4" colspan="1">
 <p>Art Club</p>
 </td>
 <td rowspan="4" colspan="1">
@@ -1021,9 +959,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>10</p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Drama Club</p>
 </td>
