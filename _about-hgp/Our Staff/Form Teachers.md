@@ -394,10 +394,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maris Stella Felix</p>
+<p>Lim Pei Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="maris_stella_felix@moe.edu.sg" rel="noopener nofollow" target="_blank">maris_stella_felix@moe.edu.sg</a>
+<p><a href="lim_pei_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
