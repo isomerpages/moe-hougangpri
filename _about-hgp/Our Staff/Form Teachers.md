@@ -424,10 +424,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Pei Wen</p>
+<p>Ng Hong Wah, Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_pei_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_wen@moe.edu.sg</a>
+<p><a href="ng_hong_wah_desmond@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_hong_wah_desmond@moe.edu.sg</a>
 </p>
 </td>
 </tr>
