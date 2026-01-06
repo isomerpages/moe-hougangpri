@@ -326,7 +326,7 @@ variant: tiptap
 <p>Ng Lai Leng (Sem 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lai_leng@moe.edu.sg</a>
+<p><a href="ng_lai_leng_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lai_leng_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
