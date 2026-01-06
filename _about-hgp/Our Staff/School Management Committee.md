@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department (English &amp; Social Studies)</p>
+<p>Head Of Department (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pushpalalitha Nathan Nee Haridas</p>
