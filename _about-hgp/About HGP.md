@@ -90,7 +90,7 @@ Singapore.</p>
 <p>7.30am to 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00am - 9.30am</p>
+<p>9.30am to 10am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Around 12 noon (5 to 10 mins)</p>
@@ -110,7 +110,7 @@ Singapore.</p>
 <p>7.30am to 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30am - 10.00am</p>
+<p>10am to 10.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Around 12 noon (5 to 10 mins)</p>
@@ -130,7 +130,7 @@ Singapore.</p>
 <p>7.30am to 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00am - 10.30am</p>
+<p>10am to 10.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Around 12 noon (5 to 10 mins)</p>
@@ -150,7 +150,7 @@ Singapore.</p>
 <p>7.30am to 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30am - 11.00am</p>
+<p>10.30am to 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Around 12 noon (5 to 10 mins)</p>
@@ -170,7 +170,7 @@ Singapore.</p>
 <p>7.30am to 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00am - 11.30am</p>
+<p>10.30am to 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Around 12 noon (5 to 10 mins)</p>
@@ -190,7 +190,7 @@ Singapore.</p>
 <p>7.30am to 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30am - 12.00nn</p>
+<p>11am to 11.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.30am</p>

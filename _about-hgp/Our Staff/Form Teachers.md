@@ -326,7 +326,7 @@ variant: tiptap
 <p>Ng Lai Leng (Sem 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lai_leng@moe.edu.sg</a>
+<p><a href="ng_lai_leng_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lai_leng_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -389,15 +389,16 @@ variant: tiptap
 <p>Koh Li Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_li_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maris Stella Felix</p>
+<p>Lim Pei Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="maris_stella_felix@moe.edu.sg" rel="noopener nofollow" target="_blank">maris_stella_felix@moe.edu.sg</a>
+<p><a href="lim_pei_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -424,10 +425,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Pei Wen</p>
+<p>Ng Hong Wah, Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_pei_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_wen@moe.edu.sg</a>
+<p><a href="ng_hong_wah_desmond@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_hong_wah_desmond@moe.edu.sg</a>
 </p>
 </td>
 </tr>

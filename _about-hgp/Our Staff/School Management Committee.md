@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department (English &amp; Social Studies)</p>
+<p>Head Of Department (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pushpalalitha Nathan Nee Haridas</p>
@@ -155,7 +155,7 @@ variant: tiptap
 <p>Assistant Year Head (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhd Aliff Asraf</p>
+<p>Ng Hong Wah, Desmond</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ variant: tiptap
 <p>Assistant Year Head (P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Hong Wah, Desmond</p>
+<p>Muhd Aliff Asraf</p>
 </td>
 </tr>
 <tr>
