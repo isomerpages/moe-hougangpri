@@ -66,5 +66,4 @@ leave no one behind.</p>
 to grow and harness the power of me in a we-first society – one where every
 individual says “I can, I care, and I contribute” with both confidence
 and conviction. Here's to a fruitful and fulfilling year ahead!</p>
-<p>Jason Goh</p>
-<p>Principal</p>
+<p>Jason Goh, Principal, HGP</p>
