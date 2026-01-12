@@ -4,71 +4,66 @@ permalink: /about-hgp/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>“Come whatever on the road ahead</p>
-<p>We did it before, and we’ll do it again.”</p>
-<p><em>– </em>From<em> The Road Ahead </em>(NDP 2021 Theme Song)</p>
-<p></p>
-<p><strong>We Did It Before, and We Will Do It Again!</strong>
+<p>“But if each of us does our part for the ‘we’ – care, contribute, and
+look out for one another – then the ‘me’ will thrive and flourish too.”</p>
+<p><em>– </em>Prime Minister Lawrence Wong, National Day Rally 2025</p>
+<p><strong>Growing and Harnessing the Power of <em>Me</em> in a <em>We</em>-First Society</strong>
 </p>
-<p>Happy new year to all! A warm welcome to our new P1 students and parents.
-To all our existing students, a very warm welcome back home. With the opening
-of our new MOE Kindergarten MK@Hougang, I am also delighted to welcome
-our K1 students and their parents to our newly expanded Hougang Primary
-(HGP) family!</p>
-<p>This year, we will be celebrating an important milestone, as HGP turns
-25 and welcomes the birth of its kindergarten! While we mark the school’s
-silver jubilee, i.e. HGP25, with pride and joy, it is important that we
-reflect on our journey thus far and reimagine the road ahead to bring the
-school forward.</p>
+<p>Happy new year to all! A very warm welcome to our new P1 and K1 students,
+as well as their parents. To all our existing students, a very warm welcome
+back home!</p>
 <p></p>
-<p>Since its founding at the start of the millennium, the school has focused
-on holistic education and character development for our children. This
-has enabled HGP to build a strong school identity and remain a choice school
-in the northeastern region of Singapore. Today, HGPians enjoy a wide range
-of learning opportunities outside the classroom, such as learning journeys,
-school-based enrichment programmes and co-curricular activities (CCAs).
-Our well-established Applied Learning Programme in Science and Learn for
-Life Programme in Outdoor Education provide authentic, collaborative and
-hands-on learning experiences that not only expand our children’s knowledge
-beyond the textbook, but also deepen their values as well as strengthen
-their socio-emotional competencies. Collectively, these have translated
-to positive outcomes in terms of student engagement and performance, both
-academically and non-academically. Indeed, we are immensely proud that
-one of our students from the graduating cohort of 2023 received the prestigious
-Lee Kuan Yew Award for All-Round Excellence (Primary Section) last year
-for embodying our school motto for every child to Excel with Character.</p>
+<p>We commemorated Hougang Primary’s (HGP’s) 25th anniversary, or Silver
+Jubilee, with pride and joy last year. Besides celebrating the growth and
+achievements of the school since it was founded, the momentous year also
+marked the beginning of a new chapter in the HGP Story.</p>
 <p></p>
-<p>In hindsight, the path taken by the school in the past 25 years has been
-tremendously purposeful and rewarding. With the ongoing shifts in the education
-landscape to better prepare students for an enigmatic and exciting future,
-the road ahead for the school is likely to be filled with new and innumerable
-possibilities for learning and growth, like when we first started our journey
-more than two decades ago. This prompted us to take bold steps to transform
-the learning spaces and experiences for our students, even as we stay committed
-to our fundamental beliefs in holistic education and character development.
-In 2024, we embarked on a reimagination and rebranding of the school library.
-Called World of Wonders @ HGP, the newly renovated library aims to wow
-the children in the future of learning, by piquing their curiosity and
-arousing their interest in reading. The recent roll-out of the Emerging
-21<sup>st</sup> Century Competencies (E21CC) framework and Ed Tech Masterplan
-initiative by MOE have also provided us with the impetus to redesign our
-students’ learning. In line with these national imperatives, the school
-will build on existing platforms and scale up innovative practices in the
-coming years to accelerate our students’ acquisition and application of
-the E21CC, as well as infuse technology-enabled learning experiences in
-the curriculum.</p>
+<p>During the National Day Rally in 2025, Prime Minister Lawrence Wong called
+on Singaporeans to build a “we-first” society by uplifting one another
+instead of just looking out for their self-interests. This message is clearly
+encapsulated in our school vision to nurture our students into Future-Ready
+Thinkers with a Heart for Others. Indeed, we firmly believe that all HGPians
+hold the power to build a brighter future – not only for themselves but
+also for the people around them.</p>
 <p></p>
-<p>Last year, we engaged and empowered our staff, students, parents, alumni
-and School Advisory Committee in the conceptualisation and painting of
-a wall mural entitled “The Future of Singapore and Future of Learning”
-outside the staff room. Under the guidance of a local artist, everyone
-played a part to complete this meaningful and memorable masterpiece depicting
-the future that we imagine collectively. As the school embarks on the road
-ahead, we call on the continued support and partnership of all our stakeholders,
-in order to turn any adversity and challenges into renewed hope and opportunities,
-propelling us towards HGP50 and beyond. We did it before, and we will do
-it again!</p>
-<p>Happy 25<sup>th</sup> Birthday, HGP!</p>
-<p>Jason Goh</p>
-<p>Principal</p>
-<p>&nbsp;</p>
+<p>In HGP, we are committed to bring out the best in our children and help
+them succeed in life, regardless of their starting point. The rapid proliferation
+of educational technology, including artificial intelligence (AI) tools,
+has enabled teachers to design more engaging and effective lessons, as
+well as allowed students to access quality learning anytime and anywhere.
+Beyond the classroom, HGPians continue to enjoy a rich buffet of learning
+opportunities. The school’s Applied Learning Programme in Science and Learn
+for Life Programme in Outdoor Education provide real-world and hands-on
+learning experiences to deepen our students’ emerging 21st century competencies
+(E21CC). Cognizant of our students’ diverse talents, they can choose from
+a wide range of co-curricular activities (CCAs) designed to enable them
+to discover their interests and develop their strengths. The school has
+also transformed its learning spaces in recent years, such as our World
+of Wonders (WOW) (i.e. school library), Abseiling Tower, and the newly
+opened E21CC Learning Space, providing enriching environments that promote
+curiosity and build resilience.</p>
+<p></p>
+<p>By helping our students find purpose and success in life, we believe that
+they will be better able and more motivated to pay it forward. A “we-first
+society” is not about putting self below others, but rather about recognising
+that our individual strengths shine brightest when used to uplift one another.
+Whether it’s a student helping a classmate, a teacher inspiring a student,
+or a parent partnering a teacher, every act matters. Ultimately, “we” must
+begin with “me” – my beliefs, my choices and most importantly, my action.</p>
+<p></p>
+<p>The need to instill care and compassion in our young has come to the fore
+in a world that is becoming increasingly disrupted and divided. To do so,
+the school has ramped up its efforts in the Values-in-Action (VIA) curriculum,
+by introducing a school-wide “Together With Grands (TWG)” intergenerational
+learning programme. Students learn and apply the values of respect, kindness
+and empathy when interacting with and engaging seniors from various Active
+Aging Centres. Staff also lead by example through their participation in
+the Food From The Heart (FFTH) initiative, by delivering monthly food hampers
+to families in need. Over time, these collective and concerted efforts
+will go a long way in building a more compassionate school and nation that
+leave no one behind.</p>
+<p>Hence, as we chart our way forward from HGP25 to HGP50, let us continue
+to grow and harness the power of me in a we-first society – one where every
+individual says “I can, I care, and I contribute” with both confidence
+and conviction. Here's to a fruitful and fulfilling year ahead!</p>
+<p>Jason Goh, Principal, HGP</p>
