@@ -29,7 +29,7 @@ in our children’s education journey.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hsu Fan Han&nbsp;</p>
+<p>Ms. Hsu Fan Han&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -37,12 +37,12 @@ in our children’s education journey.</p>
 <p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hannah Heah</p>
+<p>Ms. Hannah Heah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sivagami Suparamaniam (Amy)</p>
+<p>Ms. Sivagami Suparamaniam (Amy)</p>
 </td>
 </tr>
 <tr>
@@ -50,47 +50,47 @@ in our children’s education journey.</p>
 <p>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angeline Soh</p>
+<p>Ms. Angeline Soh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Balkish Bibi Abdullah</p>
+<p>Ms. Balkish Bibi Abdullah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christy Lye Siew Lih</p>
+<p>Ms. Christy Lye Siew Lih</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girija</p>
+<p>Ms. Girija Vishnu Vardhan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nithiya Thigaraja</p>
+<p>Ms. Nithiya Thigaraja</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roslinah Binte Mohd Ali&nbsp;</p>
+<p>Ms. Roslinah Binte Mohd Ali&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Toh Soon Heng</p>
+<p>Mr. Toh Soon Heng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Viswanath Dinesh Kumar</p>
+<p>Mr. Viswanath Dinesh Kumar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Ai Wa</p>
+<p>Ms. Wong Ai Wa</p>
 </td>
 </tr>
 </tbody>
