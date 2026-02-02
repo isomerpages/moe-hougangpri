@@ -18,21 +18,8 @@ Canteen Menu can be found below.</p>
 </p>
 <p></p>
 <h4>School Canteen Advertisement</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>We have closed the application for canteen vendors for Hougang Primary School.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>We are inviting applications for Halal snacks stall. Snacks can be waffles,
+curry puffs, whole-meal sandwiches, kueh, etc.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -56,13 +43,13 @@ Canteen Menu can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Snacks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>28 Feb 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Halal stall is welcome</p>
 </td>
 </tr>
 </tbody>
