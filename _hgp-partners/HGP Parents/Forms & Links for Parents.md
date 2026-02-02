@@ -9,9 +9,9 @@ variant: tiptap
 <p><strong>Letter for Student's Absence from School</strong> - Please click
 <a href="https://go.gov.sg/hgp-pgxscm-userguide" rel="noopener nofollow" target="_blank">here</a>to refer to the user guide to submit the document for your child's
 absence through Parents Gateway</p>
-<p><a href="https://go.gov.sg/gpaproductsheet2023" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for Students Factsheet</a>
+<p><a href="https://go.gov.sg/student-claims-fact-sheet-2026" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for Students Factsheet</a>
 </p>
-<p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Claims Portal</a>
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Claims Portal</a>
 </p>
 <p><a href="https://form.gov.sg/641d41fe87c4320012288ba0" rel="noopener noreferrer nofollow" target="_blank">School Transfer Application</a>
 </p>
