@@ -32,5 +32,8 @@ the link below.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/mk_open_house_2026_qr.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_to_MK___Hougang_Open_House_jpg.jpg">
+</div>
 <p></p>
 <p></p>
