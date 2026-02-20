@@ -7,7 +7,7 @@ description: ""
 <h3>Our MK@Hougang Team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Hougang/MK_Staff_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKHGP_Team_2026.jpg">
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -172,17 +172,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>li_wei_a_1@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Say Xiangrui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CL Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
