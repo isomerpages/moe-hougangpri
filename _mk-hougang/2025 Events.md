@@ -4,9 +4,10 @@ permalink: /mk-2025-events/
 variant: tiptap
 description: ""
 ---
-<p><strong>Look through our photo gallery below taken during events this year for MK@Hougang!</strong>
+<p><strong>Look through our gallery below taken during events this year for MK@Hougang!</strong>
 </p>
+<p>Performance by our MK students during CNY Celebrations 2026</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTumbaoodtuEi5zCzO5FMFc7L2--BYG1Ie5UKwKeFRvvdgiOOzxUYyw8-v6y1_QykjtDKj6xQeH2IX8/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lQ2zwu3cbUQ?si=vB7TEl5Wo1T74JGP"></iframe>
 </div>
 <p></p>
