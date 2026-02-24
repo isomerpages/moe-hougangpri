@@ -13,15 +13,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="https://www.westspringpri.moe.edu.sg/images/MK/2023%20Reading.png">
 </div>
-<p>MOE Kindergarten @ Hougang will begin operations in January 2025. Sited
-at Hougang Primary School, it will offer Kindergarten 1 and Kindergarten
-2 programmes to Singapore Citizens and Permanent Residents. MK@Hougang
-will also have a Kindergarten Care (KCare) service that offers after school
-care enrolled MK children.</p>
-<p>MK@Hougang will provide an additional 30 minutes of MTL programme and
-our operating hours will be different from other MKs. There will also be
-no KCare service in the morning.</p>
-<p>In <strong>2025</strong>, MK@Hougang will only admit <strong>K1 students</strong>.</p>
+<p>MOE Kindergarten @ Hougang began operations in January 2025. Sited at
+Hougang Primary School, it offers Kindergarten 1 and Kindergarten 2 programmes
+to Singapore Citizens and Permanent Residents. MK@Hougang will also have
+a Kindergarten Care (KCare) service that offers after school care enrolled
+MK children.</p>
+<p>MK@Hougang provides an additional 30 minutes of MTL programme and our
+operating hours will be different from other MKs. There will also be no
+KCare service in the morning.</p>
 <p>For more information on MOE Kindergartens please visit the website at
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten</u> 
 </a>.</p>
@@ -36,6 +35,6 @@ our curriculum, learning environment and whether it’s right for your child
 at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>.</p>
 <p>Find out more about us at MK@Hougang!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zfSifpvM-QM?si=4Tkwqv6cWQZch0vJ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zfSifpvM-QM?si=4Tkwqv6cWQZch0vJ"></iframe>
 </div>
 <p></p>
