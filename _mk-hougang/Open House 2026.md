@@ -36,4 +36,7 @@ the link below.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_to_MK___Hougang_Open_House_jpg.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Design_23_Feb_2026_v2.jpg">
+</div>
 <p></p>
