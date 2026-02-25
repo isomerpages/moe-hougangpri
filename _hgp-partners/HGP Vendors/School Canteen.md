@@ -46,7 +46,7 @@ curry puffs, whole-meal sandwiches, kueh, etc.</p>
 <p>Snacks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb 2026</p>
+<p>31 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal stall is welcome</p>
