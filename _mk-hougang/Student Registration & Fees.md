@@ -4,17 +4,29 @@ permalink: /mk-hougang/mkregistration/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 MOE Kindergarten@Hougang Intake</strong></h4>
+<h4><strong>MOE Kindergarten@Hougang Enrolment</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="https://www.westspringpri.moe.edu.sg/images/Starlight.jpg">
 </div>
-<p>For parents who would like to enrol their child in MK@Hougang (child is
-Singapore Citizen (SC) or Permanent Resident (PR) born between 2 January
-2020 and 1 January 2021 (both dates inclusive)), you are required to fill
-up the waitlist form below for consideration.</p>
-<p>Link to form: <a href="https://go.gov.sg/mkhg-waitlist" rel="noopener noreferrer nofollow" target="_blank">MK@ Hougang Waitlist Application Form</a>
+<p><strong>MOE Kindergarten@Hougang Enrolment</strong>
 </p>
-<p>You will be contacted once there is suitable vacancy for your child.</p>
+<p>Your child is eligible to register for Kindergarten 1 (K1) at an MOE Kindergarten
+if they meet both requirements:&nbsp;</p>
+<p><strong>Citizenship:</strong> Your child must be a Singapore Citizen or
+Permanent Resident.</p>
+<p><strong>Age requirements by admission year:</strong>
+</p>
+<p><strong>For 2026 K1 admission:</strong> Your child must be born between
+2 January 2021 and 1 January 2022 (inclusive of both dates).</p>
+<p><strong>For 2027 K1 admission:</strong> Your child must be born between
+2 January 2022 and 1 January 2023 (inclusive of both dates).</p>
+<p><strong>How to apply:</strong>
+</p>
+<p>You are required to complete the waitlist form below for consideration.</p>
+<p>You will be contacted once there is a suitable vacancy for your child.</p>
+<p><strong>Link to form:</strong>  <a href="https://go.gov.sg/mkhg-waitlist2026" rel="noopener noreferrer nofollow" target="_blank">MK@ Hougang Waitlist Application Form</a>
+</p>
+<p></p>
 <p><strong>Monthly fees for MK</strong>
 </p>
 <p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten/fees</u></a>&nbsp;</p>
