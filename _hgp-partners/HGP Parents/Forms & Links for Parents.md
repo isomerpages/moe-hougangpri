@@ -21,3 +21,5 @@ absence through Parents Gateway</p>
 </p>
 <p><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">eFinancial Assistance Scheme (eFAS) Application Form</a>
 </p>
+<p><a href="https://go.gov.sg/hgp-sls-mims-help" rel="noopener nofollow" target="_blank">MIMS/SLS Help Form</a>
+</p>
