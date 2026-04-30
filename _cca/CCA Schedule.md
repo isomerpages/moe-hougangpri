@@ -640,38 +640,38 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="32" colspan="1">
+<td rowspan="33" colspan="1">
 <p><strong>Arts</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Chinese Dance</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Thursday</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>P3-P6</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2.00 p.m.</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Xu Pei Fen (Mdm)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Dance Studio</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -683,6 +683,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Fong Baoyu (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Siok Kheng Grace (Ms) (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -801,17 +806,20 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>Indian Dance</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tuesday</p>
+<p>(Jan to Apr)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>P3- P6</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2.15 p.m.</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4.15 p.m.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gangadaran Khaanchennah (Mrs)</p>
@@ -831,27 +839,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Jan to Apr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ellene Prashanti D/O T Yogarajah (Mrs)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2.15 p.m.</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4.15 p.m.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Venoteny Thirumalai Rajan (Ms) - Term 2 onwards</p>
@@ -859,16 +861,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Siok Kheng Grace (Ms) (FAJT)</p>
+<p>Nirmala D/O Balakrishnan</p>
 </td>
 </tr>
 <tr>

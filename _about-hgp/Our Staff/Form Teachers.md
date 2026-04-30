@@ -670,10 +670,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Hong Wah, Desmond</p>
+<p>Maris Stella Felix</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hong_wah_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hong_wah_desmond@moe.edu.sg</a>
+<p><a href="mailto:maris_stella_felix@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maris_stella_felix@moe.edu.sg</a>
 </p>
 </td>
 </tr>
