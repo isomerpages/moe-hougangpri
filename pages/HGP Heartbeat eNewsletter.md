@@ -17,4 +17,5 @@ variant: tiptap
 </p>
 <p><a href="/files/HGP_Heartbeat_25th_Anniversary_Edition_reduced.pdf" rel="noopener nofollow" target="_blank">HGP Heartbeat Issue 08 (25th Anniversary Edition)</a>
 </p>
-<p></p>
+<p><a href="https://go.gov.sg/hgp-heartbeat-issue09" rel="noopener nofollow" target="_blank">HGP Heartbeat Issue 09 (Semester One 2026)</a>
+</p>
