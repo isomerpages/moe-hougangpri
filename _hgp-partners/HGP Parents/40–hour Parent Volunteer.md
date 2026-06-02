@@ -6,8 +6,8 @@ third_nav_title: HGP Parents
 variant: tiptap
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
-<p>Parent Volunteer Registration for&nbsp;<strong>2028 Primary 1</strong>&nbsp;admission
-will be opened from&nbsp;<strong>1 May 2025 to 31 May 2026.</strong>
+<p>Parent Volunteer Registration for&nbsp;<strong>2029 Primary 1</strong>&nbsp;admission
+will be opened from&nbsp;<strong>1 June 2026 to 31 May 2027.</strong>
 </p>
 <p><strong>TERMS AND CONDITIONS</strong>
 </p>
@@ -87,7 +87,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
+<p><strong>2022</strong>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUL 2027</p>
+<p>JUL 2028</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAN 2028</p>
+<p>JAN 2029</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 MAY 2025 - 31 MAY 2026</p>
+<p>1 JUNE 2026 - 31 MAY 2027</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUNE 2026</p>
+<p>JUNE 2027</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULY 2026 onwards</p>
+<p>JULY 2027 onwards</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ Permanent Residents.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 31 MAY 2027</p>
+<p>by 31 MAY 2028</p>
 </td>
 </tr>
 </tbody>
