@@ -6,8 +6,8 @@ third_nav_title: HGP Parents
 variant: tiptap
 ---
 <h4><strong>40-hour Parent Volunteer (PV)</strong></h4>
-<p>Parent Volunteer Registration for&nbsp;<strong>2028 Primary 1</strong>&nbsp;admission
-will be opened from&nbsp;<strong>1 May 2025 to 31 May 2026.</strong>
+<p>Parent Volunteer Registration for&nbsp;<strong>2029 Primary 1</strong>&nbsp;admission
+will be opened from&nbsp;<strong>1 June 2026 to 31 May 2027.</strong>
 </p>
 <p><strong>TERMS AND CONDITIONS</strong>
 </p>
