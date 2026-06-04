@@ -192,14 +192,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Koh Li Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head (ICT &amp; Innovation)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,64 +228,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Jing Xuan Xavier</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Appointment</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Description</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SSD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>YH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
 </td>
 </tr>
 </tbody>
