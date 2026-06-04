@@ -99,7 +99,7 @@ variant: tiptap
 <p>D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Chee Poh Lai</p>
+<p>Chee Poh Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_poh_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_poh_lai@moe.edu.sg</a>
