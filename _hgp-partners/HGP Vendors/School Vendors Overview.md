@@ -155,7 +155,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8453 4554</p>
+<p>89443989</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.commitlearning.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.commitlearning.com.sg/</a>
